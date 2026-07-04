@@ -28,10 +28,32 @@ const DECK_SECTION_LABELS: Record<string, string> = {
   contract:           "Contracts",
 };
 
+const COST_PILLS = ["X", "0", "1", "2", "3", "4", "5+"] as const;
+type CostPill = typeof COST_PILLS[number] | null;
+
+const MIN_STAT_OPTIONS = [
+  { label: "Any", value: 0 },
+  { label: "1+",  value: 1 },
+  { label: "2+",  value: 2 },
+  { label: "3+",  value: 3 },
+  { label: "4+",  value: 4 },
+];
+
+function matchesCost(card: Card, pill: CostPill): boolean {
+  if (!pill) return true;
+  if (pill === "X")  return card.cost === "X";
+  if (pill === "5+") return typeof card.cost === "number" && card.cost >= 5;
+  return card.cost === Number(pill);
+}
+
 export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Props) {
-  const [search, setSearch]       = useState("");
-  const [typeFilter, setTypeFilter] = useState("all");
+  const [search, setSearch]         = useState("");
+  const [typeFilter, setTypeFilter]   = useState("all");
   const [sphereFilter, setSphereFilter] = useState("all");
+  const [costFilter, setCostFilter]   = useState<CostPill>(null);
+  const [traitFilter, setTraitFilter] = useState("");
+  const [minWP, setMinWP]             = useState(0);
+  const [minATK, setMinATK]           = useState(0);
 
   const eligible = useMemo(
     () => allCards.filter((c) => c.type_code !== "hero" && isCardEligible(c, heroes)),
@@ -39,13 +61,18 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
   );
 
   const filtered = useMemo(() => {
+    const trait = traitFilter.trim().toLowerCase();
     return eligible.filter((c) => {
       if (typeFilter !== "all" && c.type_code !== typeFilter) return false;
       if (sphereFilter !== "all" && c.sphere_code !== sphereFilter) return false;
       if (search && !c.name.toLowerCase().includes(search.toLowerCase())) return false;
+      if (!matchesCost(c, costFilter)) return false;
+      if (trait && !c.traits.toLowerCase().includes(trait)) return false;
+      if (minWP  && (c.willpower  ?? 0) < minWP)  return false;
+      if (minATK && (c.attack     ?? 0) < minATK) return false;
       return true;
     });
-  }, [eligible, typeFilter, sphereFilter, search]);
+  }, [eligible, typeFilter, sphereFilter, search, costFilter, traitFilter, minWP, minATK]);
 
   const availableSpheres = useMemo(
     () => [...new Set(eligible.map((c) => c.sphere_code))].sort(),
@@ -97,6 +124,42 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
             ))}
           </select>
           <span className="result-count">{filtered.length} cards</span>
+        </div>
+
+        {/* Quick filters */}
+        <div className="quick-filters">
+          <div className="qf-group">
+            <span className="qf-label">Cost</span>
+            {COST_PILLS.map((p) => (
+              <button
+                key={p}
+                className={`qf-pill ${costFilter === p ? "active" : ""}`}
+                onClick={() => setCostFilter(costFilter === p ? null : p)}
+              >{p}</button>
+            ))}
+          </div>
+          <div className="qf-group">
+            <span className="qf-label">Trait</span>
+            <input
+              className="qf-trait"
+              type="text"
+              placeholder="e.g. Gondor"
+              value={traitFilter}
+              onChange={(e) => setTraitFilter(e.target.value)}
+            />
+          </div>
+          <div className="qf-group">
+            <span className="qf-label">Min WP</span>
+            <select className="qf-select" value={minWP} onChange={(e) => setMinWP(Number(e.target.value))}>
+              {MIN_STAT_OPTIONS.map((o) => <option key={o.value} value={o.value}>{o.label}</option>)}
+            </select>
+          </div>
+          <div className="qf-group">
+            <span className="qf-label">Min ATK</span>
+            <select className="qf-select" value={minATK} onChange={(e) => setMinATK(Number(e.target.value))}>
+              {MIN_STAT_OPTIONS.map((o) => <option key={o.value} value={o.value}>{o.label}</option>)}
+            </select>
+          </div>
         </div>
 
         {/* Card grid */}
@@ -167,7 +230,11 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
                 {DECK_SECTION_LABELS[type]} ({deckByType[type].reduce((s, e) => s + e.qty, 0)})
               </div>
               {deckByType[type]
-                .sort((a, b) => (a.card.cost ?? 0) - (b.card.cost ?? 0))
+                .sort((a, b) => {
+                  const ca = typeof a.card.cost === "number" ? a.card.cost : 99;
+                  const cb = typeof b.card.cost === "number" ? b.card.cost : 99;
+                  return ca - cb;
+                })
                 .map(({ card, qty }) => (
                   <div key={card.code} className="deck-entry">
                     <span className={`deck-dot sphere-${card.sphere_code}`} />

@@ -65,6 +65,75 @@
   white-space: nowrap;
 }
 
+/* Quick filters */
+.quick-filters {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 6px 14px 8px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+.qf-group {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.qf-label {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-right: 2px;
+  white-space: nowrap;
+}
+
+.qf-pill {
+  padding: 2px 8px;
+  border-radius: 10px;
+  font-size: 12px;
+  font-weight: 600;
+  border: 1px solid var(--border);
+  background: var(--surface2);
+  color: var(--text-dim);
+  transition: all 0.1s;
+}
+
+.qf-pill:hover { color: var(--text); border-color: var(--text-dim); }
+
+.qf-pill.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #1a1a1e;
+}
+
+.qf-trait {
+  width: 100px;
+  padding: 3px 7px;
+  font-size: 12px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 4px;
+}
+
+.qf-trait:focus { border-color: var(--accent); outline: none; }
+
+.qf-select {
+  padding: 2px 4px;
+  font-size: 12px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 4px;
+  width: 64px;
+}
+
 /* Card grid */
 .card-grid {
   display: grid;

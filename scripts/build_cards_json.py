@@ -25,6 +25,18 @@ SECTION_MAP = {
 }
 
 
+def normalize_cost(raw):
+    """Return int for numeric costs, 'X' for variable, None for heroes/missing."""
+    if raw is None or raw == "-":
+        return None
+    if str(raw).upper() == "X":
+        return "X"
+    try:
+        return int(raw)
+    except (ValueError, TypeError):
+        return None
+
+
 def main():
     raw = json.loads(CACHE_FILE.read_text())
     output = []
@@ -42,7 +54,7 @@ def main():
             "section": SECTION_MAP[c["type_code"]],
             "sphere_code": c["sphere_code"],
             "sphere_name": c["sphere_name"],
-            "cost": c.get("cost"),
+            "cost": normalize_cost(c.get("cost")),
             "threat": c.get("threat"),
             "willpower": c.get("willpower", 0) or 0,
             "attack": c.get("attack", 0) or 0,

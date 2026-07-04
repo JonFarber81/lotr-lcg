@@ -34,6 +34,27 @@
   margin-left: auto;
 }
 
+.hero-quick-filters {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 6px 14px 8px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+/* qf-* shared classes defined in DeckBuilder.css — hero picker imports its own copy */
+.hero-quick-filters .qf-group { display: flex; align-items: center; gap: 4px; }
+.hero-quick-filters .qf-label { font-size: 11px; font-weight: 600; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.05em; margin-right: 2px; white-space: nowrap; }
+.hero-quick-filters .qf-pill  { padding: 2px 8px; border-radius: 10px; font-size: 12px; font-weight: 600; border: 1px solid var(--border); background: var(--surface2); color: var(--text-dim); transition: all 0.1s; cursor: pointer; }
+.hero-quick-filters .qf-pill:hover { color: var(--text); border-color: var(--text-dim); }
+.hero-quick-filters .qf-pill.active { background: var(--accent); border-color: var(--accent); color: #1a1a1e; }
+.hero-quick-filters .qf-trait { width: 100px; padding: 3px 7px; font-size: 12px; background: var(--surface2); border: 1px solid var(--border); color: var(--text); border-radius: 4px; }
+.hero-quick-filters .qf-trait:focus { border-color: var(--accent); outline: none; }
+.hero-quick-filters .qf-select { padding: 2px 4px; font-size: 12px; background: var(--surface2); border: 1px solid var(--border); color: var(--text); border-radius: 4px; width: 64px; }
+
 .selected-heroes {
   display: flex;
   gap: 8px;

@@ -7,7 +7,7 @@ export interface Card {
   section: string;
   sphere_code: string;
   sphere_name: string;
-  cost: number | null;
+  cost: number | "X" | null;
   threat: number | null;
   willpower: number;
   attack: number;
