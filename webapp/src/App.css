@@ -1,0 +1,74 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.app-header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 16px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex: 1;
+}
+
+.app-header h1 {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.deck-name-input {
+  width: 220px;
+  font-size: 14px;
+}
+
+.header-stats {
+  display: flex;
+  gap: 12px;
+}
+
+.stat {
+  font-size: 13px;
+  padding: 3px 10px;
+  border-radius: 4px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+}
+
+.stat-warn { color: #f0a830; border-color: #f0a830; }
+.stat-ok   { color: #5aaa5a; border-color: #5aaa5a; }
+
+.header-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-primary {
+  background: var(--accent);
+  color: #1a1a1e;
+  font-weight: 600;
+  border-color: var(--accent);
+}
+.btn-primary:hover:not(:disabled) { background: #d4b870; }
+.btn-primary:disabled { opacity: 0.4; cursor: default; }
+
+.btn-danger { color: var(--danger); border-color: var(--danger); }
+.btn-danger:hover { background: var(--danger); color: #fff; }
+
+.app-main {
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+}

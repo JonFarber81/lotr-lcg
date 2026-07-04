@@ -1,0 +1,221 @@
+.deck-builder {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+}
+
+/* ── Card browser ── */
+.card-browser {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--border);
+  overflow: hidden;
+}
+
+.browser-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.browser-toolbar input { flex: 1; }
+.browser-toolbar select { width: 130px; }
+
+.result-count {
+  color: var(--text-dim);
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.card-list {
+  overflow-y: auto;
+  flex: 1;
+}
+
+.card-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 12px;
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+}
+
+.card-row:hover { background: var(--surface); }
+
+.card-thumb {
+  width: 48px;
+  height: 34px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 3px;
+  flex-shrink: 0;
+  background: var(--surface2);
+}
+
+.card-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.card-name {
+  font-size: 13px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-meta {
+  font-size: 11px;
+  color: var(--text-dim);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.card-qty-controls {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.card-qty-controls button {
+  width: 22px;
+  height: 22px;
+  padding: 0;
+  font-size: 16px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qty-display {
+  width: 18px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--text-dim);
+}
+
+.qty-display.qty-active { color: var(--accent); font-weight: 700; }
+
+/* ── Deck panel ── */
+.deck-panel {
+  width: 280px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--surface);
+}
+
+.deck-panel-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.deck-heroes {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.hero-chip {
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-weight: 600;
+  color: #fff;
+}
+
+.hero-chip.sphere-leadership { background: var(--leadership); }
+.hero-chip.sphere-tactics    { background: var(--tactics); }
+.hero-chip.sphere-spirit     { background: var(--spirit); }
+.hero-chip.sphere-lore       { background: var(--lore); }
+.hero-chip.sphere-baggins,
+.hero-chip.sphere-fellowship { background: var(--baggins); }
+
+.deck-total {
+  font-weight: 700;
+  font-size: 13px;
+}
+.deck-total.warn { color: #f0a830; }
+.deck-total.ok   { color: #5aaa5a; }
+
+.deck-list {
+  overflow-y: auto;
+  flex: 1;
+  padding: 4px 0;
+}
+
+.deck-section { margin-bottom: 4px; }
+
+.deck-section-title {
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 4px 12px 2px;
+}
+
+.deck-entry {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 12px;
+  font-size: 12px;
+}
+
+.deck-entry:hover { background: var(--surface2); }
+
+.deck-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.deck-dot.sphere-leadership { background: var(--leadership); }
+.deck-dot.sphere-tactics    { background: var(--tactics); }
+.deck-dot.sphere-spirit     { background: var(--spirit); }
+.deck-dot.sphere-lore       { background: var(--lore); }
+.deck-dot.sphere-neutral    { background: var(--neutral); }
+.deck-dot.sphere-baggins,
+.deck-dot.sphere-fellowship { background: var(--baggins); }
+
+.deck-entry-qty { color: var(--text-dim); font-size: 11px; width: 18px; text-align: right; }
+.deck-entry-name { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.deck-entry-cost { color: var(--text-dim); font-size: 11px; width: 14px; text-align: right; }
+
+.deck-remove {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 14px;
+  padding: 0 2px;
+  line-height: 1;
+  opacity: 0;
+}
+
+.deck-entry:hover .deck-remove { opacity: 1; }
+.deck-remove:hover { color: var(--danger); background: none; }
+
+.deck-empty {
+  padding: 20px 16px;
+  color: var(--text-dim);
+  font-size: 12px;
+  text-align: center;
+}

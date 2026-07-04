@@ -1,0 +1,195 @@
+.hero-picker {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+}
+
+.hero-picker-toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.hero-search { width: 200px; }
+
+.sphere-filters {
+  display: flex;
+  gap: 4px;
+}
+
+.sphere-btn {
+  opacity: 0.5;
+  transition: opacity 0.1s;
+}
+.sphere-btn.active, .sphere-btn:hover { opacity: 1; }
+
+.hero-count {
+  color: var(--text-dim);
+  font-size: 12px;
+  margin-left: auto;
+}
+
+.selected-heroes {
+  display: flex;
+  gap: 8px;
+  padding: 8px 14px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+.selected-hero {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid;
+  background: var(--surface2);
+}
+
+.selected-hero.sphere-leadership { border-color: var(--leadership); }
+.selected-hero.sphere-tactics    { border-color: var(--tactics); }
+.selected-hero.sphere-spirit     { border-color: var(--spirit); }
+.selected-hero.sphere-lore       { border-color: var(--lore); }
+.selected-hero.sphere-baggins,
+.selected-hero.sphere-fellowship { border-color: var(--baggins); }
+
+.selected-hero-name { font-weight: 600; }
+.selected-hero-threat { color: var(--text-dim); font-size: 12px; }
+
+.remove-hero {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 16px;
+  padding: 0 2px;
+  line-height: 1;
+}
+.remove-hero:hover { color: var(--danger); background: none; }
+
+.hero-slot-empty {
+  display: flex;
+  align-items: center;
+  padding: 4px 12px;
+  border: 1px dashed var(--border);
+  border-radius: 4px;
+  color: var(--text-dim);
+  font-size: 12px;
+}
+
+.hero-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 8px;
+  padding: 12px 14px;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.hero-card {
+  position: relative;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--neutral);
+  border-radius: 6px;
+  cursor: pointer;
+  background: var(--surface);
+  transition: border-color 0.15s, transform 0.1s;
+}
+
+.hero-card.sphere-leadership { border-left-color: var(--leadership); }
+.hero-card.sphere-tactics    { border-left-color: var(--tactics); }
+.hero-card.sphere-spirit     { border-left-color: var(--spirit); }
+.hero-card.sphere-lore       { border-left-color: var(--lore); }
+.hero-card.sphere-baggins,
+.hero-card.sphere-fellowship { border-left-color: var(--baggins); }
+
+.hero-card:hover { border-color: var(--accent); transform: translateY(-1px); }
+.hero-card.selected { border-color: var(--accent); background: #26261e; }
+.hero-card.disabled { opacity: 0.35; cursor: default; transform: none; }
+
+.hero-card-img {
+  width: 100%;
+  display: block;
+  border-radius: 5px;
+  aspect-ratio: 419 / 600;
+  object-fit: cover;
+  object-position: center;
+}
+
+.hero-card-footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 8px;
+  background: linear-gradient(transparent, rgba(0,0,0,0.85));
+  border-radius: 0 0 5px 5px;
+}
+
+.hero-card-name {
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff;
+  text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hero-card-name {
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+
+.hero-card-traits {
+  font-size: 11px;
+  color: var(--text-dim);
+  font-style: italic;
+  margin-bottom: 6px;
+}
+
+.hero-card-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-bottom: 4px;
+}
+
+.hero-stat {
+  font-size: 11px;
+  color: var(--text-dim);
+  background: var(--surface2);
+  padding: 1px 5px;
+  border-radius: 3px;
+}
+
+.hero-card-pack {
+  font-size: 10px;
+  color: var(--text-dim);
+}
+
+.hero-selected-mark {
+  position: absolute;
+  top: 6px;
+  right: 8px;
+  width: 22px;
+  height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--accent);
+  color: #1a1a1e;
+  font-weight: 900;
+  font-size: 13px;
+}

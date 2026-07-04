@@ -1,0 +1,74 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #1a1a1e;
+  --surface: #26262c;
+  --surface2: #32323a;
+  --border: #3f3f48;
+  --text: #e8e6e1;
+  --text-dim: #888;
+  --leadership: #7b4fd4;
+  --tactics: #cc3333;
+  --spirit: #3388cc;
+  --lore: #336633;
+  --neutral: #888;
+  --baggins: #c8841a;
+  --fellowship: #c8841a;
+  --accent: #c8a860;
+  --danger: #cc4444;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+button {
+  cursor: pointer;
+  border: 1px solid var(--border);
+  background: var(--surface2);
+  color: var(--text);
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-size: 13px;
+  transition: background 0.1s;
+}
+
+button:hover { background: var(--border); }
+button:disabled { opacity: 0.4; cursor: default; }
+
+input[type="text"], select {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 4px;
+  padding: 5px 8px;
+  font-size: 13px;
+  outline: none;
+  width: 100%;
+}
+
+input[type="text"]:focus, select:focus {
+  border-color: var(--accent);
+}
+
+.sphere-badge {
+  display: inline-block;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.sphere-leadership { background: var(--leadership); color: #fff; }
+.sphere-tactics    { background: var(--tactics); color: #fff; }
+.sphere-spirit     { background: var(--spirit); color: #fff; }
+.sphere-lore       { background: var(--lore); color: #fff; }
+.sphere-neutral    { background: var(--neutral); color: #fff; }
+.sphere-baggins    { background: var(--baggins); color: #fff; }
+.sphere-fellowship { background: var(--fellowship); color: #fff; }
