@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[145009.png]]
+
 ---
 
 **Response:** After a sentinel character is declared as a defender, it gets +2 DEF for this attack. If this attack deals no damage, ready the defending character.

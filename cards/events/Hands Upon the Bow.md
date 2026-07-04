@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[04131.png]]
+
 ---
 
 **Action:** Exhaust a character you control with ranged to immediately declare it as an attacker (and resolve its attack) against an enemy in the staging area. It gets +1 ATK during this attack.

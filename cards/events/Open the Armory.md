@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **1** · Neutral
 
+![[17118.png]]
+
 ---
 
 **Action**: Search the top 10 cards of your deck for a **_Weapon**_  or **_Armor**_  attachment and add it to your hand. Shuffle your deck.

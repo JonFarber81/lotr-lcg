@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **2** · Lore
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 2
 
+![[11009.png]]
+
 *Noldor. Scout.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[01021.png]]
+
 ---
 
 **Action:** Exhaust 1 hero you control to choose and ready a different hero.

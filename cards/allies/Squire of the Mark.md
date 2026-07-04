@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **1** · Spirit
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 1
 
+![[300013.png]]
+
 *Rohan. Servant.*
 
 ---

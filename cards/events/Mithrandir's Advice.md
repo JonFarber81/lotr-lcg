@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[06009.png]]
+
 ---
 
 **Action:** Draw 1 card for each hero you control with a printed (Lore) resource icon.

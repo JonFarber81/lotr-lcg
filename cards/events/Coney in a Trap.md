@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[17009.png]]
+
 ---
 
 Play only if you control a unique character with the **_Ranger_** trait and another unique character with the **_Warrior_** trait.

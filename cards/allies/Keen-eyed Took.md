@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **2** · Leadership
 > **WP** 1  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 2
 
+![[02073.png]]
+
 *Hobbit.*
 
 ---

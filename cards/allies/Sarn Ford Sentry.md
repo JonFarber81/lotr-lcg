@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **3** · Lore
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 2
 
+![[09005.png]]
+
 *Dúnedain. Scout.*
 
 ---

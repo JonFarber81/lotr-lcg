@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[01050.png]]
+
 ---
 
 **Response:** Cancel the "when revealed" effects of a card that was just revealed from the encounter deck.

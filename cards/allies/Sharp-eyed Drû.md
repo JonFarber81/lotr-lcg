@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **3** · Lore
 > **WP** 1  ·  **ATK** 0  ·  **DEF** 2  ·  **HP** 3
 
+![[310076.png]]
+
 *Wose. Scout.*
 
 ---

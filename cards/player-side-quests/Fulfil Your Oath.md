@@ -20,6 +20,8 @@ tags: [card, playersidequest, leadership]
 > [!tip] 👑 Player Side Quest · Cost: **0** · Leadership
 > **Quest Points:** 6  ·  **Victory** 1
 
+![[309049.png]]
+
 ---
 
 **Side A**

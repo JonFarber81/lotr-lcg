@@ -23,6 +23,8 @@ tags: [card, hero, neutral]
 > [!abstract] ⚪ Hero · Threat: **12** · Neutral
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 5
 
+![[306183.png]]
+
 *Dúnedain. Ranger.*
 
 ---

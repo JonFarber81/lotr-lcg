@@ -23,6 +23,8 @@ tags: [card, ally, neutral]
 > [!abstract] ⚪ Ally · Cost: **3** · Neutral
 > **WP** 3  ·  **ATK** 5  ·  **DEF** 4  ·  **HP** 4
 
+![[07003.png]]
+
 *Istari. Isengard.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[08003.png]]
+
 ---
 
 **Action:** Ready a hero you control. Then, if your threat is 20 or less and this is the first time you played a copy of Swift and Silent this round, return this card to your hand instead of discarding it.

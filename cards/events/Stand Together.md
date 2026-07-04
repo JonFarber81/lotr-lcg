@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[01038.png]]
+
 ---
 
 **Action:** Choose a player. That player may declare any number of his eligible characters as defenders against each enemy attacking him this phase.

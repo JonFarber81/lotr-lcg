@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **3** · Leadership
 
+![[22029.png]]
+
 ---
 
 **Action:** Each player whose threat is 40 or higher readies all characters he controls.

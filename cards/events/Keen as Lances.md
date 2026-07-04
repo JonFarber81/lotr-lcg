@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **5** · Neutral
 
+![[10037.png]]
+
 ---
 
 Reduce the cost to play Keen as Lances by 1 for each card worth no victory points in the victory display.

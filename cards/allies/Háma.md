@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **3** · Spirit
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 2
 
+![[143007.png]]
+
 *Rohan. Warrior.*
 
 ---

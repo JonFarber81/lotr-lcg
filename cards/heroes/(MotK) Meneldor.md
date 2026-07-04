@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **7** · Tactics
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 2
 
+![[9919031.png]]
+
 *Creature. Eagle.*
 
 ---

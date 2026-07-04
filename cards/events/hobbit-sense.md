@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **2** · Neutral
 
+![[06065.png]]
+
 ---
 
 Play only if each of your heroes is a **_Hobbit._**

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **2** · Spirit
 
+![[22145.png]]
+
 ---
 
 **Response:** At the end of the staging step, discard cards from the top of the encounter deck until you discard a treachery. Resolve its 'when revealed' effects to ready each of your questing characters. Each of your questing characters gets +1 WP until the end of the phase.

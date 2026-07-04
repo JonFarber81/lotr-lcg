@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **10** · Spirit
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 3
 
+![[301002.png]]
+
 *Woodman. Scout.*
 
 ---

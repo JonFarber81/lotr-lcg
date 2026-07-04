@@ -20,6 +20,8 @@ tags: [card, playersidequest, leadership]
 > [!tip] 👑 Player Side Quest · Cost: **1** · Leadership
 > **Quest Points:** 6  ·  **Victory** 1
 
+![[17003.png]]
+
 ---
 
 Limit 1 copy of Prepare for Battle in the victory display.

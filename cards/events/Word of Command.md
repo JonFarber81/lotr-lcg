@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[04084.png]]
+
 ---
 
 **Action:** Exhaust an **_Istari_** character to search your deck for 1 card and add it to your hand. Shuffle your deck.

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[02007.png]]
+
 ---
 
 **Action:** Search the top 10 cards of your deck for any 1 **_Rohan_** ally card and add it to your hand. Then, shuffle the other cards back into your deck.

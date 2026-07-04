@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **5** · Lore
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 2
 
+![[9912089.png]]
+
 *Hobbit. Shirriff.*
 
 ---

@@ -18,6 +18,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[302048.png]]
+
 *Eagle.*
 
 ---

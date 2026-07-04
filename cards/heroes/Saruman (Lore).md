@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **13** · Lore
 > **WP** 3  ·  **ATK** 4  ·  **DEF** 2  ·  **HP** 4
 
+![[22054.png]]
+
 *Istari. Isengard.*
 
 ---

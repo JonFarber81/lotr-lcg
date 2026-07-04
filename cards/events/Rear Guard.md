@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[02074.png]]
+
 ---
 
 **Quest Action:** Discard a (Leadership) ally to give each hero committed to this quest +1 WP until the end of the phase.

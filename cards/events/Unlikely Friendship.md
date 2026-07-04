@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[16007.png]]
+
 ---
 
 Play only if you control a unique character with the **_Silvan_** trait and another unique character with the **_Dwarf_** trait.

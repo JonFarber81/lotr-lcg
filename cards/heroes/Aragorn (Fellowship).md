@@ -23,6 +23,8 @@ tags: [card, hero, fellowship]
 > [!success] 💍 Hero · Threat: **0** · Fellowship
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 5
 
+![[146002.png]]
+
 *Dunedain. Gondor. Noble. Warrior.*
 
 ---

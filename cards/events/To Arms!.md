@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[18013.png]]
+
 ---
 
 **Action:** Choose an ally with a player attachment. Ready that ally.

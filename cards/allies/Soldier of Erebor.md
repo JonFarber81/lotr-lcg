@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **5** · Leadership
 > **WP** 0  ·  **ATK** 3  ·  **DEF** 3  ·  **HP** 3
 
+![[19085.png]]
+
 *Dwarf. Warrior.*
 
 ---

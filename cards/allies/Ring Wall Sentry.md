@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **3** · Leadership
 > **WP** 0  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 2
 
+![[309042.png]]
+
 *Isengard. Warrior.*
 
 ---

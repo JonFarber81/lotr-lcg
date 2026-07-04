@@ -23,6 +23,8 @@ tags: [card, hero, baggins]
 > [!example] 🍃 Hero · Threat: **0** · Baggins
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 2
 
+![[503007.png]]
+
 *Hobbit.*
 
 ---

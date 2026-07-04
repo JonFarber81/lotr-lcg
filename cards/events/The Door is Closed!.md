@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[10092.png]]
+
 ---
 
 **Response:** After an encounter card is revealed from the encounter deck, cancel its effects and discard it if there is a card with the same title in the victory display.

@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[144011.png]]
+
 ---
 
 **Response:** After a hero you control defends an attack made by an enemy with engagement cost higher than your threat, ready that hero. Until the end of the phase, that hero gets +2 ATK while attacking that enemy.

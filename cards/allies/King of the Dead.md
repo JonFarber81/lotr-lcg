@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **2** · Leadership
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 1
 
+![[309041.png]]
+
 *Undead. Oathbreaker.*
 
 ---

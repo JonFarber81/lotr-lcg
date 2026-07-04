@@ -20,6 +20,8 @@ tags: [card, playersidequest, neutral]
 > [!abstract] ⚪ Player Side Quest · Cost: **0** · Neutral
 > **Quest Points:** 4  ·  **Victory** 1
 
+![[09014.png]]
+
 ---
 
 Limit 1 per deck.

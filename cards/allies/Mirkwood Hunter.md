@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **4** · Lore
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 3
 
+![[19087.png]]
+
 *Woodman. Ranger.*
 
 ---

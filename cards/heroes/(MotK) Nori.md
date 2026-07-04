@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **6** · Tactics
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 2
 
+![[9922059.png]]
+
 *Dwarf.*
 
 ---

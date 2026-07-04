@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **3** · Tactics
 
+![[01036.png]]
+
 ---
 
 You must use resources from 3 different heroes' pools to pay for this card.

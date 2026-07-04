@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **4** · Spirit
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 2
 
+![[19091.png]]
+
 *Dale.*
 
 ---

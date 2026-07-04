@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **3** · Tactics
 
+![[17085.png]]
+
 ---
 
 Play only if you control a unique character with the **_Rohan**_ trait and another unique character with the **_Gondor**_ trait. 

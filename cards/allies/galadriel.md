@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **3** · Leadership
 > **WP** 3  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 3
 
+![[142003.png]]
+
 *Noldor. Noble.*
 
 ---

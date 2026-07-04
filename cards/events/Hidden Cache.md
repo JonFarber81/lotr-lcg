@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[06143.png]]
+
 ---
 
 **Response:** After Hidden Cache is discarded from your deck, add 2 resources to the resource pool of a hero you control.

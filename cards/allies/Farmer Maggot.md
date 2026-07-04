@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **3** · Tactics
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 2
 
+![[141008.png]]
+
 *Hobbit.*
 
 ---

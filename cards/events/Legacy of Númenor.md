@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[07011.png]]
+
 ---
 
 Doomed 4.

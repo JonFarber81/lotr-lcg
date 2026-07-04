@@ -18,6 +18,8 @@ tags: [card, attachment, spirit]
 
 > [!info] 💧 Attachment · Cost: **1** · Spirit
 
+![[06139.png]]
+
 *Mount.*
 
 ---

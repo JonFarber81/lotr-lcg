@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **10** · Tactics
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 4  ·  **HP** 4
 
+![[05001.png]]
+
 *Gondor. Warrior.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[01053.png]]
+
 ---
 
 **Action:** Return 1 (Spirit) card from your discard pile to your hand.

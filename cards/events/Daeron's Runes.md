@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **0** · Lore
 
+![[04108.png]]
+
 ---
 
 **Action:** Draw 2 cards. Then, discard 1 card from your hand.

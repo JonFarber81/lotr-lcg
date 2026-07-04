@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **3** · Lore
 
+![[02080.png]]
+
 ---
 
 Play during the Quest phase, before characters are committed to the Quest.

@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[10119.png]]
+
 ---
 
 **Action:** Choose and ready a sentinel character.

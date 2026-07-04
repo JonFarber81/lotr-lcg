@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **3** · Spirit
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 1
 
+![[99301011.png]]
+
 *Creature. Scout.*
 
 ---

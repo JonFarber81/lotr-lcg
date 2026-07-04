@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **5** · Lore
 
+![[01068.png]]
+
 ---
 
 **Action:** Choose a player. Heal all damage on each hero controlled by that player.

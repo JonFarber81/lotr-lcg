@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **13** · Tactics
 > **WP** 1  ·  **ATK** 3  ·  **DEF** 3  ·  **HP** 6
 
+![[9901031.png]]
+
 *Beorning. Warrior.*
 
 ---

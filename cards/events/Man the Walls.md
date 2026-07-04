@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[19086.png]]
+
 ---
 
 Play only if no other copies of Man the Walls have been played this round. **Planning Action**: Reduce the cost of the next ally played by each player this phase by 1. Those allies cannot quest this round.

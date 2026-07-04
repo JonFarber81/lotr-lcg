@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[04054.png]]
+
 ---
 
 **Response:** After a character leaves play, add its ATK to another character's ATK until the end of the round.

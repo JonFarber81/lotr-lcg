@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[08060.png]]
+
 ---
 
 **Action:** Return a **_Silvan_** ally you control to your hand to choose a player. Deal 1 damage to each enemy engaged with that player.

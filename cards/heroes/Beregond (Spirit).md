@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **10** · Spirit
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 4  ·  **HP** 4
 
+![[145003.png]]
+
 *Gondor. Warrior.*
 
 ---

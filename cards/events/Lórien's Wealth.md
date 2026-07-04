@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **3** · Lore
 
+![[01064.png]]
+
 ---
 
 **Action:** Choose a player. That player draws 3 cards.

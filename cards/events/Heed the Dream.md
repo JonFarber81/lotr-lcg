@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[12009.png]]
+
 ---
 
 **Action:** Choose a player. That player searches the top 5 cards of his deck for a card, adds it to his hand, and shuffles his deck. Then, the players as a group may spend 3 (Leadership) resources to have that player search his deck for another card, add it to his hand, and shuffle his deck.

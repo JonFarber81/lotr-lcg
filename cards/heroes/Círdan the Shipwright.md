@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **12** · Spirit
 > **WP** 4  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 4
 
+![[11001.png]]
+
 *Noldor. Noble.*
 
 ---

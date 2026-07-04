@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **1** · Tactics
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 1
 
+![[06004.png]]
+
 *Outlands.*
 
 ---

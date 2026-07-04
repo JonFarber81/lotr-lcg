@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **4** · Lore
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 2
 
+![[99303074.png]]
+
 *Hobbit. Bree. Servant.*
 
 ---

@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **7** · Tactics
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 2
 
+![[9908028.png]]
+
 *Silvan. Scout.*
 
 ---

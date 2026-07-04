@@ -20,6 +20,8 @@ tags: [card, playersidequest, lore]
 > [!note] 📖 Player Side Quest · Cost: **0** · Lore
 > **Quest Points:** 4  ·  **Victory** 1
 
+![[10009.png]]
+
 ---
 
 Limit 1 per deck.

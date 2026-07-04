@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **3** · Lore
 
+![[19149.png]]
+
 ---
 
 You must use resources from 3 different heroes' pools to pay for this card. **Combat Action**: Choose and discard a non-unique enemy in the staging area.

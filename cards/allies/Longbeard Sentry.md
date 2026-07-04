@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **3** · Tactics
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 3
 
+![[10057.png]]
+
 *Dwarf. Warrior.*
 
 ---

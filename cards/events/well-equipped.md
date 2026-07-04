@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[06116.png]]
+
 ---
 
 **Action:** Discard the top 2 cards of your deck. You may attach 1 attachment card discarded by this effect to an eligible **_Dwarf_** character in play.

@@ -18,6 +18,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **2** · Lore
 
+![[300012.png]]
+
 *Skill.*
 
 ---

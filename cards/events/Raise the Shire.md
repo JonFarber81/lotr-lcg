@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[146013.png]]
+
 ---
 
 **Response:** After you engage an enemy, search the top 5 cards of your deck for a **_Hobbit_** ally and put it into play (search you entire deck instead if that enemy's engagement cost is higher than your threat). Shuffle your deck. At the end of the round, if that ally is still in play, return it to your hand.

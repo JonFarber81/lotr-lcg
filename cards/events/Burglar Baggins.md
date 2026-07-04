@@ -17,6 +17,8 @@ tags: [card, event, baggins]
 
 > [!example] 🍃 Event · Cost: **1** · Baggins
 
+![[131019.png]]
+
 ---
 
 **Action:** Bilbo Baggins gets +2 WP, +2 ATK, and +2 DEF until the end of the phase. (You may spend a (Baggins) resource from Bilbo Baggins' resource pool to play this card even if you do not control Bilbo Baggins.)

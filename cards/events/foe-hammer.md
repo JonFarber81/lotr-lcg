@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[131015.png]]
+
 ---
 
 **Response:** After a hero you control attacks and destroys an enemy, exhaust a **_Weapon_** card attached to that hero to draw 3 cards.

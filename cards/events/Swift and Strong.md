@@ -18,6 +18,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[19090.png]]
+
 *Song.*
 
 ---

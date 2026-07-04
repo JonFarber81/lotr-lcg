@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[01035.png]]
+
 ---
 
 **Action:** Exhaust a character you control to immediately declare it as an attacker (and resolve its attack) against any eligible enemy target.

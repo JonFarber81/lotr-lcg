@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[145008.png]]
+
 ---
 
 **Response:** Exhaust a **_Weapon_** or **_Armor_** card attached to the defending character to cancel a shadow effect just triggered during combat.

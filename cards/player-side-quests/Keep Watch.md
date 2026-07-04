@@ -20,6 +20,8 @@ tags: [card, playersidequest, tactics]
 > [!danger] ⚔️ Player Side Quest · Cost: **1** · Tactics
 > **Quest Points:** 6  ·  **Victory** 1
 
+![[17059.png]]
+
 ---
 
 Limit 1 copy of Keep Watch in the victory display.

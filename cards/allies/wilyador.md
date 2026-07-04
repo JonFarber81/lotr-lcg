@@ -23,6 +23,8 @@ tags: [card, ally, neutral]
 > [!abstract] ⚪ Ally · Cost: **1** · Neutral
 > **WP** 1  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 3
 
+![[22117.png]]
+
 *Creature. Eagle.*
 
 ---

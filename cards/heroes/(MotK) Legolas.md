@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **8** · Tactics
 > **WP** 1  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 3
 
+![[99143005.png]]
+
 *Silvan. Warrior.*
 
 ---

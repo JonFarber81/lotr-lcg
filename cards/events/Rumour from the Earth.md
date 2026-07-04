@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **0** · Lore
 
+![[02124.png]]
+
 ---
 
 **Action:** Look at the top card of the encounter deck. Then, you may pay 1 (Lore) resource to return Rumour from the Earth to your hand.

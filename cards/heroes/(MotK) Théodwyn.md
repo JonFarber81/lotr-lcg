@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **5** · Spirit
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 2
 
+![[99300015.png]]
+
 *Rohan. Noble.*
 
 ---

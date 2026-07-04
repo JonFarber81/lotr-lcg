@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **6** · Leadership
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 3
 
+![[9906033.png]]
+
 *Outlands.*
 
 ---

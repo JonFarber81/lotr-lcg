@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[131018.png]]
+
 ---
 
 Play during the quest phase, before the staging step.

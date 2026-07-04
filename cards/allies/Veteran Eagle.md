@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **2** · Leadership
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 2
 
+![[302041.png]]
+
 *Creature. Eagle. Warrior.*
 
 ---

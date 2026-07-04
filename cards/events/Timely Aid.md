@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **4** · Leadership
 
+![[04003.png]]
+
 ---
 
 Secrecy 3.

@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[04129.png]]
+
 ---
 
 **Action:** Exhaust X **_Dwarf_** heroes to add X resources to a hero's resource pool and draw 1 card.

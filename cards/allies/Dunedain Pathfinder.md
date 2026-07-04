@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **0** · Spirit
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 2
 
+![[17033.png]]
+
 *Dunedain. Scout.*
 
 ---

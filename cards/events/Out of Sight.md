@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **5** · Spirit
 
+![[04081.png]]
+
 ---
 
 Secrecy 3.

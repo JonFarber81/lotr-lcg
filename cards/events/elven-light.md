@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[10145.png]]
+
 ---
 
 Elven-light can only be played from your discard pile.

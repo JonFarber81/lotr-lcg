@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[04037.png]]
+
 ---
 
 **Response:** After a **_Dwarf_** character leaves play, shuffle the encounter discard pile back into the encounter deck.

@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[12119.png]]
+
 ---
 
 Limit 1 per deck.

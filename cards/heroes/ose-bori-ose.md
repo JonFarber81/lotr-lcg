@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **8** · Lore
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 3
 
+![[310075.png]]
+
 *Wose. Ranger.*
 
 ---

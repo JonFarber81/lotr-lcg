@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[02078.png]]
+
 ---
 
 **Action:** Discard a **_Rohan_** ally to choose a location. Place 3 progress tokens on that location.

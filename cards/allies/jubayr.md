@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **5** · Spirit
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 3  ·  **HP** 3
 
+![[17006.png]]
+
 *Harad. Warrior.*
 
 ---

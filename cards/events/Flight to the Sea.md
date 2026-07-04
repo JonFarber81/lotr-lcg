@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **2** · Spirit
 
+![[17140.png]]
+
 ---
 
 Play only if you control a **_Noldor**_ or **_Silvan**_ hero.

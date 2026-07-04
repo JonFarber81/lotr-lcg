@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **0** · Tactics
 > **WP** 1  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 3
 
+![[09004.png]]
+
 *Dúnedain. Ranger.*
 
 ---

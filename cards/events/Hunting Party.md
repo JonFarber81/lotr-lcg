@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[17057.png]]
+
 ---
 
 Play only if you control a unique character with the **_Warrior**_ trait and another unique character with the **_Scout**_ trait.

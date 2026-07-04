@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[12007.png]]
+
 ---
 
 **Response:** When a shadow card increases an enemy's ATK by any amount, increase the defending character's DEF by 3 for that attack. Then, the players as a group may spend 2 (Tactics) resources to ready the defending character and give it +3 ATK for its next attack this phase.

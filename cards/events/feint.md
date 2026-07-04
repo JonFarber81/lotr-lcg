@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[01034.png]]
+
 ---
 
 **Combat Action:** Choose an enemy engaged with a player. That enemy cannot attack that player this phase.

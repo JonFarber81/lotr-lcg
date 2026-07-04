@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[02027.png]]
+
 ---
 
 **Action:** Each player returns the topmost attachment card from his discard pile to his hand.

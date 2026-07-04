@@ -18,6 +18,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[10032.png]]
+
 *Ent.*
 
 ---

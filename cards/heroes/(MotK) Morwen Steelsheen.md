@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **6** · Lore
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 2  ·  **HP** 2
 
+![[99300010.png]]
+
 *Rohan. Gondor. Noble.*
 
 ---

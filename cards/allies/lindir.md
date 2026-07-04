@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **3** · Spirit
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 2
 
+![[10120.png]]
+
 *Noldor.*
 
 ---

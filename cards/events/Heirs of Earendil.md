@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[17115.png]]
+
 ---
 
 Play only if you control a unique character with the **_Noldor**_ trait and another unique character with the **_Dúnedain**_ trait.

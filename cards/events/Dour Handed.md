@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[16009.png]]
+
 ---
 
 **Action:** Deal X damage to an enemy engaged with you. X is the number of side quests in the victory display.

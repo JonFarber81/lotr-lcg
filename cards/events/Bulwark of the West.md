@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[17137.png]]
+
 ---
 
 **Action**: Discard an ally you control to choose and discard a **_Condition**_ attachment.

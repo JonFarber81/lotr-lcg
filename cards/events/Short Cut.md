@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[04060.png]]
+
 ---
 
 **Response:** After a location enters play, exhaust a **_Hobbit_** character to shuffle that location back into the encounter deck. Then, reveal 1 card from the encounter deck and add it to the staging area.

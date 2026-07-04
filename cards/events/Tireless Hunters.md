@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[09008.png]]
+
 ---
 
 Play only before the resolving enemy attacks step.

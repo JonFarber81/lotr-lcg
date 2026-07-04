@@ -23,6 +23,8 @@ tags: [card, ally, neutral]
 > [!abstract] ⚪ Ally · Cost: **3** · Neutral
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 3  ·  **HP** 3
 
+![[12010.png]]
+
 *Noldor. Warrior.*
 
 ---

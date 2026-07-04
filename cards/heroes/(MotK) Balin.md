@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **7** · Leadership
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 2  ·  **HP** 3
 
+![[99304104.png]]
+
 *Dwarf.*
 
 ---

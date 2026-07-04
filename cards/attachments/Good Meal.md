@@ -17,6 +17,8 @@ tags: [card, attachment, neutral]
 
 > [!abstract] ⚪ Attachment · Cost: **0** · Neutral
 
+![[04010.png]]
+
 ---
 
 Attach to a **_Hobbit_** hero.

@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **1** · Leadership
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 1
 
+![[06108.png]]
+
 *Gondor.*
 
 ---

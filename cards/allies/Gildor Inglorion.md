@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **5** · Lore
 > **WP** 3  ·  **ATK** 2  ·  **DEF** 3  ·  **HP** 3
 
+![[02079.png]]
+
 *Noldor.*
 
 ---

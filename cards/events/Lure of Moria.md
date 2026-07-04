@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **3** · Leadership
 
+![[04030.png]]
+
 ---
 
 **Action:** Ready all **_Dwarf_** characters.

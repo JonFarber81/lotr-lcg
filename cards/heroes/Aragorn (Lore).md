@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **12** · Lore
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 5
 
+![[04053.png]]
+
 *Dúnedain. Ranger.*
 
 ---

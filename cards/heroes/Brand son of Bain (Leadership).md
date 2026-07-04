@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **10** · Leadership
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 3
 
+![[18001.png]]
+
 *Dale. Noble.*
 
 ---

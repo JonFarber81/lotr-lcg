@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **3** · Tactics
 
+![[17113.png]]
+
 ---
 
 **Combat Action**: Deal 3 damage to a non-unique enemy engaged with you.

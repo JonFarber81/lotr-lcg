@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **2** · Lore
 
+![[06040.png]]
+
 ---
 
 Play only if each hero you control has a printed (Lore) resource icon.

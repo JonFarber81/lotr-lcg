@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[01047.png]]
+
 ---
 
 **Response:** After you travel to a location, exhaust a (Spirit) character to place 2 progress tokens on that location.

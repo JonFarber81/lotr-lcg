@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[02076.png]]
+
 ---
 
 **Action:** Choose an **_Eagle_** ally. Return that character to its owner's hand.

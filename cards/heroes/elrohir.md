@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **10** · Leadership
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 4
 
+![[04001.png]]
+
 *Noldor. Noble. Ranger.*
 
 ---

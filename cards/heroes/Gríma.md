@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **9** · Lore
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 3
 
+![[07002.png]]
+
 *Rohan. Isengard.*
 
 ---

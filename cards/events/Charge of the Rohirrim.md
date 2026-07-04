@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[08116.png]]
+
 ---
 
 **Action:** Until the end of the phase, each **_Rohan_** character with a **_Mount_** attachment gets +3 ATK.

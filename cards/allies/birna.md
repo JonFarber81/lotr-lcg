@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **3** · Tactics
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 3
 
+![[305150.png]]
+
 *Beorning.*
 
 ---

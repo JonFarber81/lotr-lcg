@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[19114.png]]
+
 ---
 
 **Action:** Return a _**Silvan**_ ally you control to your hand to choose a hero. Add 1 resource to that hero’s pool.

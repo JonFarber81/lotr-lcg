@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **9** · Spirit
 > **WP** 1  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 4
 
+![[16002.png]]
+
 *Silvan. Noble. Scout.*
 
 ---

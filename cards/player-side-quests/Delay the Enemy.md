@@ -20,6 +20,8 @@ tags: [card, playersidequest, tactics]
 > [!danger] ⚔️ Player Side Quest · Cost: **0** · Tactics
 > **Quest Points:** 8  ·  **Victory** 1
 
+![[10058.png]]
+
 ---
 
 Battle.

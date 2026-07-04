@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[17032.png]]
+
 ---
 
 Play only if you control a unique character with the **_Noble_** trait and another unique character with the **_Ranger_** trait.

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[22089.png]]
+
 ---
 
 Doomed 2.

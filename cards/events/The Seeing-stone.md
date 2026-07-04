@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[07015.png]]
+
 ---
 
 Doomed 1.

@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **9** · Lore
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 3
 
+![[9902057.png]]
+
 *Silvan.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **3** · Spirit
 
+![[02122.png]]
+
 ---
 
 **Action:** Until the end of the phase, all **_Rohan_** characters get +2 WP

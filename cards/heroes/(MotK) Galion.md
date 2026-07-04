@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **1** · Spirit
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 1
 
+![[9919063.png]]
+
 *Silvan.*
 
 ---

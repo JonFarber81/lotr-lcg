@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **5** · Neutral
 
+![[17064.png]]
+
 ---
 
 Play only if the characters you control have a total of at least 9 different **_Traits**_ between them.

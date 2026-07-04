@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **2** · Lore
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 2
 
+![[12089.png]]
+
 *Hobbit. Shirriff.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[10060.png]]
+
 ---
 
 **Action:** Choose a **_Noldor_** or **_Silvan_** character.

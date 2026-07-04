@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **0** · Spirit
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 1
 
+![[19063.png]]
+
 *Silvan.*
 
 ---

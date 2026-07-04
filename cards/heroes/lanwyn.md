@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **9** · Spirit
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 3
 
+![[12030.png]]
+
 *Dale. Scout.*
 
 ---

@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **8** · Spirit
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 4
 
+![[303073.png]]
+
 *Bree.*
 
 ---

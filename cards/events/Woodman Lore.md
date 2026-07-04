@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[22141.png]]
+
 ---
 
 **Action:** Ready up to X **_Woodman_** characters you control, where X is the number of locations with player card attachments.

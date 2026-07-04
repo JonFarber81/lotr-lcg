@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[04032.png]]
+
 ---
 
 **Action:** Exhaust X characters to deal X damage to an enemy in the staging area.

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[01049.png]]
+
 ---
 
 **Action:** Choose a player. Shuffle that player's discard pile back into his deck. Remove Will of the West from the game.

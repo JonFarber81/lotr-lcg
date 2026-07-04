@@ -18,6 +18,8 @@ tags: [card, attachment, lore]
 
 > [!note] 📖 Attachment · Cost: **2** · Lore
 
+![[04110.png]]
+
 *Mount.*
 
 ---

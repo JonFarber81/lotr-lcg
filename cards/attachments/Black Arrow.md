@@ -18,6 +18,8 @@ tags: [card, attachment, tactics]
 
 > [!danger] ⚔️ Attachment · Cost: **0** · Tactics
 
+![[132015.png]]
+
 *Artifact. Item.*
 
 ---

@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **4** · Lore
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 3
 
+![[21005.png]]
+
 *Gondor. Noble. Ranger.*
 
 ---

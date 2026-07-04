@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **3** · Lore
 
+![[144012.png]]
+
 ---
 
 Lower the cost to play In the Shadows by 1 for each **_Hobbit_** or **_Ranger_** hero you control.

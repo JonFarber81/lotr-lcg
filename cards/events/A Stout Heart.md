@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[303081.png]]
+
 ---
 
 **Response**: Cancel a shadow effect just triggered during an undefended attack. After this attack damages a single hero, the controller of that hero may spend 1 resource from its pool to reduce their threat by 3.

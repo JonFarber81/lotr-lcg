@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **8** · Spirit
 > **WP** 3  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 4
 
+![[307003.png]]
+
 *Spirit. Healer. Minstrel.*
 
 ---

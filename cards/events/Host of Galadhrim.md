@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **4** · Neutral
 
+![[22036.png]]
+
 ---
 
 **Planning Action:** Return each **_Silvan_** ally you control to your hand. Then, play each of those allies from your hand one at a time at no cost.

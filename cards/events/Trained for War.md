@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[06036.png]]
+
 ---
 
 Play only if each hero you control has the printed (Tactics) resource icon.

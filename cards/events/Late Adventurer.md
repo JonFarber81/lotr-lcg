@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[131017.png]]
+
 ---
 
 **Quest Action:** Exhaust a character you control that is not committed to the quest to commit that character to the quest.

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **2** · Spirit
 
+![[01052.png]]
+
 ---
 
 **Action:** Choose an enemy engaged with a player. Return that enemy to the staging area.

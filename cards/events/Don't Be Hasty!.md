@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **0** · Lore
 
+![[08144.png]]
+
 ---
 
 **Response:** When an encounter card is revealed but before resolving any of that card's keywords or "when revealed" effects, choose a character committed to the quest. Ready that character and remove it from the quest.

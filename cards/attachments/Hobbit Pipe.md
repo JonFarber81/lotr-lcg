@@ -18,6 +18,8 @@ tags: [card, attachment, spirit]
 
 > [!info] 💧 Attachment · Cost: **0** · Spirit
 
+![[141015.png]]
+
 *Item. Pipe.*
 
 ---

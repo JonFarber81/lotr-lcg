@@ -18,6 +18,8 @@ tags: [card, attachment, neutral]
 
 > [!abstract] ⚪ Attachment · Cost: **-** · Neutral
 
+![[309046.png]]
+
 *Wall. Isengard.*
 
 ---

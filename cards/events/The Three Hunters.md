@@ -17,6 +17,8 @@ tags: [card, event, fellowship]
 
 > [!success] 💍 Event · Cost: **3** · Fellowship
 
+![[143013.png]]
+
 ---
 
 Play only if you control (Fellowship) Aragorn.

@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **4** · Lore
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 2  ·  **HP** 2
 
+![[300010.png]]
+
 *Rohan. Gondor. Noble.*
 
 ---

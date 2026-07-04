@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **12** · Leadership
 > **WP** 3  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 4
 
+![[302038.png]]
+
 *Creature. Eagle.*
 
 ---

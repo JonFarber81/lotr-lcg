@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **1** · Lore
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 1
 
+![[06008.png]]
+
 *Outlands.*
 
 ---

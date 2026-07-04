@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[01023.png]]
+
 ---
 
 **Action:** Put 1 ally card into play from your hand. At the end of the phase, if that ally is still in play, return it to your hand.

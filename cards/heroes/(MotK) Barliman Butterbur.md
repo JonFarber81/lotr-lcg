@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **5** · Lore
 > **WP** 1  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 3
 
+![[99141007.png]]
+
 *Bree.*
 
 ---

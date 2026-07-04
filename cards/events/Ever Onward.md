@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **3** · Leadership
 
+![[03005.png]]
+
 ---
 
 **Response:** After players quest unsuccessfully, choose a player. That player does not raise his threat.

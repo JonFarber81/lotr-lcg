@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[04105.png]]
+
 ---
 
 **Response:** After a **_Dwarf_** deals X damage to an enemy during combat, deal an additional X damage to that enemy. (Limit once per phase.)

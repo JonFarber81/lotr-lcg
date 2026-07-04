@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[01024.png]]
+
 ---
 
 **Response:** After an ally card leaves play, that card's controller draws 2 cards.

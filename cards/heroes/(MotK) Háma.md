@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **7** · Spirit
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 2
 
+![[99143007.png]]
+
 *Rohan. Warrior.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **5** · Spirit
 
+![[02101.png]]
+
 ---
 
 **Action:** Until the end of the phase, **_Rohan_** characters do not exhaust to commit to quests.

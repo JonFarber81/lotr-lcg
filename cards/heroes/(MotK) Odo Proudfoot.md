@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **5** · Spirit
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 2
 
+![[9922088.png]]
+
 *Hobbit.*
 
 ---

@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **2** · Spirit
 > **WP** 0  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 2
 
+![[303080.png]]
+
 *Dúnedain. Bree.*
 
 ---

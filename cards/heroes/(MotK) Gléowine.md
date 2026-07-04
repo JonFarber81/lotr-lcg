@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **3** · Lore
 > **WP** 1  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 2
 
+![[9901062.png]]
+
 *Minstrel. Rohan.*
 
 ---

@@ -22,6 +22,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **8** · Lore
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 6
 
+![[307002.png]]
+
 *Legend. Minstrel.*
 
 ---

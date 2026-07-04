@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **5** · Tactics
 
+![[22007.png]]
+
 ---
 
 Play only after staging step. **Quest Action**: You may declare and resolve an attack against each non-unique enemy in the staging are as if it were engaged with you.

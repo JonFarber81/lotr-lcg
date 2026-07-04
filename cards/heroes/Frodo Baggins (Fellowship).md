@@ -23,6 +23,8 @@ tags: [card, hero, fellowship]
 > [!success] 💍 Hero · Threat: **0** · Fellowship
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 2
 
+![[500006.png]]
+
 *Hobbit.*
 
 ---

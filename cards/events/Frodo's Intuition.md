@@ -17,6 +17,8 @@ tags: [card, event, fellowship]
 
 > [!success] 💍 Event · Cost: **2** · Fellowship
 
+![[141012.png]]
+
 ---
 
 **Action:** Each hero you control gets +1 WP until the end of the round. Draw 1 card for each **_Hobbit_** hero you control.

@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[12111.png]]
+
 ---
 
 **Response:** After you declare a **_Noble_** character as a defender against an attack made by an engaged enemy, return that enemy to the staging area. Then, cancel the attack.

@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **3** · Leadership
 
+![[146010.png]]
+
 ---
 
 **Quest Action:** Until the end of the phase, each **_Noble_** hero gets +1 WP and does not exhaust to commit to the quest.

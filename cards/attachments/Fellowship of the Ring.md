@@ -18,6 +18,8 @@ tags: [card, attachment, fellowship]
 
 > [!success] 💍 Attachment · Cost: **2** · Fellowship
 
+![[142010.png]]
+
 *Fellowship.*
 
 ---

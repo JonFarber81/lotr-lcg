@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **3** · Leadership
 > **WP** 0  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 2
 
+![[01015.png]]
+
 *Dúnedain.*
 
 ---

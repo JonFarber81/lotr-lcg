@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **12** · Leadership
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 5
 
+![[01001.png]]
+
 *Dúnedain. Noble. Ranger.*
 
 ---

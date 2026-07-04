@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **4** · Leadership
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 2
 
+![[99141006.png]]
+
 *Creature. Pony.*
 
 ---

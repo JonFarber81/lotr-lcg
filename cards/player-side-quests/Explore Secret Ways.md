@@ -19,6 +19,8 @@ tags: [card, playersidequest, lore]
 > [!note] 📖 Player Side Quest · Cost: **1** · Lore
 > **Quest Points:** 6
 
+![[17036.png]]
+
 ---
 
 Limit 1 copy of Explore Secret Ways in the victory display.

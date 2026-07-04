@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[08062.png]]
+
 ---
 
 **Response:** After your threat is raised by an encounter card effect, reduce your threat by an equal amount.

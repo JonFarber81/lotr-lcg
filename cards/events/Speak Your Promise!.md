@@ -17,6 +17,8 @@ tags: [card, event, fellowship]
 
 > [!success] 💍 Event · Cost: **1** · Fellowship
 
+![[144013.png]]
+
 ---
 
 **Action:** Ready the **_Ring-bearer_** to choose an enemy engaged with you. If the **_Ring-bearer's_** WP is greater than that enemy’s Threat, lower that enemy's ATK and DEF by the difference until the end of the phase.

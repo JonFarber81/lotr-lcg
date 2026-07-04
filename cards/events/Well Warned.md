@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[16008.png]]
+
 ---
 
 Play only if you control a unique character with the **_Noble_** trait and another unique character with the **_Scout_** trait.

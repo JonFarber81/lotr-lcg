@@ -18,6 +18,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **X** · Leadership
 
+![[06083.png]]
+
 *Outlands.*
 
 ---

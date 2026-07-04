@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **2** · Lore
 > **WP** 1  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 2
 
+![[01062.png]]
+
 *Minstrel. Rohan.*
 
 ---

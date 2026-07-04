@@ -18,6 +18,8 @@ tags: [card, attachment, tactics]
 
 > [!danger] ⚔️ Attachment · Cost: **4** · Tactics
 
+![[06059.png]]
+
 *Record.*
 
 ---

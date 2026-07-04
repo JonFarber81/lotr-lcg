@@ -23,6 +23,8 @@ tags: [card, ally, neutral]
 > [!abstract] ⚪ Ally · Cost: **3** · Neutral
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 2
 
+![[08065.png]]
+
 *Silvan. Warrior.*
 
 ---

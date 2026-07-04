@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[132009.png]]
+
 ---
 
 **Action:** Exhaust a **_Weapon_** attachment to choose a non-unique enemy with 0 DEF. Discard the chosen enemy.

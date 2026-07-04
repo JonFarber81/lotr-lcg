@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[04059.png]]
+
 ---
 
 **Action:** If you control a unique **_Noldor_** character, give another character +1 WP until the end of the phase and lower your threat by 3.

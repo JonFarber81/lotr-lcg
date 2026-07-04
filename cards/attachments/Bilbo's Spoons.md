@@ -18,6 +18,8 @@ tags: [card, attachment, tactics]
 
 > [!danger] ⚔️ Attachment · Cost: **0** · Tactics
 
+![[307018.png]]
+
 *Item. Mathom.*
 
 ---

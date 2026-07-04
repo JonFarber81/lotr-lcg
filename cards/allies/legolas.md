@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **4** · Tactics
 > **WP** 1  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 3
 
+![[143005.png]]
+
 *Silvan. Warrior.*
 
 ---

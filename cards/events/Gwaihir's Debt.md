@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[19151.png]]
+
 ---
 
 Play only if you control a unique character with the Istari trait and another unique character with the Eagle trait. **Action**: Search the top 5 cards of your deck for an Eagle or **_Istari_** ally and put it into play. Shuffle your deck. At the end of the round, if that ally is still in play, return it to your hand.

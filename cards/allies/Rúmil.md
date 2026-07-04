@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **4** · Tactics
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 2
 
+![[08028.png]]
+
 *Silvan. Scout.*
 
 ---

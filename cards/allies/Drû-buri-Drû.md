@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **2** · Lore
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 2
 
+![[310078.png]]
+
 *Wose. Warrior.*
 
 ---

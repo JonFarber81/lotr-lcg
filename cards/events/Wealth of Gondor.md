@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[05006.png]]
+
 ---
 
 **Action:** Choose a **_Gondor_** hero. Add 1 resource to that hero's resource pool.

@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **3** · Tactics
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 3
 
+![[12112.png]]
+
 *Noldor. Warrior.*
 
 ---

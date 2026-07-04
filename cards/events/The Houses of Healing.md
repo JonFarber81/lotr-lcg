@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **5** · Lore
 
+![[12118.png]]
+
 ---
 
 You may exhaust any number of **_Heale_r** characters you control as part of this card's cost. Reduce the cost to play this card by 1 for each **_Healer_** character you exhaust in this way.

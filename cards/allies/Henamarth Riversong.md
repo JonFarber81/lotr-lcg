@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **1** · Lore
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 1
 
+![[01060.png]]
+
 *Silvan.*
 
 ---

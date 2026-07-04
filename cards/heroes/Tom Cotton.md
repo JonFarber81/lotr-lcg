@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **8** · Tactics
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 3  ·  **HP** 3
 
+![[146004.png]]
+
 *Hobbit.*
 
 ---

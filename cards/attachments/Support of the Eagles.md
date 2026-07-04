@@ -18,6 +18,8 @@ tags: [card, attachment, tactics]
 
 > [!danger] ⚔️ Attachment · Cost: **3** · Tactics
 
+![[02120.png]]
+
 *Boon.*
 
 ---

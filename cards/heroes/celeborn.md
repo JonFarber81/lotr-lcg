@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **11** · Leadership
 > **WP** 3  ·  **ATK** 2  ·  **DEF** 2  ·  **HP** 4
 
+![[08001.png]]
+
 *Silvan. Noble.*
 
 ---

@@ -20,6 +20,8 @@ tags: [card, playersidequest, leadership]
 > [!tip] 👑 Player Side Quest · Cost: **1** · Leadership
 > **Quest Points:** 6  ·  **Victory** 1
 
+![[10086.png]]
+
 ---
 
 Limit 1 per deck.

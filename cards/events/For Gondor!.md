@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **2** · Leadership
 
+![[01022.png]]
+
 ---
 
 **Action:** Until the end of the phase, all characters get +1 ATK. All **_Gondor_** characters also get +1 DEF until the end of the phase.

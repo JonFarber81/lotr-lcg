@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[132011.png]]
+
 ---
 
 **Action:** Exhaust a hero you control to shuffle the encounter deck and look at its top card. Place progress tokens on the current quest equal to the Threat of the card you looked at. Then, put that card back on top of the encounter deck.

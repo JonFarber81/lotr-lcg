@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[02058.png]]
+
 ---
 
 **Action:** Move any number of damage from one enemy to another.

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **2** · Spirit
 
+![[12143.png]]
+
 ---
 
 **Action:** Choose a hero you control. Each hero with lower threat cost than the chosen hero gets +2 DEF until the end of the phase. Then, the players as a group may spend 2 (Leadership) resources to give +2 ATK to each hero with lower threat cost than the chosen hero until the end of the phase.

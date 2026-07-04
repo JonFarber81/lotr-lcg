@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **9** · Lore
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 2
 
+![[02001.png]]
+
 *Hobbit.*
 
 ---

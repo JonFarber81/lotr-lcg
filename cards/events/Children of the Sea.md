@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[06113.png]]
+
 ---
 
 **Action:** Choose a **_Silvan**_ or **_Noldor**_ ally you control. That ally gets +2 WP until the end of the phase. At the end of the phase, shuffle that ally into its owner's deck if it is still in play.

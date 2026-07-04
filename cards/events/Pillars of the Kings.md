@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **4** · Leadership
 
+![[22003.png]]
+
 ---
 
 While your threat is less than 40, reduce the cost to play Pillars of the Kings by 4. **Action**: Set your threat to 40. If this effect raised your threat, draw a card (draw 4 cards instead if it raised your threat by 10 or more).

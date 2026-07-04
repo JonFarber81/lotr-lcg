@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[17034.png]]
+
 ---
 
 Play only if the main quest has no keywords.

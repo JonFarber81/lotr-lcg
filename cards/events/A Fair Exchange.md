@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[306184.png]]
+
 ---
 
 **Action**: Discard a unique card from your hand that shares a title with a card in play to search your deck for a different unique card and add it to your hand. Shuffle your deck.

@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **3** · Leadership
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 2  ·  **HP** 3
 
+![[19113.png]]
+
 *Silvan. Warrior.*
 
 ---

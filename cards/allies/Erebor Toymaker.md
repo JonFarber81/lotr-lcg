@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **3** · Spirit
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 2
 
+![[19119.png]]
+
 *Dwarf. Craftsman.*
 
 ---

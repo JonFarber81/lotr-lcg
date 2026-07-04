@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[19088.png]]
+
 ---
 
 **Action**: Each location with an attachment gets -2 Threat until the end of the phase.

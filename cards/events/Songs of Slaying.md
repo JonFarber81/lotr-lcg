@@ -18,6 +18,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[307007.png]]
+
 *Song.*
 
 ---

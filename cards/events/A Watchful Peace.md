@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[05012.png]]
+
 ---
 
 **Response:** After a location worth no victory points leaves play as an explored location, return it to the top of the encounter deck.

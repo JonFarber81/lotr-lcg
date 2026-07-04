@@ -18,6 +18,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[07014.png]]
+
 *Spell.*
 
 ---

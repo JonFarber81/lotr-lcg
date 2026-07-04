@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **2** · Lore
 
+![[17142.png]]
+
 ---
 
 Play only if you control a unique character with the **_Ent**_ trait and another unique character with the **_Hobbit**_ trait.

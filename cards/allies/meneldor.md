@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **3** · Tactics
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 2
 
+![[19031.png]]
+
 *Creature. Eagle.*
 
 ---

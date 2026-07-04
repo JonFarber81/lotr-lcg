@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[03012.png]]
+
 ---
 
 **Action:** Exhaust a **_Dwarf_** character to place 2 progress tokens on the active location. (4 progress tokens instead if it is an **_Underground_** or **_Mountain_** location.)

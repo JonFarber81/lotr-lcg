@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[10062.png]]
+
 ---
 
 Limit 3 copies of None Return in the victory display.

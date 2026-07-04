@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[22116.png]]
+
 ---
 
 **Action:** Reduce the cost of the next card you play by 1 for each **Pipe** you control.

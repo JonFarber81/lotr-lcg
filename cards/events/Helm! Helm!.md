@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **2** · Spirit
 
+![[143012.png]]
+
 ---
 
 Play only after the resolving enemy attacks step is complete.

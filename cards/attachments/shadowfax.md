@@ -18,6 +18,8 @@ tags: [card, attachment, neutral]
 
 > [!abstract] ⚪ Attachment · Cost: **3** · Neutral
 
+![[143014.png]]
+
 *Mount. Mearas.*
 
 ---

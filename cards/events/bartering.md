@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **0** · Lore
 
+![[18015.png]]
+
 ---
 
 **Planning Action:** Choose a ready player attachment on a character you control. Return that attachment to its owner’s hand to reduce the cost of the next attachment played this phase by X, where is the chosen attachment’s cost.

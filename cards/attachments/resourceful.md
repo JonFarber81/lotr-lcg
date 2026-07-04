@@ -17,6 +17,8 @@ tags: [card, attachment, neutral]
 
 > [!abstract] ⚪ Attachment · Cost: **4** · Neutral
 
+![[04062.png]]
+
 ---
 
 Secrecy 3.

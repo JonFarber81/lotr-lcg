@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **4** · Leadership
 
+![[300008.png]]
+
 ---
 
 Feast of Plenty’s resource cost must be paid from a single hero’s resource pool.

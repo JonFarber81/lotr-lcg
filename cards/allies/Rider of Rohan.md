@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **3** · Spirit
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 2
 
+![[17060.png]]
+
 *Rohan. Scout.*
 
 ---

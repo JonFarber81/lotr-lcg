@@ -18,6 +18,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[308009.png]]
+
 *Spell.*
 
 ---

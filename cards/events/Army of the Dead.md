@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **2** · Leadership
 
+![[309044.png]]
+
 ---
 
 Play only if Fulfil Your Oath is in the victory display.

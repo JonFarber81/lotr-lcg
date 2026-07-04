@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[10088.png]]
+
 ---
 
 **Action:** All enemies get -1 ATK until the end of the phase.

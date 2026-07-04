@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **11** · Tactics
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 4
 
+![[132003.png]]
+
 *Esgaroth. Warrior.*
 
 ---

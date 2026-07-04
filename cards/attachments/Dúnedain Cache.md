@@ -18,6 +18,8 @@ tags: [card, attachment, leadership]
 
 > [!tip] 👑 Attachment · Cost: **2** · Leadership
 
+![[02097.png]]
+
 *Item.*
 
 ---

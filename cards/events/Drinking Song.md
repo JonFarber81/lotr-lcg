@@ -18,6 +18,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **0** · Lore
 
+![[19116.png]]
+
 *Song.*
 
 ---

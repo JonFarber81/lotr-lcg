@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[11004.png]]
+
 ---
 
 As an additional cost to play Skyward Volley, exhaust a ranged character you control.

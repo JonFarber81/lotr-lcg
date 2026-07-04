@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **3** · Spirit
 
+![[10121.png]]
+
 ---
 
 Lords of the Eldar can only be played from your discard pile.

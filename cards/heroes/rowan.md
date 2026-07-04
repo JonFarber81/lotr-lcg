@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **10** · Leadership
 > **WP** 2  ·  **ATK** 1  ·  **DEF** 3  ·  **HP** 3
 
+![[305144.png]]
+
 *Woodman. Warrior.*
 
 ---

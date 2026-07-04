@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[08090.png]]
+
 ---
 
 **Action:** Return a **_Silvan_** ally you control to your hand to reduce your threat by X where X is the printed cost of the ally returned to your hand.

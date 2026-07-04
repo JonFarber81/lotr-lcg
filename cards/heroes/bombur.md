@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **8** · Lore
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 5
 
+![[132005.png]]
+
 *Dwarf.*
 
 ---

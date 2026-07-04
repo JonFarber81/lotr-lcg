@@ -18,6 +18,8 @@ tags: [card, attachment, lore]
 
 > [!note] 📖 Attachment · Cost: **3** · Lore
 
+![[01072.png]]
+
 *Skill.*
 
 ---

@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **2** · Spirit
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 1
 
+![[300014.png]]
+
 *Gondor. Scout.*
 
 ---

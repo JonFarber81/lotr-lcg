@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[02003.png]]
+
 ---
 
 **Action:** Each player draws 1 card.

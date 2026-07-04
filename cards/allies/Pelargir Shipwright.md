@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **3** · Spirit
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 3
 
+![[06086.png]]
+
 *Gondor. Craftsman.*
 
 ---

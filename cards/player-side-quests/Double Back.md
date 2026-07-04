@@ -20,6 +20,8 @@ tags: [card, playersidequest, spirit]
 > [!info] 💧 Player Side Quest · Cost: **0** · Spirit
 > **Quest Points:** 4  ·  **Victory** 1
 
+![[10034.png]]
+
 ---
 
 Limit 1 per deck.

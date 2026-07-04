@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **2** · Tactics
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 1
 
+![[302047.png]]
+
 *Creature.*
 
 ---

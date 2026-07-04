@@ -23,6 +23,8 @@ tags: [card, ally, neutral]
 > [!abstract] ⚪ Ally · Cost: **4** · Neutral
 > **WP** 2  ·  **ATK** 4  ·  **DEF** 3  ·  **HP** 5
 
+![[08146.png]]
+
 *Ent.*
 
 ---

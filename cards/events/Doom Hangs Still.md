@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **5** · Leadership
 
+![[10117.png]]
+
 ---
 
 **Planning Action:** Until the end of the round, players do not raise their threat from questing unsuccessfully.

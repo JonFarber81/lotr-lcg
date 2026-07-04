@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **4** · Tactics
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 3  ·  **HP** 3
 
+![[12060.png]]
+
 *Rohan. Warrior.*
 
 ---

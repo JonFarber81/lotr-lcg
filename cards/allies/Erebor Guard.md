@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **4** · Spirit
 > **WP** 0  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 3
 
+![[16004.png]]
+
 *Dwarf. Warrior.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[01037.png]]
+
 ---
 
 **Response:** After a character is declared as a defender, deal 2 damage to the attacking enemy.

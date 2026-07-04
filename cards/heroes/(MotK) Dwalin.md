@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **7** · Spirit
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 3
 
+![[99132008.png]]
+
 *Dwarf.*
 
 ---

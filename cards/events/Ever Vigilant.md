@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[01020.png]]
+
 ---
 
 **Action:** Choose and ready 1 ally card.

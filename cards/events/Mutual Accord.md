@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[05005.png]]
+
 ---
 
 **Action:** Until the end of the phase, each **_Gondor_** card in play gains the **_Rohan_** trait, and each **_Rohan_** card in play gains the **_Gondor_** trait.

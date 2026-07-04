@@ -18,6 +18,8 @@ tags: [card, attachment, neutral]
 
 > [!abstract] ⚪ Attachment · Cost: **2** · Neutral
 
+![[22063.png]]
+
 *Artifact. Item. Staff.*
 
 ---

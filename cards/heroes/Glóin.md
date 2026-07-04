@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **9** · Leadership
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 4
 
+![[01003.png]]
+
 *Dwarf. Noble.*
 
 ---

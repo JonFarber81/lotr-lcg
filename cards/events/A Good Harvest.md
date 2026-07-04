@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[06010.png]]
+
 ---
 
 **Action:** Name a sphere. Until the end of the phase, you can spend resources of any sphere when paying for cards that belong to the named sphere.

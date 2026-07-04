@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[01032.png]]
+
 ---
 
 **Action:** Choose a character. Until the end of the phase, that character gains +1 ATK and +1 DEF.

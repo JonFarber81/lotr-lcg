@@ -23,6 +23,8 @@ tags: [card, ally, neutral]
 > [!abstract] ⚪ Ally · Cost: **2** · Neutral
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 1
 
+![[05018.png]]
+
 *Gondor.*
 
 ---

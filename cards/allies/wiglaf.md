@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **5** · Leadership
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 3
 
+![[19027.png]]
+
 *Dale. Scout. Warrior.*
 
 ---

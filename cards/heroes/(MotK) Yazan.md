@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **9** · Tactics
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 3
 
+![[9917004.png]]
+
 *Harad. Ranger.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[301007.png]]
+
 ---
 
 Limit 3 copies of Weep No More! in the victory display.

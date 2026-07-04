@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[08085.png]]
+
 ---
 
 **Action:** Take control of the first player token and draw 1 card.

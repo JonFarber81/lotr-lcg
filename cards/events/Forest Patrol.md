@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[06089.png]]
+
 ---
 
 Play only if you control at least 1 **_Ranger_** character.

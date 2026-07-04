@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **1** · Lore
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 0  ·  **HP** 1
 
+![[9912117.png]]
+
 *Gondor. Healer.*
 
 ---

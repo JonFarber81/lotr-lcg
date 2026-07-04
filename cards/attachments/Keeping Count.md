@@ -17,6 +17,8 @@ tags: [card, attachment, tactics]
 
 > [!danger] ⚔️ Attachment · Cost: **0** · Tactics
 
+![[04005.png]]
+
 ---
 
 Attach to a hero. Limit 1 per hero.

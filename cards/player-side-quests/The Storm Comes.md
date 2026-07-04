@@ -20,6 +20,8 @@ tags: [card, playersidequest, neutral]
 > [!abstract] ⚪ Player Side Quest · Cost: **0** · Neutral
 > **Quest Points:** 5  ·  **Victory** 1
 
+![[16013.png]]
+
 ---
 
 Limit 1 copy of The Storm Comes in the victory display.

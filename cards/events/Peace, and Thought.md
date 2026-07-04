@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[04135.png]]
+
 ---
 
 **Refresh Action:** Exhaust 2 heroes to draw 5 cards.

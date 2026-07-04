@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[10030.png]]
+
 ---
 
 Ready up to X **_Dúnedain_** characters you control. X is the number of enemies engaged with you.

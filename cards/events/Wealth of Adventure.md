@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[300007.png]]
+
 ---
 
 **Action**: Search your deck for a card with the **_Skill_** trait and add it to your hand. Shuffle your deck.

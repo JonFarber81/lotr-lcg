@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **4** · Tactics
 
+![[10144.png]]
+
 ---
 
 **Action:** Choose a hero. Until the end of the phase, the chosen hero does not exhaust to attack or defend.

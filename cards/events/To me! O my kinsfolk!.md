@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[132012.png]]
+
 ---
 
 **Action:** If you control at least 1 **_Dwarf_** hero, put a **_Dwarf_** ally from your discard pile into play under your control. Put that ally on the bottom of your deck at the end of the phase.

@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **10** · Leadership
 > **WP** 3  ·  **ATK** 1  ·  **DEF** 0  ·  **HP** 3
 
+![[309037.png]]
+
 *Isengard. Steward.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **3** · Spirit
 
+![[01046.png]]
+
 ---
 
 **Action:** Reduce one player's threat by 6, or reduce each player's threat by 2.

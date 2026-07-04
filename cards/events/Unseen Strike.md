@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[04004.png]]
+
 ---
 
 **Action:** Choose a character you control. Until the end of the phase, that character gets +3 ATK while attacking an enemy with a higher engagement cost than your threat.

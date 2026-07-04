@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **2** · Leadership
 
+![[10003.png]]
+
 ---
 
 **Response:** After an ally leaves play, add it to its owner's hand instead of placing it in the discard pile.

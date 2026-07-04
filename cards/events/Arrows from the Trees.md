@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[12065.png]]
+
 ---
 
 Play only after making engagement checks.

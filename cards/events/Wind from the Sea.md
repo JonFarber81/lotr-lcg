@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **-** · Neutral
 
+![[17144.png]]
+
 ---
 
 Encounter. 

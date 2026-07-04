@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **4** · Tactics
 
+![[300020.png]]
+
 ---
 
 Reduce the cost to play Need Brooks No Delay by 1 for each **_Rohan_** hero you control.

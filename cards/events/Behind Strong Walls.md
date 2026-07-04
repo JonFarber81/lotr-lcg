@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[05008.png]]
+
 ---
 
 **Action:** Ready a defending **_Gondor_** character. That character gets +1 DEF until the end of the phase.

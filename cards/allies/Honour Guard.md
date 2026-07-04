@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **2** · Tactics
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 3
 
+![[10004.png]]
+
 *Gondor. Warrior.*
 
 ---

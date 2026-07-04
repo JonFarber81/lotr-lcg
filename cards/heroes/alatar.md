@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **12** · Spirit
 > **WP** 3  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 4
 
+![[308001.png]]
+
 *Istari. Easterling.*
 
 ---

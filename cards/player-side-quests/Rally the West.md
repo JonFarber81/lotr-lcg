@@ -20,6 +20,8 @@ tags: [card, playersidequest, spirit]
 > [!info] 💧 Player Side Quest · Cost: **1** · Spirit
 > **Quest Points:** 6  ·  **Victory** 1
 
+![[17087.png]]
+
 ---
 
 Limit 1 copy of Rally the West in the victory display. While this side quest is in the victory display, each hero gets +1 WP.

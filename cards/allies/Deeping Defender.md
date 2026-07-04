@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **2** · Lore
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 3  ·  **HP** 2
 
+![[300009.png]]
+
 *Rohan.*
 
 ---

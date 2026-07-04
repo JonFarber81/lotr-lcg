@@ -17,6 +17,8 @@ tags: [card, event, baggins]
 
 > [!example] 🍃 Event · Cost: **1** · Baggins
 
+![[132013.png]]
+
 ---
 
 **Action:** Choose a character in play (other than Bilbo Baggins). Add Bilbo Baggins' total WP, ATK, and DEF to that character's WP, ATK, and DEF respectively until the end of the phase.

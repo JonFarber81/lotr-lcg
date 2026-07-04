@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[06138.png]]
+
 ---
 
 **Combat Action:** Each **_Rohan_** hero can be declared as an attacker against enemies in the staging area this phase.

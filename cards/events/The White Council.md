@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **X** · Neutral
 
+![[08010.png]]
+
 ---
 
 X is the number of players in the game.

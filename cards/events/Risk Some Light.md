@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **3** · Lore
 
+![[04136.png]]
+
 ---
 
 Secrecy 3.

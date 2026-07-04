@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **10** · Leadership
 > **WP** 3  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 4
 
+![[300001.png]]
+
 *Gondor. Warrior.*
 
 ---

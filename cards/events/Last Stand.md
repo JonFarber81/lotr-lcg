@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[12005.png]]
+
 ---
 
 **Response:** After a **_Warrior_** character is destroyed while defending against an enemy attack, deal damage to the attacking enemy equal to that character's printed ATK.

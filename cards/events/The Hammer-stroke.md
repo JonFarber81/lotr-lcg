@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[06111.png]]
+
 ---
 
 **Encounter Action:** Engage each enemy in play.

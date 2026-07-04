@@ -23,6 +23,8 @@ tags: [card, ally, leadership]
 > [!tip] 👑 Ally · Cost: **3** · Leadership
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 1
 
+![[01017.png]]
+
 *Archer. Silvan.*
 
 ---

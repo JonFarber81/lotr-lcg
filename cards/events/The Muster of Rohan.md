@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **4** · Spirit
 
+![[22062.png]]
+
 ---
 
 While paying for The Muster of Rohan, each **_Rohan_** hero you control is considered to have a (Spirit) icon. 

@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[03008.png]]
+
 ---
 
 **Action:** Choose a **_Dwarf_** character. Until the end of the phase, that character gets +3 ATK.

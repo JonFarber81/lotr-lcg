@@ -23,6 +23,8 @@ tags: [card, hero, neutral]
 > [!abstract] ⚪ Hero · Threat: **14** · Neutral
 > **WP** 3  ·  **ATK** 3  ·  **DEF** 3  ·  **HP** 5
 
+![[142002.png]]
+
 *Istari.*
 
 ---

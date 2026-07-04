@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **1** · Leadership
 
+![[300006.png]]
+
 ---
 
 **Action**: Search the top 5 cards of your deck for an ally that shares a **_Trait_** with each of your heroes and put it into play. Shuffle your deck. At the end of the phase, if that ally did not leave play, add it to your hand.

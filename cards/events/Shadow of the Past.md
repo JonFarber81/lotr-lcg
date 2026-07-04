@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **2** · Neutral
 
+![[02125.png]]
+
 ---
 
 **Action:** Move the top card of the encounter discard pile to the top of the encounter deck.

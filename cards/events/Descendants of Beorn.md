@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[305151.png]]
+
 ---
 
 **Response**: When a **_Beorning_** ally you control leaves play, add 1 resource to a **_Beorning_** hero’s pool for each damage token that was on that ally (up to that ally’s printed hit points).

@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **2** · Tactics
 
+![[02054.png]]
+
 ---
 
 **Response:** After an ally is destroyed, exhaust 1 **_Eagle_** character to move that ally from the discard pile to its owner's hand.

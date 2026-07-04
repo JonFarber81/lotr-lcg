@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **5** · Leadership
 
+![[01025.png]]
+
 ---
 
 **Action:** Ready all character cards in play.

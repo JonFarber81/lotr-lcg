@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[12061.png]]
+
 ---
 
 Play only if you control a **_Noldor_** hero.

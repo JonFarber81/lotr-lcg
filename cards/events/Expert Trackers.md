@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **0** · Lore
 
+![[09009.png]]
+
 ---
 
 **Response:** After you engage an enemy, exhaust a **_Scout_** or **_Ranger_** character to place X progress tokens on a location. X is the engaged enemy's printed Threat.

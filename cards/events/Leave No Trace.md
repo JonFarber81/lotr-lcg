@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[10035.png]]
+
 ---
 
 Limit 3 copies of Leave No Trace in the victory display.

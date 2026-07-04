@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **0** · Spirit
 
+![[19064.png]]
+
 ---
 
 **Response:** Return a **_Silvan_** ally you control to your hand to cancel a shadow effect just triggered during combat.

@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[141009.png]]
+
 ---
 
 **Action:** Choose a **_Hobbit_** character. That character gets +2 WP, +2 ATK, and +2 DEF until the end of the phase.

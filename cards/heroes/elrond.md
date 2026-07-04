@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **13** · Lore
 > **WP** 3  ·  **ATK** 2  ·  **DEF** 3  ·  **HP** 4
 
+![[04128.png]]
+
 *Noldor. Noble.*
 
 ---

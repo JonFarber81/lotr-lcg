@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **5** · Leadership
 > **WP** 1  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 2
 
+![[99301003.png]]
+
 *Hobbit.*
 
 ---

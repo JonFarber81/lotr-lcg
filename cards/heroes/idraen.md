@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **11** · Spirit
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 4
 
+![[08025.png]]
+
 *Dúnedain. Ranger. Scout.*
 
 ---

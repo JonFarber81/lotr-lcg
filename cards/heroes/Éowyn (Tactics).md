@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **9** · Tactics
 > **WP** 4  ·  **ATK** 1  ·  **DEF** 1  ·  **HP** 3
 
+![[145002.png]]
+
 *Rohan. Noble.*
 
 ---

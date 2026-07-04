@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[01066.png]]
+
 ---
 
 **Quest Action:** Choose a location in the staging area. Until the end of the phase, that location does not contribute its Threat

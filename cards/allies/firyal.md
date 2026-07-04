@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **5** · Lore
 > **WP** 3  ·  **ATK** 1  ·  **DEF** 2  ·  **HP** 3
 
+![[17008.png]]
+
 *Harad. Scout.*
 
 ---

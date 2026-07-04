@@ -18,6 +18,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **5** · Lore
 
+![[304106.png]]
+
 *Noldor. Dwarf. Song.*
 
 ---

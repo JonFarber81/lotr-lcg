@@ -23,6 +23,8 @@ tags: [card, ally, lore]
 > [!note] 📖 Ally · Cost: **3** · Lore
 > **WP** 0  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 3
 
+![[04035.png]]
+
 *Dwarf.*
 
 ---

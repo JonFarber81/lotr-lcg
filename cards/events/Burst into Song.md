@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **2** · Leadership
 
+![[17083.png]]
+
 ---
 
 **Action**: Ready each hero with a **_Song**_ attachment.

@@ -18,6 +18,8 @@ tags: [card, attachment, tactics]
 
 > [!danger] ⚔️ Attachment · Cost: **2** · Tactics
 
+![[08029.png]]
+
 *Item. Armor.*
 
 ---

@@ -23,6 +23,8 @@ tags: [card, hero, lore]
 > [!note] 📖 Hero · Threat: **10** · Lore
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 1  ·  **HP** 4
 
+![[19026.png]]
+
 *Woodman. Scout.*
 
 ---

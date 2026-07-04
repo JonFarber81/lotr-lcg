@@ -23,6 +23,8 @@ tags: [card, hero, spirit]
 > [!info] 💧 Hero · Threat: **7** · Spirit
 > **WP** 3  ·  **ATK** 0  ·  **DEF** 2  ·  **HP** 2
 
+![[9912142.png]]
+
 *Dúnedain. Scout.*
 
 ---

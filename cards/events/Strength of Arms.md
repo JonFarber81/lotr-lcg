@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **2** · Leadership
 
+![[06034.png]]
+
 ---
 
 Play only if each hero you control has a printed (Leadership) resource icon.

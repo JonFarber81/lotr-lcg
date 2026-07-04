@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **10** · Tactics
 > **WP** 2  ·  **ATK** 3  ·  **DEF** 2  ·  **HP** 3
 
+![[502993.png]]
+
 *Dale. Noble. Warrior.*
 
 ---

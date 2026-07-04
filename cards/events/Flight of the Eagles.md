@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[19032.png]]
+
 ---
 
 **Action:** Return an **_Eagle_** ally to your hand to shuffle a set-aside Eagle of the North into the encounter deck. Then, remove Flight of the Eagles from the game.

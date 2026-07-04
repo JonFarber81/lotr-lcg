@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[06003.png]]
+
 ---
 
 **Action:** Discard 2 resources from your hero's resource pool to add 3 resources to that hero's resource pool.

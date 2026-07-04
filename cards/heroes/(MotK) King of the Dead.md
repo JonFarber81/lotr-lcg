@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **5** · Leadership
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 1
 
+![[99309041.png]]
+
 *Undead. Oathbreaker.*
 
 ---

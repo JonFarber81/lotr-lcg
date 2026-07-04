@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **2** · Neutral
 
+![[305154.png]]
+
 ---
 
 Limit 1 copy of Without My Hat in the victory display.

@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **3** · Leadership
 
+![[10085.png]]
+
 ---
 
 You must spend resources from 3 different heroes' resource pools to play this card.

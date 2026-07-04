@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **3** · Lore
 
+![[141011.png]]
+
 ---
 
 Lower the cost play Take No Notice by 1 for each **_Hobbit_** or **_Ranger_** hero you control.

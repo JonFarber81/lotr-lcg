@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **1** · Lore
 
+![[01065.png]]
+
 ---
 
 **Quest Action:** Choose an enemy in the staging area. Until the end of the phase, that enemy does not contribute its Threat

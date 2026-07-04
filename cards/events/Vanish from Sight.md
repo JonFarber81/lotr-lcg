@@ -17,6 +17,8 @@ tags: [card, event, neutral]
 
 > [!abstract] ⚪ Event · Cost: **0** · Neutral
 
+![[12011.png]]
+
 ---
 
 Play only if you control 2 or fewer heroes.

@@ -23,6 +23,8 @@ tags: [card, ally, neutral]
 > [!abstract] ⚪ Ally · Cost: **5** · Neutral
 > **WP** 1  ·  **ATK** 2  ·  **DEF** 3  ·  **HP** 3
 
+![[306190.png]]
+
 *Dúnedain. Ranger.*
 
 ---

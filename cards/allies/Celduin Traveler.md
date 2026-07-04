@@ -23,6 +23,8 @@ tags: [card, ally, spirit]
 > [!info] 💧 Ally · Cost: **3** · Spirit
 > **WP** 2  ·  **ATK** 0  ·  **DEF** 1  ·  **HP** 2
 
+![[08089.png]]
+
 *Dale. Scout.*
 
 ---

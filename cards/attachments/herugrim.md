@@ -18,6 +18,8 @@ tags: [card, attachment, spirit]
 
 > [!info] 💧 Attachment · Cost: **3** · Spirit
 
+![[143010.png]]
+
 *Item. Weapon.*
 
 ---

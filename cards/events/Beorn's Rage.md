@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[19005.png]]
+
 ---
 
 **Response:** After a **_Beorning**_ character is declared as an attacker or defender against an enemy, that enemy gets -2 ATK and -2 DEF until the end of the phase.

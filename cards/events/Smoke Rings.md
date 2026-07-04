@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **2** · Spirit
 
+![[141010.png]]
+
 ---
 
 **Action:** Reduce your threat by 1 for each **_Pipe_** you control. Each hero with a **_Pipe_** attachment gets +1 WP until the end of the phase.

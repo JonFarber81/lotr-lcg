@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[12032.png]]
+
 ---
 
 **Resource Action:** Exhaust a **_Noble_** hero you control to add 2 resources to that hero's resource pool.

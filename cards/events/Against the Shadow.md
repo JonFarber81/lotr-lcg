@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **2** · Spirit
 
+![[06038.png]]
+
 ---
 
 Play only if each hero you control has the printed (Spirit) resource icon.

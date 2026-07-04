@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **X** · Spirit
 
+![[19153.png]]
+
 ---
 
 **Action**: Choose an **_Item_** attachment with a printed cost of X in any player's discard pile and play that attachment for no cost. (The chosen attachment can belong to any sphere of influence.)

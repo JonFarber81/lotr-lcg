@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[01033.png]]
+
 ---
 
 **Action:** Exhaust a character you control with the ranged keyword to choose a player. Deal 1 damage to each enemy engaged with that player.

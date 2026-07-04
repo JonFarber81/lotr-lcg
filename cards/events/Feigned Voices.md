@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[08027.png]]
+
 ---
 
 **Combat Action:** Return a **_Silvan_** ally you control to your hand to choose an enemy engaged with a player. That enemy cannot attack that player this phase.

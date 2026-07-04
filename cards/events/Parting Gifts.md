@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **0** · Leadership
 
+![[02052.png]]
+
 ---
 
 **Action:** Move any number of resource tokens from a (Leadership) hero's resource pool to any other hero's resource pool.

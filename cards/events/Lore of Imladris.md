@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **2** · Lore
 
+![[01063.png]]
+
 ---
 
 **Action:** Choose a character. Heal all damage from that character.

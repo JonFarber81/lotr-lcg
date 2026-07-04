@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **5** · Spirit
 
+![[05011.png]]
+
 ---
 
 **Action:** All characters get +2 DEF and do not exhaust to defend until the end of the round.

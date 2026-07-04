@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[300019.png]]
+
 ---
 
 **Combat Action**: Discard a **_Rohan_** ally you control to choose an enemy. Deal 2 damage to that enemy (4 damage instead if the ally was unique).

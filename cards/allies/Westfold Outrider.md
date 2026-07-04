@@ -23,6 +23,8 @@ tags: [card, ally, tactics]
 > [!danger] ⚔️ Ally · Cost: **2** · Tactics
 > **WP** 0  ·  **ATK** 2  ·  **DEF** 1  ·  **HP** 2
 
+![[07006.png]]
+
 *Rohan. Scout.*
 
 ---

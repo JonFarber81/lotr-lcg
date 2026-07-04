@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **1** · Spirit
 
+![[01048.png]]
+
 ---
 
 **Response:** Cancel a shadow effect just triggered during combat.

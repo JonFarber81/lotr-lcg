@@ -23,6 +23,8 @@ tags: [card, hero, tactics]
 > [!danger] ⚔️ Hero · Threat: **12** · Tactics
 > **WP** 2  ·  **ATK** 4  ·  **DEF** 1  ·  **HP** 5
 
+![[17135.png]]
+
 *Ent.*
 
 ---

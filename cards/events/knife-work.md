@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **1** · Tactics
 
+![[12114.png]]
+
 ---
 
 **Action:** Choose a player. Each enemy engaged with that player gets -1 DEF until the end of the phase. Then, the players as a group may spend 2 (Lore) resources to have the chosen player draw 1 card each time he attacks and destroys an enemy this phase.

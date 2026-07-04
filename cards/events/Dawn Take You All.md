@@ -17,6 +17,8 @@ tags: [card, event, leadership]
 
 > [!tip] 👑 Event · Cost: **2** · Leadership
 
+![[02118.png]]
+
 ---
 
 Play after shadow cards have been dealt, before any attacks have resolved.

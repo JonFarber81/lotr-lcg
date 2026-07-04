@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **2** · Lore
 
+![[301008.png]]
+
 ---
 
 Secrecy 1. Play only if you do not control a **_Warrior_** hero.

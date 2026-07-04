@@ -17,6 +17,8 @@ tags: [card, event, lore]
 
 > [!note] 📖 Event · Cost: **0** · Lore
 
+![[300011.png]]
+
 ---
 
 **Response**: After a **_Trap_** card you control attaches to an enemy, return it to your hand. Then, play it from your hand for no cost.

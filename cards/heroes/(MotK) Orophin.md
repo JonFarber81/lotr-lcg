@@ -23,6 +23,8 @@ tags: [card, hero, leadership]
 > [!tip] 👑 Hero · Threat: **6** · Leadership
 > **WP** 2  ·  **ATK** 2  ·  **DEF** 0  ·  **HP** 2
 
+![[9908114.png]]
+
 *Silvan. Scout.*
 
 ---

@@ -17,6 +17,8 @@ tags: [card, event, spirit]
 
 > [!info] 💧 Event · Cost: **5** · Spirit
 
+![[01054.png]]
+
 ---
 
 **Action:** Choose a hero in any player's discard pile. Put that card into play, under its owner's control.

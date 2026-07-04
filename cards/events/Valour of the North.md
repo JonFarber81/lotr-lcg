@@ -17,6 +17,8 @@ tags: [card, event, tactics]
 
 > [!danger] ⚔️ Event · Cost: **0** · Tactics
 
+![[18014.png]]
+
 ---
 
 **Response:** After a character is declared as an attacker or defender against an enemy with an attachment, that character gets +3 ATK and +3 DEF until the end of this attack.
