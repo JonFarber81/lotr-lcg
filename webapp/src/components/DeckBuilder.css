@@ -434,3 +434,27 @@
   text-align: center;
   line-height: 1.7;
 }
+
+/* ── Card hover popup ── */
+.card-popup {
+  position: fixed;
+  z-index: 1000;
+  width: 300px;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  box-shadow: 0 12px 40px rgba(0,0,0,0.8), 0 0 0 1px rgba(255,255,255,0.06);
+  pointer-events: none;
+  animation: popup-in 120ms ease both;
+}
+
+.card-popup img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 419 / 600;
+  object-fit: cover;
+}
+
+@keyframes popup-in {
+  from { opacity: 0; transform: scale(0.94); }
+  to   { opacity: 1; transform: scale(1); }
+}

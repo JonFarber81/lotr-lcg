@@ -54,6 +54,21 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
   const [traitFilter, setTraitFilter] = useState("");
   const [minWP, setMinWP]             = useState(0);
   const [minATK, setMinATK]           = useState(0);
+  const [popup, setPopup] = useState<{ card: Card; x: number; y: number } | null>(null);
+
+  function handleCardMouseEnter(card: Card, e: React.MouseEvent<HTMLDivElement>) {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const POPUP_W = 300;
+    const POPUP_H = Math.round(POPUP_W * 600 / 419);
+    const GAP = 10;
+    const vw = window.innerWidth;
+    const vh = window.innerHeight;
+    const x = rect.right + GAP + POPUP_W > vw
+      ? rect.left - POPUP_W - GAP
+      : rect.right + GAP;
+    const y = Math.min(rect.top, vh - POPUP_H - 8);
+    setPopup({ card, x, y });
+  }
 
   const eligible = useMemo(
     () => allCards.filter((c) => c.type_code !== "hero" && isCardEligible(c, heroes)),
@@ -171,6 +186,8 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
               <div
                 key={card.code}
                 className={`card-tile sphere-${card.sphere_code} ${qty > 0 ? "in-deck" : ""}`}
+                onMouseEnter={(e) => handleCardMouseEnter(card, e)}
+                onMouseLeave={() => setPopup(null)}
               >
                 <div className="card-tile-img-wrap">
                   <img
@@ -258,6 +275,18 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
           )}
         </div>
       </div>
+
+      {popup && (
+        <div
+          className="card-popup"
+          style={{ left: popup.x, top: popup.y }}
+        >
+          <img
+            src={`/images/${popup.card.code}.png`}
+            alt={popup.card.name}
+          />
+        </div>
+      )}
     </div>
   );
 }
