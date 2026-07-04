@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="a21af4e8-be4b-4cda-a6b6-534f9717391f">
+  <section name="Hero" shared="False">    <card qty="1" id="21f0ac18-21ea-44b7-b67b-4d1c5baaae0f">Arwen Undómiel</card>    <card qty="1" id="6dc19efc-af54-4eff-b9ee-ee45e9fd4072">Éowyn</card>    <card qty="1" id="51223bd0-ffd1-11df-a976-0801213c9004">Elrond</card>  </section>
+  <section name="Ally" shared="False">    <card qty="1" id="7309efbd-ea6a-45d5-bfec-2a4e0fc8d3b7">Glorfindel</card>    <card qty="2" id="d5500d57-03af-4152-9ad0-620aeb4fd50b">Marksman of Lórien</card>    <card qty="1" id="1a71163f-eeb4-4992-bd9c-83349d93cd58">Yazan</card>    <card qty="3" id="ba6d53fd-277c-4796-814b-ada9ff23cafd">Jubayr</card>    <card qty="3" id="43622914-dd7f-4990-89d3-7f1ce7a6525f">Firyal</card>    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9014">Faramir</card>    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9031">Beorn</card>    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9045">Northern Tracker</card>    <card qty="3" id="51223bd0-ffd1-11df-a976-0801200c9073">Gandalf</card>    <card qty="1" id="51223bd0-ffd1-11df-a976-0801204c9005">Gildor Inglorion</card>    <card qty="2" id="51223bd0-ffd1-11df-a976-0801205c9005">Elfhelm</card>    <card qty="3" id="51223bd0-ffd1-11df-a976-0801206c9009">Eagles of the Misty Mountains</card>    <card qty="3" id="51223bd0-ffd1-11df-a976-0801211c9026">Warden of Healing</card>    <card qty="3" id="51223bd0-ffd1-11df-a976-0801212c9019">Imladris Stargazer</card>    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9015">Master of the Forge</card>    <card qty="2" id="c266126d-cf2d-4a61-aac7-28bac2d1ea0d">Treebeard</card>  </section>
+  <section name="Attachment" shared="False">    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9026">Steward of Gondor</card>    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9057">Unexpected Courage</card>    <card qty="3" id="51223bd0-ffd1-11df-a976-0801213c9027">Vilya</card>  </section>
+  <section name="Event" shared="False">    <card qty="2" id="abebff49-8219-4ae0-bd26-266db57bdfc3">Elven-light</card>    <card qty="3" id="371e29be-17a9-4535-a9e0-bc13126522bb">Heed the Dream</card>    <card qty="1" id="51223bd0-ffd1-11df-a976-0801200c9046">The Galadhrim&#039;s Greeting</card>    <card qty="2" id="51223bd0-ffd1-11df-a976-0801200c9050">A Test of Will</card>  </section>
+  <section name="Side Quest" shared="False">    <card qty="1" id="128f940d-8a71-4a80-83c2-bdbc014d95c9">Gather Information</card>  </section>
+  <section name="Sideboard" shared="False">  </section>
+  <section name="Quest" shared="True" />
+  <section name="Encounter" shared="True" />
+  <section name="Special" shared="True" />
+  <section name="Setup" shared="True" />
+  <notes><![CDATA[]]></notes>
+</deck>
