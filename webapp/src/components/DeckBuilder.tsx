@@ -10,24 +10,28 @@ interface Props {
   setCardQty: (code: string, qty: number) => void;
 }
 
-const TYPES = ["ally", "attachment", "event", "player-side-quest", "contract"];
-const TYPE_LABELS: Record<string, string> = {
-  ally: "Allies",
-  attachment: "Attachments",
-  event: "Events",
-  "player-side-quest": "Side Quests",
-  contract: "Contracts",
+const TYPE_TABS = [
+  { key: "all",               label: "All" },
+  { key: "ally",              label: "Allies" },
+  { key: "attachment",        label: "Attachments" },
+  { key: "event",             label: "Events" },
+  { key: "player-side-quest", label: "Side Quests" },
+  { key: "contract",          label: "Contracts" },
+];
+
+const DECK_SECTION_ORDER = ["ally", "attachment", "event", "player-side-quest", "contract"];
+const DECK_SECTION_LABELS: Record<string, string> = {
+  ally:               "Allies",
+  attachment:         "Attachments",
+  event:              "Events",
+  "player-side-quest":"Side Quests",
+  contract:           "Contracts",
 };
 
 export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Props) {
-  const [search, setSearch] = useState("");
+  const [search, setSearch]       = useState("");
   const [typeFilter, setTypeFilter] = useState("all");
   const [sphereFilter, setSphereFilter] = useState("all");
-
-  const heroSpheres = useMemo(
-    () => new Set(heroes.map((h) => h.sphere_code)),
-    [heroes]
-  );
 
   const eligible = useMemo(
     () => allCards.filter((c) => c.type_code !== "hero" && isCardEligible(c, heroes)),
@@ -50,23 +54,35 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
 
   const totalCards = deckSize(deck);
 
-  // Group deck by type for the panel
   const deckByType = useMemo(() => {
     const groups: Record<string, { card: Card; qty: number }[]> = {};
     for (const [code, qty] of deck) {
       const card = allCards.find((c) => c.code === code);
       if (!card) continue;
-      const t = card.type_code;
-      if (!groups[t]) groups[t] = [];
-      groups[t].push({ card, qty });
+      if (!groups[card.type_code]) groups[card.type_code] = [];
+      groups[card.type_code].push({ card, qty });
     }
     return groups;
   }, [deck, allCards]);
 
   return (
     <div className="deck-builder">
-      {/* Card browser */}
+      {/* ── Left: card browser ── */}
       <div className="card-browser">
+        {/* Type tabs */}
+        <div className="type-tabs">
+          {TYPE_TABS.map((t) => (
+            <button
+              key={t.key}
+              className={`type-tab ${typeFilter === t.key ? "active" : ""}`}
+              onClick={() => setTypeFilter(t.key)}
+            >
+              {t.label}
+            </button>
+          ))}
+        </div>
+
+        {/* Search + sphere filter */}
         <div className="browser-toolbar">
           <input
             type="text"
@@ -74,12 +90,6 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
             value={search}
             onChange={(e) => setSearch(e.target.value)}
           />
-          <select value={typeFilter} onChange={(e) => setTypeFilter(e.target.value)}>
-            <option value="all">All types</option>
-            {TYPES.map((t) => (
-              <option key={t} value={t}>{TYPE_LABELS[t]}</option>
-            ))}
-          </select>
           <select value={sphereFilter} onChange={(e) => setSphereFilter(e.target.value)}>
             <option value="all">All spheres</option>
             {availableSpheres.map((s) => (
@@ -89,36 +99,41 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
           <span className="result-count">{filtered.length} cards</span>
         </div>
 
-        <div className="card-list">
+        {/* Card grid */}
+        <div className="card-grid">
           {filtered.map((card) => {
             const qty = deck.get(card.code) ?? 0;
             const atLimit = qty >= card.deck_limit;
             return (
-              <div key={card.code} className="card-row">
+              <div
+                key={card.code}
+                className={`card-tile sphere-${card.sphere_code} ${qty > 0 ? "in-deck" : ""}`}
+              >
                 <img
-                  className="card-thumb"
+                  className="card-tile-img"
                   src={`/images/${card.code}.png`}
                   alt={card.name}
                   loading="lazy"
                 />
-                <div className="card-info">
-                  <span className="card-name">
-                    {card.is_unique && "◆ "}
-                    {card.name}
+                {qty > 0 && (
+                  <div className="card-qty-badge">{qty}</div>
+                )}
+                <div className="card-tile-footer">
+                  <span className="card-tile-name">
+                    {card.is_unique && "◆ "}{card.name}
                   </span>
-                  <span className="card-meta">
-                    {card.type_name}
-                    {card.cost != null ? ` · ${card.cost}` : ""}
-                    {card.traits ? ` · ${card.traits}` : ""}
-                  </span>
+                  {card.cost != null && (
+                    <span className="card-tile-cost">{card.cost}</span>
+                  )}
                 </div>
-                <div className="card-qty-controls">
+                <div className="card-tile-controls">
                   <button
+                    className="tile-btn tile-btn-remove"
                     onClick={() => setCardQty(card.code, qty - 1)}
                     disabled={qty === 0}
                   >−</button>
-                  <span className={`qty-display ${qty > 0 ? "qty-active" : ""}`}>{qty}</span>
                   <button
+                    className="tile-btn tile-btn-add"
                     onClick={() => setCardQty(card.code, qty + 1)}
                     disabled={atLimit}
                     title={atLimit ? `Deck limit: ${card.deck_limit}` : ""}
@@ -130,26 +145,26 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
         </div>
       </div>
 
-      {/* Deck panel */}
+      {/* ── Right: deck panel ── */}
       <div className="deck-panel">
         <div className="deck-panel-header">
-          <span className="deck-heroes">
+          <div className="deck-heroes">
             {heroes.map((h) => (
               <span key={h.code} className={`hero-chip sphere-${h.sphere_code}`}>
                 {h.name}
               </span>
             ))}
-          </span>
+          </div>
           <span className={`deck-total ${totalCards >= 50 ? "ok" : "warn"}`}>
             {totalCards} / 50
           </span>
         </div>
 
         <div className="deck-list">
-          {TYPES.filter((t) => deckByType[t]?.length).map((type) => (
+          {DECK_SECTION_ORDER.filter((t) => deckByType[t]?.length).map((type) => (
             <div key={type} className="deck-section">
               <div className="deck-section-title">
-                {TYPE_LABELS[type]} ({deckByType[type].reduce((s, e) => s + e.qty, 0)})
+                {DECK_SECTION_LABELS[type]} ({deckByType[type].reduce((s, e) => s + e.qty, 0)})
               </div>
               {deckByType[type]
                 .sort((a, b) => (a.card.cost ?? 0) - (b.card.cost ?? 0))
@@ -170,7 +185,7 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
             </div>
           ))}
           {totalCards === 0 && (
-            <div className="deck-empty">Add cards from the browser on the left.</div>
+            <div className="deck-empty">Browse and add cards on the left.</div>
           )}
         </div>
       </div>

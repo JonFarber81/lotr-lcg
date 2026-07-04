@@ -178,6 +178,18 @@
   color: var(--text-dim);
 }
 
+.show-more {
+  grid-column: 1 / -1;
+  padding: 10px;
+  background: var(--surface2);
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  color: var(--text-dim);
+  font-size: 13px;
+  cursor: pointer;
+}
+.show-more:hover { color: var(--text); background: var(--border); }
+
 .hero-selected-mark {
   position: absolute;
   top: 6px;

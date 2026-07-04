@@ -211,6 +211,49 @@ python scripts/rename_to_title_case.py --dry-run  # preview
 python scripts/rename_to_title_case.py             # execute
 ```
 
+### build_cards_json.py
+
+Extracts card data from the RingsDB cache and writes `webapp/public/cards.json` for the deck builder web app. Run this once after `sync_cards.py`.
+
+```bash
+python scripts/build_cards_json.py
+```
+
+---
+
+## Deck Builder Web App
+
+A browser-based deck builder lives in `webapp/`. Pick 3 heroes, browse eligible cards by type (Allies, Attachments, Events…), and export a valid `.o8d` file for Dragn or OCTGN.
+
+### First-time setup
+
+```bash
+# 1. Wire up card images (one-time symlink)
+ln -s $(pwd)/cards/images webapp/public/images
+
+# 2. Install dependencies
+cd webapp && npm install
+
+# 3. Prepare card data (re-run after sync_cards.py)
+cd .. && python scripts/build_cards_json.py
+```
+
+### Starting the dev server
+
+```bash
+cd webapp
+npm run dev
+# → http://localhost:5174
+```
+
+### Keeping data fresh
+
+After running `sync_cards.py` to pull new cards from RingsDB, rebuild the webapp data:
+
+```bash
+python scripts/build_cards_json.py
+```
+
 ---
 
 ## RingsDB API Notes

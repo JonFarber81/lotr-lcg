@@ -10,9 +10,12 @@ interface Props {
 
 const SPHERES = ["leadership", "tactics", "spirit", "lore", "baggins", "fellowship"];
 
+const PAGE_SIZE = 40;
+
 export default function HeroPicker({ allCards, selected, onToggle }: Props) {
   const [search, setSearch] = useState("");
   const [sphereFilter, setSphereFilter] = useState<string>("all");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   const heroes = useMemo(
     () => allCards.filter((c) => c.type_code === "hero"),
@@ -27,6 +30,10 @@ export default function HeroPicker({ allCards, selected, onToggle }: Props) {
     });
   }, [heroes, search, sphereFilter]);
 
+  // Reset pagination when filter changes
+  useMemo(() => setVisibleCount(PAGE_SIZE), [search, sphereFilter]);
+
+  const visible = filtered.slice(0, visibleCount);
   const selectedCodes = new Set(selected.map((h) => h.code));
 
   return (
@@ -82,7 +89,7 @@ export default function HeroPicker({ allCards, selected, onToggle }: Props) {
       )}
 
       <div className="hero-grid">
-        {filtered.map((hero) => {
+        {visible.map((hero) => {
           const isSelected = selectedCodes.has(hero.code);
           const isFull = !isSelected && selected.length >= 3;
           return (
@@ -107,6 +114,14 @@ export default function HeroPicker({ allCards, selected, onToggle }: Props) {
             </div>
           );
         })}
+        {visibleCount < filtered.length && (
+          <button
+            className="show-more"
+            onClick={() => setVisibleCount((n) => n + PAGE_SIZE)}
+          >
+            Show {Math.min(PAGE_SIZE, filtered.length - visibleCount)} more…
+          </button>
+        )}
       </div>
     </div>
   );
