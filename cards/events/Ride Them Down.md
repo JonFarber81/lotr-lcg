@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Return of the King
 
 **Pack:** [[The Antlered Crown]] #142
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

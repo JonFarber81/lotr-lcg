@@ -36,3 +36,9 @@ While Erkenbrand is defending, he gains: "**Response:** Deal 1 damage to Erkenbr
 > — The Two Towers
 
 **Pack:** [[The Antlered Crown]] #137
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

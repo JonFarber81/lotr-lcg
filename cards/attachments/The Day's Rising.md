@@ -32,3 +32,9 @@ Attach to a hero with sentinel.
 > — Éomer, The Return of the King
 
 **Pack:** [[The Antlered Crown]] #139
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

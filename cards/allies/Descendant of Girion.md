@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 Reduce the cost to play **_Item_** attachments on Descendant of Girion by 1.
 
 **Pack:** [[The Ghost of Framsburg]] #91
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

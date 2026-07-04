@@ -25,3 +25,9 @@ tags: [card, attachment, spirit]
 Attach to the hero with The One Ring. Limit 1 per hero. Attached hero gets +1 DEF. **Response**: Exhaust The One Ring and raise your threat by 1 to cancel a shadow effect just triggered during an attack that attached hero is defending.
 
 **Pack:** [[Wrath and Ruin]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

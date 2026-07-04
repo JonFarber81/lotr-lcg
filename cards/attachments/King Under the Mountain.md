@@ -31,3 +31,9 @@ Attach to a **_Dwarf_** hero.
 > — Thorin, The Hobbit
 
 **Pack:** [[On the Doorstep]] #18
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

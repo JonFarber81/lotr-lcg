@@ -36,3 +36,9 @@ Each **_Outlands_** character you control gets +1 WP.
 > — The Return of the King
 
 **Pack:** [[The Steward's Fear]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

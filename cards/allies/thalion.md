@@ -31,3 +31,9 @@ While there is at least 1 side quest in the victory display, ready Thalion at th
 While there are at least 3 side quests in the victory display, Thalion loses the ally card type, gains the hero card type and the resource icons of each sphere on a side quest in the victory display.
 
 **Pack:** [[Fire in the Night]] #65
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

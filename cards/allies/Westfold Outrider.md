@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > — Rider of Rohan, The Two Towers
 
 **Pack:** [[The Voice of Isengard]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

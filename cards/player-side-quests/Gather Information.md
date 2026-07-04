@@ -31,3 +31,17 @@ Limit 1 per deck.
 > — The Tower Towers
 
 **Pack:** [[The Lost Realm]] #14 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- This Vilya deck in particular stands out for 5 reasons:
+1. A focus on making Vilya effective very quickly. This means dedicating several card slots ([[Master of the Forge]], [[Heed the Dream]], [[Gather Information]]) to ensure Vilya is found fast, and it means having very few cards in the deck that will be duds if Vilya gets used before an [[Imladris Stargazer]] is found.
+- Mulligan for [[Vilya]] or [[Master of the Forge]]. You might consider keeping a hand with [[Gather Information]] if it looks like you'll be able to clear it in a turn or two. If you start with the Master, you will get to see [[Arwen Undómiel]] really pull her weight, because you can discard a card to give [[Elrond]] a resource, then play the Master, exhaust him, hopefully find Vilya, and still have 2 resources leftover to play it. Since the deck has such a high concentration of strong allies, you can start using Vilya on turn 1.
+- The next priority is to find the [[Imladris Stargazer]]. This is often done through [[Heed the Dream]], [[Gather Information]], or simply drawing her.
+- I found this card to be extremely useful for making this sort of 'toolbox' type deck work. With Gather Information, no card in your deck is really a 1x. There is always this card that effectively become any card in your deck.
+- In addition to finding your 1x cards, if can be perhaps even more useful by acting as a fourth copy of your most important cards. I'll often keep a starting hand without Vilya if it looks like I'll be able to complete Gather Information in 1-2 turns. And it's often the case that you can, since your heroes start with a whopping 10  among them.

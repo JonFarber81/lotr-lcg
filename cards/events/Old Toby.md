@@ -25,3 +25,9 @@ tags: [card, event, lore]
 **Action**: Draw 1 card for each **_Pipe**_ you control. Heal 1 damage from each hero with a **_Pipe**_ attachment.
 
 **Pack:** [[The Black Serpent]] #89
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

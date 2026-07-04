@@ -27,3 +27,9 @@ Reduce the cost to play Map of Earnil by 1 for each hero you control with a prin
 **Action:** Discard Map of Earnil to play any (Spirit) event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck.
 
 **Pack:** [[Assault on Osgiliath]] #87
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

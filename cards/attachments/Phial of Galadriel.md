@@ -30,3 +30,9 @@ Attach to a **_Hobbit_** hero.
 > *“May it be a light to you in dark places, when all other lights go out.” —Galadriel, The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Mirror of Galadriel]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ Veteran of Osgiliath gets +1 WP, +1 ATK, and +1 DEF while your threat is 40 or h
 > — Faramir, The Two Towers
 
 **Pack:** [[Escape from Mount Gram]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

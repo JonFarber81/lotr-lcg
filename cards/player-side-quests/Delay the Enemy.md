@@ -27,3 +27,9 @@ Limit 1 per deck.
 **Response:** When this stage is defeated, each player may choose and discard a non-unique enemy engaged with him.
 
 **Pack:** [[Across the Ettenmoors]] #58 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

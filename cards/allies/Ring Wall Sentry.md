@@ -31,3 +31,9 @@ tags: [card, ally, leadership]
 **Response**: After Ring Wall Sentry defends an attack, ready it. (Limit once per phase.)
 
 **Pack:** [[ALeP - Fangs in the Dark]] #42
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

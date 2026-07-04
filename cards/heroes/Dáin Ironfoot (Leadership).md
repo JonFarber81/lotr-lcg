@@ -35,3 +35,9 @@ While Dáin Ironfoot is ready, **_Dwarf_** characters get +1 ATK and +1 WP.
 > — Bilbo Baggins, The Hobbit
 
 **Pack:** [[Return to Mirkwood]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

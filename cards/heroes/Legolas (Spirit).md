@@ -36,3 +36,9 @@ Ranged.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Sands of Harad]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

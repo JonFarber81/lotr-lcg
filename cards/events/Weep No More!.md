@@ -28,3 +28,9 @@ Limit 3 copies of Weep No More! in the victory display.
 > —Aragorn, The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Aldburg Plot]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

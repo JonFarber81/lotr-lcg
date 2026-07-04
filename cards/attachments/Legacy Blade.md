@@ -30,3 +30,9 @@ Attached hero gets +1 ATK for each side quest in the victory display. (Limit +3 
 > *… glad would he have been to know its fate who wrought it slowly long ago in the North-kingdom when the Dúnedain were young… -The Return of the King*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

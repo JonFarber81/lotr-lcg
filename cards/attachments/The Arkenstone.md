@@ -28,3 +28,9 @@ Each unique character you control gains +1 WP.
 **Action:** Reduce your threat by 2 to attach The Arkenstone to a hero controlled by another player and raise that player's threat by 2. (Limit once per round.)
 
 **Pack:** [[The Withered Heath]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

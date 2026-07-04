@@ -26,3 +26,9 @@ Guarded (enemy). Restricted.
 Guarded (enemy). Restricted. Attach to a hero. Attached hero gets +2 ATK. **Response**: After attach hero attacks and destroys an enemy, deal 1 damage to an enemy engaged with you.
 
 **Pack:** [[Wrath and Ruin]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ While committed to a quest, Escort from Edoras gets +2 WP
 **Forced:** After resolving a quest to which Escort from Edoras was committed, discard Escort from Edoras from play.
 
 **Pack:** [[A Journey to Rhosgobel]] #55
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

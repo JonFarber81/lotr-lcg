@@ -36,3 +36,9 @@ Ranged.
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

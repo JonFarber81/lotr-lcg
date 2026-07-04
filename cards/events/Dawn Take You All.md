@@ -28,3 +28,9 @@ Play after shadow cards have been dealt, before any attacks have resolved.
 > — Gandalf, The Hobbit
 
 **Pack:** [[Return to Mirkwood]] #118
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

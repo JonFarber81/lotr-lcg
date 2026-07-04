@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Response:** After Woodland Courier enters play, place 1 progress on a location (2 progress instead if that location has the **_Forest_** trait).
 
 **Pack:** [[The Drowned Ruins]] #87
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

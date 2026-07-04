@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — The Hobbit
 
 **Pack:** [[Core Set]] #43
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

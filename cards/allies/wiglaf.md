@@ -32,3 +32,9 @@ tags: [card, ally, leadership]
 **Action:** Exhaust an attachment on Wiglaf to ready him. (Limit once per phase.)
 
 **Pack:** [[Roam Across Rhovanion]] #27
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

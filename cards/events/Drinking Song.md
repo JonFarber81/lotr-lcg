@@ -31,3 +31,13 @@ tags: [card, event, lore]
 > —The Fellowship of the Ring
 
 **Pack:** [[Mount Gundabad]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- Mulligan for [[Steward of Gondor]] and/or [[Resourceful]]. Either card will let you start generating 2  resources per turn. Then, once you draw into either the Gaffer himself or [[Raise the Shire]], you're set to play Gaffer again and again every turn after. We're talking about a 2-card combo where each card has effectively 6 copies in the deck, so it's incredibly easy to set up. Even more so due to [[Drinking Song]] and the fact that the combo pieces are played on the table and do not have to be in your hand at the same time.
+- The card draw here is just nuts with Pippin grabbing you an extra card every turn and the absurdly good [[Drinking Song]].

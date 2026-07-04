@@ -36,3 +36,9 @@ Draw 1 additional card at the beginning of the resource phase.
 > — The Return of the King
 
 **Pack:** [[The Grey Havens]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

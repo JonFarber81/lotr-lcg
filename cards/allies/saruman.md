@@ -32,3 +32,9 @@ At the end of the round, discard Saruman from play.
 **Response:** After Saruman enters play, choose a non-unique enemy or location in the staging area. While Saruman is in play, the chosen enemy or location is considered to be out of play.
 
 **Pack:** [[The Voice of Isengard]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

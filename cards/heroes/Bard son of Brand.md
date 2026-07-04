@@ -31,3 +31,9 @@ While playing an **_Item_** attachment, Bard son of Brand is considered to have 
 **Response:** When a character leaves play, return each attachment attached to that character to its owner's hand. (Limit once per phase.)
 
 **Pack:** [[The Wilds of Rhovanion]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

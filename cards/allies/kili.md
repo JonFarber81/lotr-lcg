@@ -34,3 +34,9 @@ tags: [card, ally, spirit]
 > *"Let us join the throng!" —Kili, The Hobbit*
 
 **Pack:** [[Over Hill and Under Hill]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Two Towers
 
 **Pack:** [[Heirs of Númenor]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

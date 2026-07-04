@@ -33,3 +33,9 @@ Attached character gets +1 ATK
 > — Gloin, The Fellowship of the Ring
 
 **Pack:** [[Khazad-dûm]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

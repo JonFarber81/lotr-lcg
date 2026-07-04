@@ -26,3 +26,9 @@ Attached card gains turncoat. Limit 1 copy in play per **_Istari_** character in
 **Planning Action**: Exhaust an **_Istari_** character to attach Word of Persuasion to a printed enemy engaged with you. X is that enemy’s highest printed attribute (Threat, ATK, DEF, or hit points).
 
 **Pack:** [[ALeP - Strange News in Bree]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

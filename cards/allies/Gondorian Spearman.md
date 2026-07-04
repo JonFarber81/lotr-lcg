@@ -36,3 +36,9 @@ Sentinel.
 > — The Two Towers
 
 **Pack:** [[Core Set]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

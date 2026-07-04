@@ -32,3 +32,9 @@ Winged Guardian cannot have restricted attachments.
 **Forced:** After an attack in which Winged Guardian defends resolves, pay 1 (Tactics) resource or discard Winged Guardian from play.
 
 **Pack:** [[The Hunt for Gollum]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

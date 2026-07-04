@@ -26,3 +26,9 @@ Restricted.
 Attach to a (Tactics) or **_Warrior_** character. Limit 1 per character. Attached character gets +1 ATK for each enemy engaged with you. (Limit +3 ATK.)
 
 **Pack:** [[The Ghost of Framsburg]] #89
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Sentinel.
 **Action:** Exhaust Aragorn to choose a location in the staging area. Until the end of the phase, that location gets -X Threat, where X is Aragorn's WP. If this effect reduces the location's Threat to 0, place 1 progress on it. (Limit once per round.)
 
 **Pack:** [[The Fortress of Nurn]] #137
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

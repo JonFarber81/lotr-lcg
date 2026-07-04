@@ -35,3 +35,9 @@ Veteran of Nanduhirion enters play with 1 damage on it.
 > — The Hobbit
 
 **Pack:** [[Khazad-dûm]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

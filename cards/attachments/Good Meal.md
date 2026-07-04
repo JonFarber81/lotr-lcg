@@ -23,3 +23,9 @@ Attach to a **_Hobbit_** hero.
 **Action:** Discard Good Meal to lower the cost of the next event you play this round that matches attached hero's sphere by 2.
 
 **Pack:** [[The Redhorn Gate]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

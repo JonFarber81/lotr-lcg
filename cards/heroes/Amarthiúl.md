@@ -36,3 +36,9 @@ While you are engaged with at least 2 enemies, add 1 additional resource to Amar
 > — Aragorn, The Return of the King
 
 **Pack:** [[The Battle of Carn Dûm]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

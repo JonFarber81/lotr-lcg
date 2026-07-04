@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Denethor, The Return of the King
 
 **Pack:** [[The Blood of Gondor]] #111
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

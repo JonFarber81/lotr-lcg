@@ -31,3 +31,9 @@ Attached hero gains +1 ATK (+2 ATK instead if attached hero is a **_Dwarf._**)
 > — Gimli, The Two Towers
 
 **Pack:** [[Core Set]] #41
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

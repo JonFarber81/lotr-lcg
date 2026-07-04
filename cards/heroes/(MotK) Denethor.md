@@ -36,3 +36,9 @@ Discard Denethor if his WP is 0 or less.
 > — Gandalf, The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

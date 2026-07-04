@@ -30,3 +30,9 @@ tags: [card, hero, tactics]
 Ranged. **Response**: After Brand son of Bain attacks and destroys an enemy engaged with a player, ready one of that player’s characters. (Limit once per phase.)
 
 **Pack:** [[ALeP - The Siege of Erebor]] #993
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

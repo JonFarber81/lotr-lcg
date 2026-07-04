@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[Foundations of Stone]] #101
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

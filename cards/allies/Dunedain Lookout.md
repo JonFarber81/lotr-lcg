@@ -34,3 +34,9 @@ tags: [card, ally, lore]
 > *"Travellers scowl at us, and countrymen gives us scornful names." -Aragorn, The Fellowship of the Ring*
 
 **Pack:** [[Beneath the Sands]] #62
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

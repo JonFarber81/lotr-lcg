@@ -30,3 +30,9 @@ tags: [card, event, leadership]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Across the Ettenmoors]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

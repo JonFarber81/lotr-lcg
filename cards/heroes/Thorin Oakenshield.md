@@ -35,3 +35,9 @@ If you control at least 5 **_Dwarf_** characters, add 1 additional resource to T
 > — Thorin, The Hobbit
 
 **Pack:** [[Over Hill and Under Hill]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

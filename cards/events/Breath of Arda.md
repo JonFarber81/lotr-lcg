@@ -29,3 +29,9 @@ tags: [card, event, tactics]
 > *“For we have need of speed greater than any wind.” —Gandalf, The Return of the King*
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #49
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

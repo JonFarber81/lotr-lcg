@@ -27,3 +27,9 @@ Limit 1 per hero. Attached hero gets +1 WP.
 **Response:** After attached hero commits to the quest, exhaust The One Ring and raise your threat by 1 to give each other unique character you control +1 WP until the end of the phase.
 
 **Pack:** [[Challenge of the Wainriders]] #55
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

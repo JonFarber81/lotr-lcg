@@ -30,3 +30,9 @@ Play only if you control a **_Minstrel_** hero.
 > *All his court were cast down in slumber, and all the fires faded and were quenched… —The Silmarillion*
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

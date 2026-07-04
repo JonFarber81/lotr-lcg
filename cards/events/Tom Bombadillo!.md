@@ -25,3 +25,9 @@ tags: [card, event, lore]
 Play only if you control a **_Hobbit_** hero. You cannot play this card if there is a copy of Tom Bombadillo! in the victory display. **Planning Action**: Add Tom Bombadillo the the victory display to shuffle a set-aside copy of Tom Bombadil into the encounter deck.
 
 **Pack:** [[Wrath and Ruin]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

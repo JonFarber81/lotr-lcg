@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — Galadriel, The Fellowship of the Ring
 
 **Pack:** [[The Dunland Trap]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

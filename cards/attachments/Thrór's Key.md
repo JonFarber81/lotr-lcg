@@ -31,3 +31,9 @@ Attach to a hero.
 > — Bilbo, The Hobbit
 
 **Pack:** [[On the Doorstep]] #16
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

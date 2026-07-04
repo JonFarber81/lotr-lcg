@@ -28,3 +28,9 @@ Play only if each hero you control has the printed (Spirit) resource icon.
 > — Gandalf, The Return of the King
 
 **Pack:** [[The Drúadan Forest]] #38
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

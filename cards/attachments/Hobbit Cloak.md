@@ -31,3 +31,9 @@ Attached hero gets +2 DEF while defending against an attack by an enemy with an 
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

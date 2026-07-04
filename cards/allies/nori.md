@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > *-Nori, The Hobbit*
 
 **Pack:** [[Challenge of the Wainriders]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,9 @@ tags: [card, ally, lore]
 You may give Mirkwood Pioneer doomed 1 when you play it from your hand. If you do, it gains: "**Response:** After you play Mirkwood Pioneer, choose a card in the staging area. Until the end of the round, the chosen card does not contribute its Threat."
 
 **Pack:** [[The Nîn-in-Eilph]] #91
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

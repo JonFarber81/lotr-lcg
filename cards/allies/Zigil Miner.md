@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Action:** Exhaust Zigil Miner and name a number to discard the top 2 cards of your deck. If at least one of those cards has cost equal to the named number, choose a hero you control. For each card that matches the named number, add 1 resource to that hero's resource pool.
 
 **Pack:** [[Khazad-dûm]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

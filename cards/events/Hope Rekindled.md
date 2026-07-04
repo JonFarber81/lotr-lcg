@@ -33,3 +33,9 @@ tags: [card, event, neutral]
 > — The Return of the King
 
 **Pack:** [[Across the Ettenmoors]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

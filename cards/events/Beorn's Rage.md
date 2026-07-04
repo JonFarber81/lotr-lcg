@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Hobbit
 
 **Pack:** [[The Withered Heath]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

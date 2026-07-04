@@ -26,3 +26,9 @@ Cannot be included in a deck. **_Wall_** cards are immune to non-**_Wall_** card
 **Planning Action**: Arrange up to X allies you control into a row between your **_Wall_** attachments. X is the tens digit of your threat. Allies cannot be placed or rearranged between your **_Wall_** attachments except by this ability.
 
 **Pack:** [[ALeP - Fangs in the Dark]] #46 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

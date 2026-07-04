@@ -31,3 +31,9 @@ Attach to a **_Rohan_** hero or Merry. Restricted.
 > *-The Return of the King*
 
 **Pack:** [[The City of Ulfast]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

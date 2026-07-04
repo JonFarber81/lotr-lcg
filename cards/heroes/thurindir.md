@@ -35,3 +35,9 @@ Thurindir gets +1 WP for each side quest in the victory display.
 > *“He is one of the wandering folk - Rangers we call them.” -Barliman Butterbur, The Fellowship of the Ring*
 
 **Pack:** [[Race Across Harad]] #28
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

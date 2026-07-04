@@ -30,3 +30,9 @@ tags: [card, hero, lore]
 **Action:** Exhaust Bombur to choose a location. That location gets -1 Threat until the end of the phase. (That location does not contribute its Threat instead if it is an **_Underground_** location.)
 
 **Pack:** [[Messenger of the King Allies]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

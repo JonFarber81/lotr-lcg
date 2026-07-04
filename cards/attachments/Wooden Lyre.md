@@ -30,3 +30,9 @@ Attach to a (Leadership) or **_Minstrel_** hero. Restricted.
 > *…for ever blending its innumerable notes in an endless changeful music. —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

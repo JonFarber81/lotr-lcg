@@ -32,3 +32,9 @@ Attach to a hero.
 > *“Well, my merry folk, will you drink another draught with me before you go?” —Treebeard, The Return of the King*
 
 **Pack:** [[ALeP - The Gap of Rohan]] #78
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

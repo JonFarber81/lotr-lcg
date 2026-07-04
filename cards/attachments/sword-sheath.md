@@ -30,3 +30,9 @@ Attach to a (Tactics) hero. Limit 1 per hero.
 > *“The blade that is drawn from this sheath shall not be stained or broken even in defeat.” —Galadriel, The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Mirror of Galadriel]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Response:** After Rhovanion Outrider commits to the quest, place 1 progress on a location in the staging area. If that location is not explored by this effect, give Rhovanion Outrider +1 WP until the end of the phase.
 
 **Pack:** [[Temple of the Deceived]] #62
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[Trouble in Tharbad]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

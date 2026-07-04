@@ -23,3 +23,9 @@ While paying for The Muster of Rohan, each **_Rohan_** hero you control is consi
 **Planning Action:** Search the top 10 cards of your deck for up to 4 Rohan allies and put them into play. Shuffle your deck. If any of those allies are still in play at the end of the round, discard them.
 
 **Pack:** [[Challenge of the Wainriders]] #62
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

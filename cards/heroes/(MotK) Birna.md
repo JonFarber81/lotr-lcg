@@ -34,3 +34,9 @@ tags: [card, hero, tactics]
 > *In that last hour Beorn himself had appeared - no one knew how or from where. —The Hobbit*
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #150
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

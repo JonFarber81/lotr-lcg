@@ -30,3 +30,9 @@ tags: [card, ally, tactics]
 **Forced:** After Dúnedain Hunter enters play, search the top 5 cards of the encounter deck for a non-unique enemy and put it into play engaged with you. If no enemy enters play by this effect, discard Dúnedain Hunter. Shuffle the encounter deck.
 
 **Pack:** [[The Lost Realm]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

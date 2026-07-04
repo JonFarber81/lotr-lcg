@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

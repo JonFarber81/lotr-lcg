@@ -32,3 +32,9 @@ Each hero gets +1 WP.
 > — Elrond, The Fellowship of the Ring
 
 **Pack:** [[The Road Darkens]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

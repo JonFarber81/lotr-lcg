@@ -31,3 +31,9 @@ Attached hero gets +1WP and +1ATK.
 > — The Return of the King
 
 **Pack:** [[The Sands of Harad]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

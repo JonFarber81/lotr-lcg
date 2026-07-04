@@ -32,3 +32,9 @@ Attached character gets +2 hit points and gains sentinel.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

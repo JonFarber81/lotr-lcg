@@ -28,3 +28,9 @@ Doomed 2.
 > *-Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[Under the Ash Mountains]] #89
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,23 @@ tags: [card, hero, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * In most quests, on the first turn you'll quest with [[Théodred]] and [[Éowyn (Spirit)|Éowyn]] (giving the resource to Eowyn unless you have Steward of Gondor in hand), leaving [[Beravor]] back to defend or attack if need be. Then if you don't need Beravor for combat, you can (and should) exhaust her to draw two cards.
+- * [[Unexpected Courage]] goes on Beravor, always. With the errata you can only use her ability to draw cards once per turn, but that's fine. The Unexpected Courage allows you to also use her to quest (useful if you need her to grab an extra resource from Theodred) or in combat.
+- * Speaking of which, [[Hasty Stroke]] / [[Lore of Imladris]] can be a very useful combo. For example, let's say it's the first turn of Passage Through Mirkwood and you have no allies in play, but really want to take care of that Forest Spider ASAP. You can quest with Eowyn, ready her by traveling to Old Forest Road and have all your heroes at the ready, Engage the Spider and take its attack undefended. Since you have Hasty Stroke in hand, you can afford to do this -- if a shadow effect that would give the spider a bonus to its attack comes up, you can just cancel it. Drop the 3 damage on Beravor and then attack with all three heroes to kill the Spider. Actually, against many quests you don't even need to have the Lore of Imladris in hand to do this. The reason you put the damage on Beravor and not Theodred is because you're usually going to want to quest with Theo, making him susceptible to damage from Necromancer's Reach. Beravor, on the other hand, will usually stay back to attack or draw cards, so she's effectively immune to that treachery. Later quests can deal damage to characters whether they're exhausted or not, but nothing in the base set. Knowing the encounter deck is key.
+
+**[[Seastan's Single Core Set Solo]]**
+- 1. Cards: Try to quest with [[Théodred]] and [[Éowyn (Spirit)|Éowyn]] and use [[Beravor]] to draw every turn. Drawing extra cards each round is one of the biggest keys to success at this game. I will often sacrifice allies rather than defend with Beravor just so I can draw.
+- 2. Resources: Steward of Gondor goes on Eowyn. This allows her to quickly afford expensive cards like [[Northern Tracker]] and [[The Galadhrim's Greeting]]. [[Théodred]]'s resource should go on the hero that is going to need it next round. Once [[Beravor]] gets [[Unexpected Courage]], she can both quest and draw each turn, and becomes eligible for [[Théodred]]'s resource.
+- 4. Wait until the end of the combat phase before using exhaust abilities like [[Beravor]] or [[Henamarth Riversong]]. This is because you may get hit by a Necromancer's Reach during questing, or an enemy you didn't expect may show up that you need to defend. It is handy to have those characters ready.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **One of the key things is to play [[Self Preservation]] on [[Glóin]]** as soon as you can. It basically turns him into a second [[Steward of Gondor]]. I tend to use him exclusively as a defender against max 3-attack enemies (so that I can heal him completely before the next round), but if you plan to make him a main defender against some stronger foes then [[Protector of Lórien]] is your best friend (another staple from the core set). However, if I manage to draw [[Unexpected Courage]] I tend to play it together with [[Protector of Lórien]] on [[Beravor]] due to her extra point of defence - she will handle the swings of a Hill Troll even more efficiently. And with [[Unexpected Courage]] you'll be able to use her priceless card-drawing ability "for free".
+- [[Steward of Gondor]] can be played either on [[Beravor]] (most of the time) or [[Éowyn (Spirit)|Éowyn]], depending on your draw. If you have a hand full of [[Forest Snare]]s and [[Self Preservation]]s, you'll know to whom to attach it. If you want to really abuse [[Stand and Fight]] or you just need to quickly play your [[Unexpected Courage]]s and [[Northern Tracker]], [[Éowyn (Spirit)|Éowyn]] is your target.

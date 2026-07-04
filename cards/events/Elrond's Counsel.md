@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Elrond, The Fellowship of the Ring
 
 **Pack:** [[The Watcher in the Water]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

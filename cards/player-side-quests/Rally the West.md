@@ -29,3 +29,9 @@ Limit 1 copy of Rally the West in the victory display. While this side quest is 
 > *“Foes and fire are before you, and your homes far behind. Yet, though you fight upon an alien field, the glory that you reap there shall be your own forever.” -Theoden, The Return of the King*
 
 **Pack:** [[The Black Serpent]] #87
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

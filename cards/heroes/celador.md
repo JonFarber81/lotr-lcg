@@ -37,3 +37,9 @@ Reduce the total Threat in the staging area by 1 for each unattached **_Trap_** 
 > —Faramir, The Two Towers
 
 **Pack:** [[ALeP - Children of Eorl]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

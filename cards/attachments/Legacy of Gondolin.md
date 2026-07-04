@@ -27,3 +27,9 @@ You cannot play allies or attachments from your hand unless you have 2 or fewer 
 **Action**: Exhaust Legacy of Gondolin to either draw 1 card or discard Legacy of Gondolin.
 
 **Pack:** [[ALeP - The Glittering Caves]] #110
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

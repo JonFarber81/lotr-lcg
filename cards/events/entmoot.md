@@ -31,3 +31,9 @@ Play only if you control at least 1 **_Ent_** character.
 > — Treebeard, The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

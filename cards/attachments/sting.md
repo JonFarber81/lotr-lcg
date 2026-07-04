@@ -28,3 +28,9 @@ Attached hero gets +1 WP, +1 ATK, and +1 DEF.
 **Response:** After attached hero is declared as an attacker or defender against an enemy, deal 1 damage to that enemy.
 
 **Pack:** [[Mount Gundabad]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

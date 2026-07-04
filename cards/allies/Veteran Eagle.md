@@ -35,3 +35,9 @@ Cannot have restricted attachments.
 > *But eagles have keen eyes and can see small things at a great distance. —The Hobbit*
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #41
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

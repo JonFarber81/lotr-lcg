@@ -36,3 +36,9 @@ Each enemy engaged with you gets +10 engagement cost.
 > — The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

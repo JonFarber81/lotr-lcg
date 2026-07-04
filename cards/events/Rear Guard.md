@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Hills of Emyn Muil]] #74
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach to an **_Istari_** character. Limit 1 per character.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Road Darkens]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

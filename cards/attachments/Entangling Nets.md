@@ -27,3 +27,9 @@ If unattached, attach Entangling Nets to the next eligible enemy that enters the
 Attached enemy gets –2 ATK and –2 DEF.
 
 **Pack:** [[Temple of the Deceived]] #64
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

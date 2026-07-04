@@ -35,3 +35,9 @@ While there is a side quest in the victory display, Vigilant Dúnadan does not e
 > — Barliman Butterbur, The Return of the King
 
 **Pack:** [[The Sands of Harad]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

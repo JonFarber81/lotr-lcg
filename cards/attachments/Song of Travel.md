@@ -34,3 +34,9 @@ Attached hero gains a (Spirit) resource icon.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Hills of Emyn Muil]] #81
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Each **_Dale_** character you control with a player attachment gets +1 WP.
 > — Glóin, The Fellowship of the Ring
 
 **Pack:** [[The Wilds of Rhovanion]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > *Fatty Bolger had not been idle. As soon as he saw the dark shapes creep from the garden, he knew that he must run for it, or perish. —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Aldburg Plot]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

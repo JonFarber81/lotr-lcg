@@ -31,3 +31,9 @@ Attach to a **_Dwarf**_ character. Limit 1 per character.
 > — The Two Towers
 
 **Pack:** [[The Mûmakil]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

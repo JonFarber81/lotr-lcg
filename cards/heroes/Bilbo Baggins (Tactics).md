@@ -30,3 +30,9 @@ tags: [card, hero, tactics]
 **Response**: After Bilbo Baggins commits to the quest, choose an enemy in the staging area. Until the end of the phase, Bilbo Baggins gets +X WP where X is that enemy’s Threat. If the players quest successfully, deal 1 damage to that enemy (2 damage instead if it is guarding a card).
 
 **Pack:** [[Mount Gundabad]] #112
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

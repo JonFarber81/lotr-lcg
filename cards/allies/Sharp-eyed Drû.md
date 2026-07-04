@@ -34,3 +34,9 @@ Sharp-eyed Drû gets +1 DEF while your threat is 20 or less, and +1 DEF while th
 > *“Wild Men have long ears and long eyes; know all paths.” —Ghȃn-buri-Ghȃn, The Return of the King*
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #76
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

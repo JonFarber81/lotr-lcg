@@ -36,3 +36,9 @@ Guardian of Arnor gets +1 DEF for each enemy engaged with you.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Battle of Carn Dûm]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -22,3 +22,9 @@ tags: [card, event, spirit]
 **Response:** After you commit characters to the quest, if each character you have committed to the quest is a **_Scout_**, each of those characters gets +2 WP until the end of the phase.
 
 **Pack:** [[Temple of the Deceived]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

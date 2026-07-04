@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > *-Glóin, The Fellowship of the Ring*
 
 **Pack:** [[The Land of Sorrow]] #111
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

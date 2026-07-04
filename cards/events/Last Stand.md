@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Two Towers
 
 **Pack:** [[Flight of the Stormcaller]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

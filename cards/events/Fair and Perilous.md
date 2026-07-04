@@ -28,3 +28,9 @@ Until the end of the phase, add that character's WP to its ATK.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Across the Ettenmoors]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

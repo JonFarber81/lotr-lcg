@@ -35,3 +35,9 @@ If each hero you control has the **_Hobbit_** trait, damage from undefended atta
 > — The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

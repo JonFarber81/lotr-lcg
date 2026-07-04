@@ -31,3 +31,9 @@ Encounter.
 **When Revealed**: Choose a player. That player gains control of Tom Bombadil, ready and committed to the quest. At the end of the round, remove Tom Bombadil and a copy of Tom Bombadillo! in the victory display from the game. This effect cannot be cancelled.
 
 **Pack:** [[Wrath and Ruin]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

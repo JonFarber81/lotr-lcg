@@ -30,3 +30,9 @@ tags: [card, ally, tactics]
 If each of your heroes has a printed (Tactics) hero resource icon, Knight of Minas Tirith Tirith gains: "**Response:** After Knight of Minas Tirith enters play, choose an enemy in the staging area. Engage that enemy and exhaust Knight of Minas Tirith to declare it as attacker (and resolve its attack) against that enemy."
 
 **Pack:** [[Assault on Osgiliath]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > — The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

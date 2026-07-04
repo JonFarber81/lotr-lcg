@@ -22,3 +22,17 @@ tags: [card, event, lore]
 **Action:** Choose a player. That player searches the top 5 cards of his deck for a card, adds it to his hand, and shuffles his deck. Then, the players as a group may spend 3 (Leadership) resources to have that player search his deck for another card, add it to his hand, and shuffle his deck.
 
 **Pack:** [[Flight of the Stormcaller]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- This Vilya deck in particular stands out for 5 reasons:
+1. A focus on making Vilya effective very quickly. This means dedicating several card slots ([[Master of the Forge]], [[Heed the Dream]], [[Gather Information]]) to ensure Vilya is found fast, and it means having very few cards in the deck that will be duds if Vilya gets used before an [[Imladris Stargazer]] is found.
+- The next priority is to find the [[Imladris Stargazer]]. This is often done through [[Heed the Dream]], [[Gather Information]], or simply drawing her.
+- My strategy for ordering the top 5 cards is somewhat dependent on the quest and the immediate situation, but generally I arrange for high cost cards to be played with Vilya, and low cost cards like [[Heed the Dream]], [[Unexpected Courage]], or [[Master of the Forge]] to be drawn into hand.
+- Heed the Dream is mainly here to help you set up your Vilya/Stargazer in the early game, but it has a couple other uses. It's useful for shuffling up your top 5 cards when the Stargazer shows you that they're all bad, and it's useful for grabbing some 1-ofs like [[Faramir]] for a late-game questing push.
+- Turning up a Heed the Dream with a blind Vilya is not ideal, but it's not the worst. I often end up being able to grab a Stargazer with it, so in a way I sacrifice one use of Vilya to make all the following uses better.

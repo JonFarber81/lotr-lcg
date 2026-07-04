@@ -32,3 +32,9 @@ tags: [card, event, lore]
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

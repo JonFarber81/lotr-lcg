@@ -32,3 +32,9 @@ Attached characters gets +1 ATK for each attachment it has with the restricted k
 > *-Éomer, The Return of the King*
 
 **Pack:** [[The City of Ulfast]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

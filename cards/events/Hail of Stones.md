@@ -22,3 +22,9 @@ tags: [card, event, tactics]
 **Action:** Exhaust X characters to deal X damage to an enemy in the staging area.
 
 **Pack:** [[Road to Rivendell]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

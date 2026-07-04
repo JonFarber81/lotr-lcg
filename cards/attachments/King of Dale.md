@@ -31,3 +31,9 @@ Attach to a **_Dale_** or **_Esgaroth_** hero.
 > — The Return of the King
 
 **Pack:** [[The Wilds of Rhovanion]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

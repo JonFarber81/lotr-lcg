@@ -26,3 +26,9 @@ Guarded (enemy or location).
 Attach to a **_Dwarf_** hero. **Action**: Exhaust Thrór's Ring and discard the top card of your deck to ready attached hero. If the discarded card is an attachment, put it into play.
 
 **Pack:** [[The Ghost of Framsburg]] #93
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

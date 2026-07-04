@@ -35,3 +35,9 @@ Each **_Outlands_** character you control gets +1 DEF.
 > —  The Return of the King
 
 **Pack:** [[The Steward's Fear]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

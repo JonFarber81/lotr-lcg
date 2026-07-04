@@ -27,3 +27,9 @@ Attach to an **_Istari_** character. Attached character cannot be discarded from
 **Action**: Exhaust a **_Staff_** attachment on the attached character to discard a **_Condition_** attachment from play.
 
 **Pack:** [[ALeP - Fangs in the Dark]] #48 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

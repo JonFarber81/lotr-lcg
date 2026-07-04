@@ -26,3 +26,9 @@ tags: [card, event, leadership]
 > *It seemed that word of their coming had gone before them; and at once they were admitted, silently, and without question. —The Return of the King*
 
 **Pack:** [[ALeP - Children of Eorl]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

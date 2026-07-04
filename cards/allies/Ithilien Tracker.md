@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Two Towers
 
 **Pack:** [[Heirs of Númenor]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

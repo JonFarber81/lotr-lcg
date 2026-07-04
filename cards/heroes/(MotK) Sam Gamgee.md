@@ -31,3 +31,9 @@ Reduce the cost to play Sam Gamgee by 2 if you control Frodo Baggins.
 **Response:** After a player raises his threat, that player may spend 1 (Spirit) resource to ready Sam Gamgee. He gets +1 WP, +1 ATK and +1 DEF until the end of the round. (Limit once per round.)
 
 **Pack:** [[Messenger of the King Allies]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

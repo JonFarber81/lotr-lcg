@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

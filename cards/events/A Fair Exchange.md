@@ -26,3 +26,9 @@ tags: [card, event, leadership]
 > *“There is nothing like looking, if you want to find something…” —Thorin Oakenshield, The Hobbit*
 
 **Pack:** [[ALeP - Blood in the Isen]] #184
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

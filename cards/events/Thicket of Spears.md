@@ -28,3 +28,9 @@ You must use resources from 3 different heroes' pools to pay for this card.
 > — The Two Towers
 
 **Pack:** [[Core Set]] #36
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,12 @@ tags: [card, ally, lore]
 **Response:** After Firyal commits to the quest, look at the top card of the encounter deck. Then, you may discard the looked at card.
 
 **Pack:** [[The Mûmakil]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- 2. A focus on the powerful new Harad allies [[Firyal]] and [[Jubayr]] to universally tech against the most problematic encounter and shadow card effects in a given scenario.

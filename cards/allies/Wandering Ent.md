@@ -36,3 +36,9 @@ Enters play exhausted.
 > — The Two Towers
 
 **Pack:** [[Celebrimbor's Secret]] #119
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

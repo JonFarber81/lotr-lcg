@@ -28,3 +28,9 @@ Attached hero gets +2 ATK.
 **Response:** After attached hero destroys an enemy, add 1 resource to attached hero's pool.
 
 **Pack:** [[Fire in the Night]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

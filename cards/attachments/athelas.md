@@ -31,3 +31,9 @@ Attach to a **_Dúnedain_** or **_Healer_** character.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Lost Realm]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

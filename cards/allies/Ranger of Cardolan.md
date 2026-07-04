@@ -30,3 +30,9 @@ tags: [card, ally, neutral]
 **Response:** After you engage an enemy, if you control at least 1 **_Dúnedain_** hero, spend 1 resource to put Ranger of Cardolan into play from your hand, under your control. At the end of the round, if Ranger of Cardolan is still in play, shuffle it into its owner's deck.
 
 **Pack:** [[The Wastes of Eriador]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

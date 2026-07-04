@@ -30,3 +30,9 @@ Attached character gets +1 DEF and gains sentinel.
 > *"We make good armour and keen swords, but we cannot again make mail or blade to match those that were made before the dragon came." —Glóin, The Fellowship of the Ring*
 
 **Pack:** [[Mount Gundabad]] #120
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

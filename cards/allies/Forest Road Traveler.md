@@ -35,3 +35,9 @@ Forest Road Traveler gets +1 WP, +1 ATK, and +1 DEF for each attachment on the a
 > — The Fellowship of the Ring
 
 **Pack:** [[Fire in the Night]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

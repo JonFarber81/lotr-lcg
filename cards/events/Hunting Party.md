@@ -23,3 +23,9 @@ Play only if you control a unique character with the **_Warrior**_ trait and ano
 **Response:** After the players have committed characters to the quest, discard a non-unique enemy in the staging area. Then, reveal an encounter card.
 
 **Pack:** [[Beneath the Sands]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

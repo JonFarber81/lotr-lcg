@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Return of the King.
 
 **Pack:** [[A Journey to Rhosgobel]] #50
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

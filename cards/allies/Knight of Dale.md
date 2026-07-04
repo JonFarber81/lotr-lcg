@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > *By that time all the bells were ringing in Dale and the warriors were arming. -The Hobbit*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #110
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

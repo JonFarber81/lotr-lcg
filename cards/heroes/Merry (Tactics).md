@@ -36,3 +36,9 @@ Merry gets +1 ATK for each Hobbit hero you control.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

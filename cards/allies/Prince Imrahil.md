@@ -35,3 +35,9 @@ While there is a hero in your discard pile, Prince Imrahil loses the ally card t
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

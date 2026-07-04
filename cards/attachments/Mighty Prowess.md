@@ -31,3 +31,9 @@ Attach to a (Tactics) hero hero. Limit 1 per hero.
 > — The Two Towers
 
 **Pack:** [[The Drúadan Forest]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

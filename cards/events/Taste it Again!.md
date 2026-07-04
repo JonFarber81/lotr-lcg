@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Sam Gamgee, The Two Towers
 
 **Pack:** [[The Land of Shadow]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

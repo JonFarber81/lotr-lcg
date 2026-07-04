@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

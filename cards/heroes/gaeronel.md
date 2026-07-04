@@ -37,3 +37,9 @@ Gaeronel gets +2 DEF if it is an attachment.
 > *“I will dwell by the grey shores, guarding the Havens until the last ship sails.” —Círdan, The Silmarillion*
 
 **Pack:** [[ALeP - The Glittering Caves]] #101
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

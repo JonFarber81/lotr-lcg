@@ -26,3 +26,9 @@ tags: [card, event, neutral]
 **Response**: After You Cannot Pass! is discarded from your deck, give an **_Istari_** character you control +6 ATK until the end of the phase.
 
 **Pack:** [[ALeP - Strange News in Bree]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

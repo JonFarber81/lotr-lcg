@@ -31,3 +31,9 @@ Attach to a player's threat dial. Limit 1 per player.
 > — The Return of the King
 
 **Pack:** [[The Battle of Carn Dûm]] #124
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

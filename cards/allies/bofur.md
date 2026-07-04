@@ -30,3 +30,9 @@ tags: [card, ally, tactics]
 **Action:** Exhaust Bofur to search the top 5 cards of your deck for 1 **_Weapon_** attachment. Add that card to your hand and shuffle the other cards back into your deck.
 
 **Pack:** [[Over Hill and Under Hill]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

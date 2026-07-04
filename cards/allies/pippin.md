@@ -35,3 +35,17 @@ Pippin gets +2 ATK while attacking an enemy with an engagement cost higher than 
 > *-The Return of the King*
 
 **Pack:** [[A Shadow in the East]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Sting Like A Bee]]**
+- This is an updated version of the original Hobbit deck I built right after cracking open The Black Riders at Gen Con the year it was released. The core idea of the deck has never really changed: Pump Merry up and let him kill things, have Sam defend, and use Pippin for card draw. What has changed is the ally lineup, and I think it will always continually change as new allies are released. There are a few different Hobbit builds possible using this hero trio. One of them can make good use of Ents, and I've had fun with that particular deck, but I already have quite a few decks featuring Ents now, so I didn't go with that approach for this one. This is the classic "big alies" Hobbit build, which uses Elf-stone and Sneak Attack to get the big guys into play. There's also plenty of resources with Steward and Errand-rider to pay for some of them conventionally as well. The newest additions are Taste It Again! and Staff of Lebethron from Land of Shadow, which make Sam even better. Still one of the most enjoyable decks around that is powerful at the same time. This can work in either solo or multiplayer.
+
+**[[Gaffer Ever After]]**
+- An early-game turn might look something like this: Exhaust Steward, gain 2, play Gaffer. Quest with [[Sam Gamgee]], [[Pippin (Lore)|Pippin]], and Gaffer for 6. Engage an enemy, draw a card with Pippin, ready Sam and boost his stats. Cancel the attack with Gaffer. Kill the enemy with Sam (2) + [[Merry (Tactics)|Merry]] (3) + [[Dagger of Westernesse]] (2). Repeat.
+- The card draw here is just nuts with Pippin grabbing you an extra card every turn and the absurdly good [[Drinking Song]].
+- For those that like the nitty-gritty details: If I open with Resourceful+Steward, I like to put Resourceful on Sam then Steward on Pippin turn 2. Then I'll put the second and third Resourceful on Pippin. Extra lore resources can always be used for readying [[Warden of Healing]] and paying full price for Gandalf.

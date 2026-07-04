@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Gap of Rohan]] #74
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

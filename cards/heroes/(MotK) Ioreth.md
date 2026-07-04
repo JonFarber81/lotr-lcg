@@ -36,3 +36,9 @@ Cannot attack or defend.
 > — The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

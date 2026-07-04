@@ -27,3 +27,9 @@ Attached character gets +1 ATK.
 **Response:** After attached character is declared as an attacker, it gets +3 ATK for this attack. After this attack resolves, discard Haradrim Spear.
 
 **Pack:** [[Beneath the Sands]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

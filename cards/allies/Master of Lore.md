@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Faramir, The Two Towers
 
 **Pack:** [[Heirs of Númenor]] #16
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

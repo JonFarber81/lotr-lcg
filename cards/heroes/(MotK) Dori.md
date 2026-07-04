@@ -30,3 +30,9 @@ tags: [card, hero, lore]
 **Response:** After a hero is assigned any amount of damage, exhaust Dori to place that damage on Dori instead.
 
 **Pack:** [[Messenger of the King Allies]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

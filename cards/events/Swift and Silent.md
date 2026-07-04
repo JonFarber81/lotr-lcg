@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Dunland Trap]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach to a location.
 > — The Fellowship of the Ring
 
 **Pack:** [[A Journey to Rhosgobel]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

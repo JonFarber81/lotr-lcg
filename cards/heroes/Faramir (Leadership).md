@@ -36,3 +36,9 @@ Ranged.
 > — Beregond, The Return of the King
 
 **Pack:** [[The Land of Shadow]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

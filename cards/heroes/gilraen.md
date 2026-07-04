@@ -36,3 +36,9 @@ tags: [card, hero, spirit]
 > —The Return of the King
 
 **Pack:** [[ALeP - Blood in the Isen]] #182
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Heroes do not exhaust to attack, defend, or commit to a quest while attached loc
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Foundations of Stone]] #103 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

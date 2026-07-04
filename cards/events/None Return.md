@@ -28,3 +28,9 @@ Limit 3 copies of None Return in the victory display.
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[Across the Ettenmoors]] #62
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

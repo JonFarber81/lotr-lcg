@@ -31,3 +31,9 @@ Reduce the cost to play **_Weapon_**  attachments on Warrior of Dale by 1.
 Warrior of Dale gets +1 ATK and gains ranged while it has a **_Weapon_**  attachment.
 
 **Pack:** [[The Wilds of Rhovanion]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

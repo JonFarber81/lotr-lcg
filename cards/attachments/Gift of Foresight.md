@@ -31,3 +31,9 @@ Attached hero gets +2 DEF if it has not committed to the quest this round.
 > *–Galadriel, The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Gap of Rohan]] #82
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

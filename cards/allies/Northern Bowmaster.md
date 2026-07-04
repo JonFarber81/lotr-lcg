@@ -31,3 +31,9 @@ Ranged.
 You cannot play Northern Bowmaster from your hand unless you are engaged with an enemy.
 
 **Pack:** [[Under the Ash Mountains]] #86
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

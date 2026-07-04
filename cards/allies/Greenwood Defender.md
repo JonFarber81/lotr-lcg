@@ -34,3 +34,9 @@ tags: [card, ally, leadership]
 > *...after the coming of Men they took ever more and more to the gloaming and the dusk. —The Hobbit*
 
 **Pack:** [[Mount Gundabad]] #113
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

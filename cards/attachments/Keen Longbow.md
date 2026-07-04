@@ -27,3 +27,9 @@ Restricted. Attached hero gains ranged.
 **Response:** After attached hero is declared an as attacker against an enemy, discard up to 3 cards from your hand to deal 1 damage to that enemy for each card discarded this way.
 
 **Pack:** [[The City of Ulfast]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

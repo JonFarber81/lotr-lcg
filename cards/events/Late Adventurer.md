@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Hobbit
 
 **Pack:** [[Over Hill and Under Hill]] #17
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

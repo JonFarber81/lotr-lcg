@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Two Towers
 
 **Pack:** [[A Storm on Cobas Haven]] #111
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

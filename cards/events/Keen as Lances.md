@@ -23,3 +23,9 @@ Reduce the cost to play Keen as Lances by 1 for each card worth no victory point
 **Action:** Add Keen as Lances to the victory display. Then, choose one: add 2 resources to a hero's resource pool, draw 3 cards, or reduce your threat by 4.
 
 **Pack:** [[Escape from Mount Gram]] #37
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > — The Return of the King
 
 **Pack:** [[The Nîn-in-Eilph]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

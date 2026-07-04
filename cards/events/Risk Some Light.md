@@ -23,3 +23,9 @@ Secrecy 3.
 **Action:** Look at the top 3 cards of the encounter deck. You may select 1 card and move it to the bottom of the encounter deck. Return any unselected cards to the top of the encounter deck, in any order.
 
 **Pack:** [[Shadow and Flame]] #136
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -26,3 +26,9 @@ Cannot be included in a deck.
 **Response**: After an ally between your **_Wall_** attachments exhausts to defend an attack, exhaust a **_Wall_** attachment and trigger doomed 1 to exhaust any number of other eligible allies between your **_Wall_** attachments and declare them as defenders for that attack.
 
 **Pack:** [[ALeP - Fangs in the Dark]] #47 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

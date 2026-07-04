@@ -31,3 +31,9 @@ Attach to a hero. Limit 1 per hero.
 > *-The Fellowship of the Ring*
 
 **Pack:** [[The Land of Sorrow]] #112
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

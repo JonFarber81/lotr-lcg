@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

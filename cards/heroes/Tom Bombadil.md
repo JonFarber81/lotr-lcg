@@ -30,3 +30,9 @@ X is the number of **_Song_** cards attached to Tom Bombadil.
 **Response**: After you play a **_Song_** card, either deal 2 damage to an enemy engaged with a player or heal 2 damage from a character. (Limit once per phase.)
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

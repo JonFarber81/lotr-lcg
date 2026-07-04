@@ -27,3 +27,9 @@ tags: [card, event, fellowship]
 > — The Two Towers
 
 **Pack:** [[The Land of Shadow]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

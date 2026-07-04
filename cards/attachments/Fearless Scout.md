@@ -26,3 +26,9 @@ Attach to a hero. Limit 1 per hero. Attached hero gains the **_Scout**_ trait.
 **Response**: After you play Fearless Scout from your hand, draw a card.
 
 **Pack:** [[The Black Serpent]] #86
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ Attached character gets +2 hit points.
 **Response:** When another character would be assigned any amount of damage, place 1 of that damage on attached character instead.
 
 **Pack:** [[A Storm on Cobas Haven]] #113
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

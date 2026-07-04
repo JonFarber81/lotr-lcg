@@ -25,3 +25,9 @@ tags: [card, attachment, spirit]
 Attach to an ally. Attached ally does not exhaust to quest.
 
 **Pack:** [[The Ghost of Framsburg]] #92
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

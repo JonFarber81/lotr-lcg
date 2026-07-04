@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Éowyn, The Return of the King
 
 **Pack:** [[The Flame of the West]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

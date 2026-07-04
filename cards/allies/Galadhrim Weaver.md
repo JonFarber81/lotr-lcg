@@ -36,3 +36,9 @@ Cannot attack or defend.
 > — Lórien Elf, The Fellowship of the Ring
 
 **Pack:** [[The Treachery of Rhudaur]] #89
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

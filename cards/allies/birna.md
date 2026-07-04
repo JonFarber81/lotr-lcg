@@ -34,3 +34,9 @@ tags: [card, ally, tactics]
 > *In that last hour Beorn himself had appeared - no one knew how or from where. —The Hobbit*
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #150
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

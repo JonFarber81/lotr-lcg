@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Hobbit
 
 **Pack:** [[The Nîn-in-Eilph]] #86
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

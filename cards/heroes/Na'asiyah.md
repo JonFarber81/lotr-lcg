@@ -31,3 +31,9 @@ Resources in Na'asiyah's resource pool cannot be used to pay for allies.
 **Action:** While Na'asiyah is attacking or defending, pay 1 resource from her resource pool to give her +2 ATK or +2 DEF for this attack.
 
 **Pack:** [[A Storm on Cobas Haven]] #109
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

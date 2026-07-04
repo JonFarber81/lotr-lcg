@@ -35,3 +35,9 @@ Play with the top card of your deck faceup. Once per phase, you may play the top
 > — The Fellowship of the Ring
 
 **Pack:** [[The Road Darkens]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

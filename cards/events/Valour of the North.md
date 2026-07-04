@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Bard the Bowman, The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -26,3 +26,9 @@ Attach to a **_Dwarf hero_**.
 **Action:** Exhaust Narvi's Belt to give attached hero a (Leadership), (Lore), (Tactics) or (Spirit) icon until the end of the phase.
 
 **Pack:** [[Khazad-dûm]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -29,3 +29,9 @@ tags: [card, event, lore]
 > *“The road may pass, but they shall not! Not while Faramir is Captain.” —Mablung, The Two Towers*
 
 **Pack:** [[ALeP - Children of Eorl]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

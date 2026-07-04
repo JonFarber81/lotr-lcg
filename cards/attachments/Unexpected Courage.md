@@ -34,3 +34,29 @@ Attach to a hero.
 > — Bilbo Baggins, The Hobbit
 
 **Pack:** [[Core Set]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Yes, this is a 44-card deck. Why? Because IMHO these are the only cards in the core set worth including in the deck. Just about everything else in the box (not including Tactics cards) is of situational use at best, and will just dilute the deck. if you're going with the constraint of a single Core set, you really shouldn't be handicapping yourself by forcing a 50-card deck. If you really want a 50-card minimum, get another Core set and add extra copies of [[Sneak Attack]], [[Steward of Gondor]], [[Northern Tracker]], [[A Test of Will]], [[Unexpected Courage]] and [[Henamarth Riversong]], or start adding cards from expansion packs as you get them.
+- * [[Unexpected Courage]] goes on Beravor, always. With the errata you can only use her ability to draw cards once per turn, but that's fine. The Unexpected Courage allows you to also use her to quest (useful if you need her to grab an extra resource from Theodred) or in combat.
+
+**[[The One Deck]]**
+- Another fantastic start is [[Vilya]]+[[Unexpected Courage]], because right from turn 1 Vilya will feel like i doesn't even cost anything.
+- Arwen is one of the best heroes in the entire game, and overall my most-used hero by a large margin. Her ability to regulate the resource/card balance with [[Elven-light]] is incredible, and at the same time she quests well and offers access to the  sphere. But in this particular deck she's just phenomenal. Her extra resource enables a turn 1 [[Master of the Forge]]->[[Vilya]], allowing you to use Vilya 1 turn ahead of when you might otherwise be able to use it. In a Vilya deck, getting an extra use out of Vilya is often like getting an extra 4 or 5 resources. So imagine Arwen with an extra 4 starting resources, and that's what she often feels like in this deck. She also enables the even more awesome turn 1 Vilya+Stargazer. Getting a turn 1 Vilya+[[Unexpected Courage]] is also pretty sweet.
+- Not just a Vilya machine in the deck. His impressive stats do get used once you find [[Unexpected Courage]], and his 4 hit points also allow you to take undefended attacks, which I did many, many times. Since you can use [[Jubayr]] to discard the shadow card on the enemy that will be making the undefended attack, you can do this safely, and with Elrond's healing ability, your [[Warden of Healing]] can quickly get rid of the damage. It took me a few games until I discovered how valuable this action advantage can actually be.
+- My strategy for ordering the top 5 cards is somewhat dependent on the quest and the immediate situation, but generally I arrange for high cost cards to be played with Vilya, and low cost cards like [[Heed the Dream]], [[Unexpected Courage]], or [[Master of the Forge]] to be drawn into hand.
+- Besides Vilya, this is probably the most important card in the deck for the consistency he brings to it. Failing to find Vilya in your opening hand, then dropping this guy down and exhausting him, and seeing Vilya in your top 5 is just marvelous. Then he helps you grab [[Unexpected Courage]], which in this deck amounts to a 2-cost 3/2/3/4 character, or he can thin your deck by grabbing extra copies of Vilya.
+- This card is just amazing in this deck. Since Elrond is going to exhaust every turn for Vilya, [[Unexpected Courage]] is basically like a 2-cost 3/2/3/4 character. You can Vilya+quest, Vilya+defend, or even Vilya+attack. Elrond's starts are so nice that even the second copy of [[Unexpected Courage]] is worth playing on him, since it lets you Vilya+quest+defend.
+- A: Almost. Simply swap out 1 copy of [[Unexpected Courage]] for either [[Magic Ring]] or [[Light of Valinor]] and it is single-core friendly.
+
+**[[Seastan's Single Core Set Solo]]**
+- 2. Resources: Steward of Gondor goes on Eowyn. This allows her to quickly afford expensive cards like [[Northern Tracker]] and [[The Galadhrim's Greeting]]. [[Théodred]]'s resource should go on the hero that is going to need it next round. Once [[Beravor]] gets [[Unexpected Courage]], she can both quest and draw each turn, and becomes eligible for [[Théodred]]'s resource.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **One of the key things is to play [[Self Preservation]] on [[Glóin]]** as soon as you can. It basically turns him into a second [[Steward of Gondor]]. I tend to use him exclusively as a defender against max 3-attack enemies (so that I can heal him completely before the next round), but if you plan to make him a main defender against some stronger foes then [[Protector of Lórien]] is your best friend (another staple from the core set). However, if I manage to draw [[Unexpected Courage]] I tend to play it together with [[Protector of Lórien]] on [[Beravor]] due to her extra point of defence - she will handle the swings of a Hill Troll even more efficiently. And with [[Unexpected Courage]] you'll be able to use her priceless card-drawing ability "for free".
+- [[Steward of Gondor]] can be played either on [[Beravor]] (most of the time) or [[Éowyn (Spirit)|Éowyn]], depending on your draw. If you have a hand full of [[Forest Snare]]s and [[Self Preservation]]s, you'll know to whom to attach it. If you want to really abuse [[Stand and Fight]] or you just need to quickly play your [[Unexpected Courage]]s and [[Northern Tracker]], [[Éowyn (Spirit)|Éowyn]] is your target.

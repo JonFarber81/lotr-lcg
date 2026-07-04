@@ -30,3 +30,9 @@ Attach to a **_Silvan_** or **_Hobbit_** hero. Limit 1 per hero.
 > *…small silver belts, each with a clasp wrought like a golden flower. —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Mirror of Galadriel]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

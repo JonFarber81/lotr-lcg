@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Return of the King
 
 **Pack:** [[Core Set]] #47
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

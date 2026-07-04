@@ -35,3 +35,9 @@ Devoted.
 > *The others made no pretense of offering – except old Balin. —The Hobbit*
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #104
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

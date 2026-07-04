@@ -35,3 +35,9 @@ You may give Greyflood Wanderer doomed 2 when you play from your hand. If you do
 > — The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

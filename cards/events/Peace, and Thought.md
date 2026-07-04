@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Shadow and Flame]] #135
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

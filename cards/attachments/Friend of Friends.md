@@ -31,3 +31,9 @@ While another hero has Friend of Friends attached, attached hero gets +1 WP, +1 
 > — Sam Gamgee, The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

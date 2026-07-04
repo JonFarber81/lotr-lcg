@@ -32,3 +32,9 @@ If the attached hero is Aragorn, he gains a (Tactics) icon.
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

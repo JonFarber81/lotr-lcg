@@ -27,3 +27,9 @@ Attached hero gets +1 hit point for each **_Artifact_** attachment attached to i
 If attached hero is Aragorn, he also gains a (Lore) resource icon.
 
 **Pack:** [[The Steward's Fear]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

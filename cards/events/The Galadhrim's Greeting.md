@@ -27,3 +27,20 @@ tags: [card, event, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #46
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * And speaking of [[The Galadhrim's Greeting]]... Watch our for Treachery cards which nail you when you're up to 35 threat. In those cases, you'll want to play the Greeting before revealing cards since, once again, Greeting is an action, not a response. Most other times you can just save the Greeting for when you actually need the threat reduction, but also be aware of encounter sets that have effects that make you discard event cards. (In those cases, just play the Greeting as soon as you have the resources, unless you have A Test of Will to protect your hand.)
+
+**[[The One Deck]]**
+- 3. A focus on flexibility. Many quests in this game feature a "gimmick" that you need to counter, so this deck uses a tool-box type approach. Rather than filling the deck with the absolute beefiest allies in terms of raw stats, there are some cards here that are meant to counter certain encounter decks. For example, most of the time threating out is not a problem, and turning up a [[Knight of the White Tower]] with Vilya would be a lot more useful than [[The Galadhrim's Greeting]]. However, in those quests where threat is the main enemy, the Greeting is essential.
+- A: [[Yazan]] and the [[Northern Tracker]] tended to be my go-to discards for Arwen if I hadn't drawn [[Elven-light]] yet. So if you want to try to improve on this deck, you could start there. The Northern Trackers were pretty vital in my win against Rhosgobel, but other than that they were basically just stats, and there are some better options in that department, like [[Prince Imrahil]], [[Ranger of Cardolan]], or [[Knight of the White Tower]]. If you find that you don't often play against quests that really punish your threat you could also easily give up [[The Galadhrim's Greeting]] for more deckspace. Whatever you do, I strongly suggest that any new cards you swap in are cards you would want to see with a blind Vilya in the early game.
+
+**[[Seastan's Single Core Set Solo]]**
+- 2. Resources: Steward of Gondor goes on Eowyn. This allows her to quickly afford expensive cards like [[Northern Tracker]] and [[The Galadhrim's Greeting]]. [[Théodred]]'s resource should go on the hero that is going to need it next round. Once [[Beravor]] gets [[Unexpected Courage]], she can both quest and draw each turn, and becomes eligible for [[Théodred]]'s resource.
+- Try to mulligan for [[The Galadhrim's Greeting]]. The extra turns you buy yourself before needing to engage the Hill Troll are worth more than a hand containing [[Steward of Gondor]]. If you find that you can't handle the Hill Troll once you engage him, one trick I like to do is save up resources and play [[Son of Arnor]] to engage the troll during the planning phase, then slap down a [[Forest Snare]] on it right away, so you never have to deal with its attacks.

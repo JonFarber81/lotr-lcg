@@ -35,3 +35,9 @@ While you control at least 5 **_Dwarf_** characters, Óin gets +1 ATK and gains 
 > — The Hobbit
 
 **Pack:** [[On the Doorstep]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

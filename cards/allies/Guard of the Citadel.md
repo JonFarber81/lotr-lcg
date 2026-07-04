@@ -31,3 +31,16 @@ tags: [card, ally, leadership]
 > — Elrond, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * [[Guard of the Citadel]] is a nice cheap, all-purpose ally. He can quest, attack, and take it on the chin as a chump defender if need be. There are better allies in future expansions, but if you're limited to the Core set, he's your best option for cheap utility.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- [[Dark Knowledge]] can be really useful for deciding whether or not to take undefended attacks with [[Glóin]]. Some folks really don't care for this card - if you think that it's weak and you don't really need it, try swapping it for an additional ally card, e.g. [[Guard of the Citadel]] or [[Erebor Hammersmith]] or even another copy of [[Ever Vigilant]] (all of those cards are included in the **sideboard** for you to consider). On the other hand, if you really like the idea of taking numerous undefended attacks on [[Glóin]] and you want to have more control over their effects, get rid of the [[Ever Vigilant]] and add a second copy of [[Dark Knowledge]]!
+- I was debating putting [[Wandering Took]] instead of [[Guard of the Citadel]] in this deck because of his superior statline (for the same cost), but I decided that [[Éowyn (Spirit)|Éowyn]]'s blue resources needed to be saved on other expensive cards.

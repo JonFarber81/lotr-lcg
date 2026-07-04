@@ -35,3 +35,9 @@ While the top card of your discard pile is an attachment, Warden of the Havens g
 > — Galdor, The Fellowship of the Ring
 
 **Pack:** [[The Grey Havens]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Descendant of Thorondor cannot have restricted attachments.
 **Response:** After Descendant of Thorondor enters or leaves play, deal 2 damage to any 1 enemy in the staging area.
 
 **Pack:** [[The Hills of Emyn Muil]] #75
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

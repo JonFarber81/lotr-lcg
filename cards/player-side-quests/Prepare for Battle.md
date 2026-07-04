@@ -31,3 +31,9 @@ While this quest is in the victory display, the first player draws an additional
 > — Gandalf, The Return of the King
 
 **Pack:** [[The Mûmakil]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

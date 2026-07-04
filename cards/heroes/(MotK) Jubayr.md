@@ -31,3 +31,9 @@ Sentinel.
 **Response:** After Jubayr exhausts to defend an attack, discard 1 facedown shadow card from a non-unique enemy. (Limit once per phase.)
 
 **Pack:** [[Messenger of the King Allies]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — Denethor, The Return of the King
 
 **Pack:** [[The Blood of Gondor]] #107
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

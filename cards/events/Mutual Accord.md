@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Faramir, The Two Towers
 
 **Pack:** [[Heirs of Númenor]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

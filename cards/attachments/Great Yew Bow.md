@@ -26,3 +26,9 @@ Attach to a hero with the printed Ranged keyword. Restricted.
 **Combat Action:** Choose an enemy in the staging area. Exhaust Great Yew Bow and attached hero to make a ranged attack against that enemy. Declare attached hero as the attacker. No other attackers can be declared for this attack.
 
 **Pack:** [[On the Doorstep]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

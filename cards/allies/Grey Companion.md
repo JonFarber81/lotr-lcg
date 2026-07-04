@@ -35,3 +35,9 @@ Sentinel.
 > *“But I did not summon you,” said Aragorn, “save only in wish.” —The Return of the King*
 
 **Pack:** [[ALeP - Blood in the Isen]] #190
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

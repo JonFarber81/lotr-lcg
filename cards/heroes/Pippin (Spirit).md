@@ -35,3 +35,9 @@ If each hero you control has the **_Hobbit_** trait, Pippin gains: "**Response:*
 > — The Fellowship of the Ring
 
 **Pack:** [[Encounter at Amon Dîn]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

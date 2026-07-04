@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Hobbit
 
 **Pack:** [[Messenger of the King Allies]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

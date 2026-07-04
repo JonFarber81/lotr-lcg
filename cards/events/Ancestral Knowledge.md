@@ -22,3 +22,9 @@ tags: [card, event, lore]
 **Action:** Exhaust a **_Dwarf_** character to place 2 progress tokens on the active location. (4 progress tokens instead if it is an **_Underground_** or **_Mountain_** location.)
 
 **Pack:** [[Khazad-dûm]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

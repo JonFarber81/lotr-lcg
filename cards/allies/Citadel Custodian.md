@@ -30,3 +30,9 @@ tags: [card, ally, leadership]
 Lower the cost to play Citadel Custodian by 1 for each **_Gondor_** ally in play.
 
 **Pack:** [[Heirs of Númenor]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

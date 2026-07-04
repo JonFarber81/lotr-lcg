@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

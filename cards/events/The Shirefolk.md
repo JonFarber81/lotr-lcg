@@ -27,3 +27,12 @@ Play only if each of your heroes is a _**Hobbit**_.
 > *"If more of us valued food and cheer and song above hoarded gold, it would be a merrier world." —Thorin Oakenshield, The Hobbit*
 
 **Pack:** [[Mount Gundabad]] #121
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- Spend the rest of the game cancelling attacks while you keep your threat low with [[The Shirefolk]] and [[Gandalf]] and build up your board of allies.

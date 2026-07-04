@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Return of the King
 
 **Pack:** [[Flight of the Stormcaller]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

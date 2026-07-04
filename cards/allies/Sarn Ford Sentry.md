@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Lost Realm]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

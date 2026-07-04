@@ -31,3 +31,9 @@ tags: [card, hero, spirit]
 **Travel Action**: If there is 1 active location, spend 1 resource from Widfast’s pool to travel to another location, resolving its **Travel** effect. (There are now 2 active locations.)
 
 **Pack:** [[ALeP - The Aldburg Plot]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

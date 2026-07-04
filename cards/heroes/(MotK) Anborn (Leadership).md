@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Two Towers
 
 **Pack:** [[Messenger of the King Allies]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

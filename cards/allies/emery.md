@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Action:** Discard the top 3 card of your deck to put Emery into play from your hand, under any player's control. Then, if any of the discarded cards have the (Tactics), (Lore) or (Leadership) sphere, discard Emery.
 
 **Pack:** [[The Blood of Gondor]] #112
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach to a **_Gondor_** or **_Dúnedain_** hero.
 > — Boromir, The Fellowship of the Ring
 
 **Pack:** [[Heirs of Númenor]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

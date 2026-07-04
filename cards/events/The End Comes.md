@@ -27,3 +27,9 @@ tags: [card, event, neutral]
 > — The Fellowship of the Ring
 
 **Pack:** [[Road to Rivendell]] #37
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

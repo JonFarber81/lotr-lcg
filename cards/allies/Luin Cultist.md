@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > *“I once knew every spell in all the tongues of Elves or Men or Orcs, that was ever used for such a purpose.” —Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[ALeP - Strange News in Bree]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

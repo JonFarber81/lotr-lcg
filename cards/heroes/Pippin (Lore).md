@@ -36,3 +36,9 @@ Each enemy in play gets +1 engagement cost for each **_Hobbit_** hero you contro
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

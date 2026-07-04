@@ -36,3 +36,15 @@ Ranged.
 > — The Return of the King
 
 **Pack:** [[The Mûmakil]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- [[Yazan]] is one of the weaker cards in the deck. He was never too important for any particular quest. He's just an ally that effectively contributes 4 attack, which is better than most other allies that are not already in this deck. I didn't take advantage of his ability to kill an enemy in the staging area through direct damage very often.
+- You could easily swap Yazan for someone else and still have the ability to beat every quest in the game. One of the downsides to this deck winning so often was that it took me a really long time to identify the weaker cards.
+- A: [[Yazan]] and the [[Northern Tracker]] tended to be my go-to discards for Arwen if I hadn't drawn [[Elven-light]] yet. So if you want to try to improve on this deck, you could start there. The Northern Trackers were pretty vital in my win against Rhosgobel, but other than that they were basically just stats, and there are some better options in that department, like [[Prince Imrahil]], [[Ranger of Cardolan]], or [[Knight of the White Tower]]. If you find that you don't often play against quests that really punish your threat you could also easily give up [[The Galadhrim's Greeting]] for more deckspace. Whatever you do, I strongly suggest that any new cards you swap in are cards you would want to see with a blind Vilya in the early game.
+- @sappidus suggested swapping Yazan for [[Quickbeam]], which I think is a great idea.

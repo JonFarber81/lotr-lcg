@@ -31,3 +31,9 @@ Attached characters gets +2 DEF and +2 hit points.
 > *"May it keep you well!" said Theoden. "It was made for me in Thengel's day, while still I was a boy." - The Two Towers*
 
 **Pack:** [[Roam Across Rhovanion]] #28
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Cannot enter play unless Fulfil Your Oath is in the victory display.
 **Action**: Attach to an enemy. Counts as a **_Fear_** attachment with the text: “Treat all **Forced** effects in the attached enemy’s text box as blank.”
 
 **Pack:** [[ALeP - Fangs in the Dark]] #40
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

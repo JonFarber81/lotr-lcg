@@ -25,3 +25,9 @@ tags: [card, attachment, lore]
 Attach to the active location. Limit 1 per location. Attached location gets +2 quest points. **Response**: After attached location is explored, discard cards from the encounter deck until a location is discarded. Add that location to the staging area to choose an non-unique enemy in the staging area and shuffle it into the encounter deck.
 
 **Pack:** [[A Shadow in the East]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

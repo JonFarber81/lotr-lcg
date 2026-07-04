@@ -35,3 +35,9 @@ Folco Boffin gets -1 threat cost for each **_Hobbit**_ hero you control.
 > *...he had a good many friends, especially among the younger Hobbits (mostly descendants of the Old Took)... -The Fellowship of the Ring*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #109
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

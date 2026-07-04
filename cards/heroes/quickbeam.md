@@ -35,3 +35,9 @@ Cannot have restricted attachments.
 > *"...he can move like a wind when he is roused." -Pippin, The Two Towers*
 
 **Pack:** [[The Crossings of Poros]] #135
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

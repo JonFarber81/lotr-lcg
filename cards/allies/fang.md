@@ -31,3 +31,9 @@ Limit 1 per deck. Cannot have attachments. Each enemy in play gets +1 engagement
 **Response**: After Fang enters play, search your deck for a **_Creature_** ally and add it to your hand. Until the end of the phase, that ally does not require a resource match. Shuffle your deck.
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #46 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

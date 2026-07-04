@@ -29,3 +29,9 @@ tags: [card, event, tactics]
 > *“May the wind under your wings bear you where the sun sails and moon walks.” —Gandalf, The Hobbit*
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #48
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

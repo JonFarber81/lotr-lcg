@@ -36,3 +36,9 @@ When Bard the Bowman makes a ranged attack, the enemy he attacks gets -2 DEF unt
 > — The Hobbit
 
 **Pack:** [[On the Doorstep]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

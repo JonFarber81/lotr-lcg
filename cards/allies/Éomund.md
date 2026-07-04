@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — Aragorn, The Two Towers
 
 **Pack:** [[Conflict at the Carrock]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -26,3 +26,9 @@ Devoted.
 **Action**: Discard the top 10 cards of your deck. Choose up to 2 different **_Noldor_** or **_Dwarf_** allies discarded by this effect and put them into play. Each chosen ally must have a printed cost of 2 or less. You may shuffle any number of the other cards discarded by this effect back into your deck. Remove Lay of the Nauglamír from the game.
 
 **Pack:** [[ALeP - The Glittering Caves]] #106
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

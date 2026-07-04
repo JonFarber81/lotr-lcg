@@ -23,3 +23,9 @@ Limit 1 per deck.
 **Action:** Choose a hero you control and discard all tokens from it. Select a different non-(Fellowship), non-(Baggins) hero from your collection with a threat cost less than or equal to the chosen hero. Swap those heroes, moving all eligible attachments to the hero from your collection.
 
 **Pack:** [[Under the Ash Mountains]] #90 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

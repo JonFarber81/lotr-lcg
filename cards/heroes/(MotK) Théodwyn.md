@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > —Háma, The Two Towers
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

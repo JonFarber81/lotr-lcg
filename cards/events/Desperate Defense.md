@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

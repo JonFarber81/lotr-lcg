@@ -36,3 +36,9 @@ Reduce the cost of the first **_Rohan_** ally you play from your hand each round
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

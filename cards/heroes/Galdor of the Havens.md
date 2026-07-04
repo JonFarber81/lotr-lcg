@@ -36,3 +36,9 @@ tags: [card, hero, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Grey Havens]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

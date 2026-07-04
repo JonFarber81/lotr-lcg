@@ -23,3 +23,9 @@ Play only if you control a unique character with the **_Rohan**_ trait and anoth
 **Response**: At the beginning of the combat phase, you resolve the step in which you attack enemies before resolving enemy attacks this phase. (Each other player resolves the combat phase as normal after you resolve your attacks.)
 
 **Pack:** [[The Black Serpent]] #85
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

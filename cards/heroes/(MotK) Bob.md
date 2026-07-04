@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #74
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

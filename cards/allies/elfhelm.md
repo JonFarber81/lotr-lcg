@@ -35,3 +35,13 @@ tags: [card, ally, tactics]
 > — The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- Before I started on this journey I thought of Elfhelm as the kind of ally you slot in to tech against maybe 2 or 3 quests, but otherwise there's better options. My experience has really grown my appreciation for this guy. I realized just how many threat-raising effects that this game throws at you. So many that I actually made this ally a 2x.
+- Elfhelm is of course a key card against certain quests that have a repeated threat-raising cards. Like Gollum in Return to Mirkwood. He also cancels out Nalir, which is lovely. My favorite is when Local Trouble gets attached to Elrond while Elfhelm is on the table, because all the exhausts for Vilya and all the times I trigger Elrond's healing ability would have otherwise resulted in 20+ threat.

@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Hobbit
 
 **Pack:** [[Khazad-dûm]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Ranged.
 > — The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #28
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

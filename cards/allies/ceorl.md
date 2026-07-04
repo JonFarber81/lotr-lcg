@@ -35,3 +35,9 @@ Spend 1 (Spirit) resource to ready Ceorl. Then, you may give control of Ceorl to
 > — The Two Towers
 
 **Pack:** [[Temple of the Deceived]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Hobbit
 
 **Pack:** [[The Redhorn Gate]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

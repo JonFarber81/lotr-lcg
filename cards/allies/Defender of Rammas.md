@@ -31,3 +31,9 @@ tags: [card, ally, tactics]
 > — Denethor, The Return of the King
 
 **Pack:** [[Heirs of Númenor]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

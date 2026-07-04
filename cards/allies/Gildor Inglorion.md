@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Frodo Baggins, The Fellowship of the Ring
 
 **Pack:** [[The Hills of Emyn Muil]] #79
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

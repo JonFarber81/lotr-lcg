@@ -28,3 +28,9 @@ Play only before the staging step.
 > — The Return of the King
 
 **Pack:** [[The Drowned Ruins]] #86
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

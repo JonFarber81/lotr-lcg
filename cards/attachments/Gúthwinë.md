@@ -31,3 +31,9 @@ Attach to a **_Rohan_** hero. Restricted.
 > — The Two Towers
 
 **Pack:** [[The Mountain of Fire]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

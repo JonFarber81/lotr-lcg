@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

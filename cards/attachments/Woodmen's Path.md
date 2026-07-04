@@ -31,3 +31,9 @@ While attached location is the active location, reduce its quest point value to 
 > *-The Fellowship of the Ring*
 
 **Pack:** [[Roam Across Rhovanion]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

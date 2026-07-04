@@ -23,3 +23,9 @@ Play only if you control a unique character with the **_Noble_** trait and anoth
 **Response:** After a hero you control participates in an attack that destroys an enemy, add X resources to that hero’s pool. X is the just destroyed enemy’s printed Threat.
 
 **Pack:** [[Race Across Harad]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,13 @@ tags: [card, event, tactics]
 > — The Hobbit
 
 **Pack:** [[Core Set]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- The occasional turn where you get surprised with a second forced engagement or an enemy with very low threat can be handled with [[Feint]] and [[Sneak Attack]]-[[Gandalf]]. You could sneak in the Gaffer to use him twice in one round, but I prefer to save the sneaks for Gandalf.
+- The deck does have one weakness: "Immune to player card effects." This is not the deck to take up against Smaug or his kin. But if you are trying some quest where the immune enemy only shows up for a brief period, you may find that Sneak-Gandalf is enough to deal with those defenses. For example, the deck had no trouble dealing with the Mumak in The Mumakil quest. Alternatively, you may decide to swap out [[Feint]] for [[Hobbit Cloak]] so that Sam and Rosie can do their tanking business for a few turns.

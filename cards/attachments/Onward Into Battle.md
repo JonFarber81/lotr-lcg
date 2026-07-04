@@ -30,3 +30,9 @@ Attach to a **_Warrior_** hero.
 > *“…and though we still hold that a warrior should have more skills and knowledge than only the craft of weapons and slaying, we esteem a warrior, nonetheless, above men of other crafts. Such is the need of our days.” —Faramir, The Two Towers*
 
 **Pack:** [[ALeP - The Glittering Caves]] #109
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -29,3 +29,9 @@ tags: [card, event, spirit]
 > *They would have been willing to follow a leader over the River and into the shadow of Mordor… —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - Strange News in Bree]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

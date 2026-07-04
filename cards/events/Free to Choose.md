@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[Trouble in Tharbad]] #62
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

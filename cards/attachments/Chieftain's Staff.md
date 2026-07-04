@@ -27,3 +27,9 @@ While the active location has at least 4 Threat, **_Wose_** characters you contr
 **Planning Action**: Exhaust Chieftain’s Staff and place 1 Threat token on any 1 location in the staging area to reduce the cost of the next (Lore) card you play this phase by 1.
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #83
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

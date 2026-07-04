@@ -30,3 +30,9 @@ Attach to a **_Dwarf_** hero. Limit 3 copies of Golden Hair in the victory displ
 > *“…a single strand of your hair, which surpasses the gold of the earth as the stars surpass the gems of the mine.” —Gimli, The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Mirror of Galadriel]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

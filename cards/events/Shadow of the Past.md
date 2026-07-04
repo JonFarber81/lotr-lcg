@@ -27,3 +27,9 @@ tags: [card, event, neutral]
 > — The Fellowship of the Ring
 
 **Pack:** [[Return to Mirkwood]] #125
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

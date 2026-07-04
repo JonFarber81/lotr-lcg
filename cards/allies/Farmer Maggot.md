@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

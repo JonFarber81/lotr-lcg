@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[Trouble in Tharbad]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

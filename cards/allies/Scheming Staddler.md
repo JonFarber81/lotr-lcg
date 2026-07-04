@@ -34,3 +34,9 @@ tags: [card, ally, spirit]
 > *“He would sell anything to anybody; or make mischief for amusement.” —Aragorn, The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Gap of Rohan]] #79
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

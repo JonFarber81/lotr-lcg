@@ -28,3 +28,9 @@ tags: [card, event, tactics]
 > — The Return of the King
 
 **Pack:** [[The Dread Realm]] #144
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

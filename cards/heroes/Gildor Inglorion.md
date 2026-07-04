@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > *-The Fellowship of the Ring*
 
 **Pack:** [[Two-Player Limited Edition Starter]] #81
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

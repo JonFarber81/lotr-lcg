@@ -36,3 +36,9 @@ Ranged.
 > — Aragorn, The Two Towers
 
 **Pack:** [[The Drowned Ruins]] #85
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

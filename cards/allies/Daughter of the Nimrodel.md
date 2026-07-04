@@ -35,3 +35,12 @@ tags: [card, ally, lore]
 > — Legolas, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- The allies here are mostly self explanatory. Dwarves have very efficient stats, and [[Faramir]] can bump that up even further for questing. [[Brok Ironfist]] is in the deck just in case. And [[Self Preservation]] plus [[Daughter of the Nimrodel]] should help you keep Dain alive if he has to defend a lot of attacks.

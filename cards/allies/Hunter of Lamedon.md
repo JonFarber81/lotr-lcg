@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Return of the King
 
 **Pack:** [[Heirs of Númenor]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

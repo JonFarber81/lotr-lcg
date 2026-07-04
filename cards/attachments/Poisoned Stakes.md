@@ -27,3 +27,9 @@ If unattached, attach Poisoned Stakes to the next eligble enemy that enters the 
 At the end of each round, deal 2 damage to attached enemy.
 
 **Pack:** [[The Blood of Gondor]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

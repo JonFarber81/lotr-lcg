@@ -35,3 +35,9 @@ Secrecy 2.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #26
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

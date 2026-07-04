@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 **Action**: Ready each hero with a **_Song**_ attachment.
 
 **Pack:** [[The Black Serpent]] #83
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

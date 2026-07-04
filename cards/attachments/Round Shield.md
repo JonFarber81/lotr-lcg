@@ -26,3 +26,9 @@ Attach to a character. Restricted.
 **Response:** After a shadow effect is triggered during combat, exhaust Round Shield to give attached character +2 DEF for this attack.
 
 **Pack:** [[Mount Gundabad]] #118
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

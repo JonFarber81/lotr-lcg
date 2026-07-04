@@ -24,3 +24,9 @@ Encounter.
 _**Shadow**: Ready the defending character_
 
 **Pack:** [[The Crossings of Poros]] #144
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

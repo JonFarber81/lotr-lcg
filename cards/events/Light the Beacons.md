@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Gandalf, The Return of the King
 
 **Pack:** [[Heirs of Númenor]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

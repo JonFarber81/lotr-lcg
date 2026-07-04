@@ -22,3 +22,9 @@ tags: [card, event, lore]
 **Response:** At the beginning of the quest phase, search the top 5 cards of the encounter deck for a location and make it the active location, returning any previous active location to the staging area. Then, reveal 1 less encounter card this phase (to a minimum of 0). Shuffle the encounter deck.
 
 **Pack:** [[The Withered Heath]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

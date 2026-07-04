@@ -24,3 +24,9 @@ Attached hero gets +1 ATK for each resource token on another copy of Keeping Cou
 **Forced:** After attached hero attacks and destroys an enemy, place 1 resource token on this card.
 
 **Pack:** [[The Redhorn Gate]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

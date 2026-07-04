@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 **Response:** After an enemy is added to the staging area, deal 1 damage to that enemy. Players ignore that enemy while making engagement checks this round.
 
 **Pack:** [[The Long Dark]] #78
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

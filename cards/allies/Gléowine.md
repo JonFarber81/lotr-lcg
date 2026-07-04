@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Return of the King
 
 **Pack:** [[Core Set]] #62
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

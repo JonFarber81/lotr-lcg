@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > —Ghȃn-buri-Ghȃn, The Return of the King
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #75
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

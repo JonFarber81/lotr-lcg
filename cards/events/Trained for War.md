@@ -23,3 +23,9 @@ Play only if each hero you control has the printed (Tactics) resource icon.
 **Action:** Until the end of the phase, if the current quest does not have Siege, it gains Battle.
 
 **Pack:** [[The Drúadan Forest]] #36
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

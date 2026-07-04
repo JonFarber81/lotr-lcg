@@ -27,3 +27,9 @@ Secrecy 1.
 > *The legal bother, indeed, lasted for years. It was quite a long time before Mr. Baggins was in fact admitted to be alive again. —The Hobbit*
 
 **Pack:** [[ALeP - The Aldburg Plot]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

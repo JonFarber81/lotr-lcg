@@ -32,3 +32,9 @@ While you control 5 or fewer characters, attached hero gets +2 WP.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Drowned Ruins]] #91
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

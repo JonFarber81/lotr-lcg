@@ -32,3 +32,9 @@ tags: [card, hero, leadership]
 **Action:** Exhaust an attachment on Wiglaf to ready him. (Limit once per phase.)
 
 **Pack:** [[Messenger of the King Allies]] #27
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

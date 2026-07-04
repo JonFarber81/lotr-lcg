@@ -36,3 +36,9 @@ While Elrohir is in play, Elladan gets +2 ATK.
 > — The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

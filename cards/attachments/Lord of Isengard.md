@@ -26,3 +26,9 @@ Attach to Saruman. He gains the **_Noble_** trait.
 **Action**: Exhaust Lord of Isengard to search the top 5 cards of your deck for 1 **_Artifact_** or **_Isengard_** card and add it to your hand. If Saruman has an exhausted Palantir attached, search your whole deck instead. Shuffle your deck.
 
 **Pack:** [[ALeP - Fangs in the Dark]] #45
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

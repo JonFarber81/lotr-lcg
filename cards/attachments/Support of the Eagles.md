@@ -31,3 +31,9 @@ Attach to a (Tactics) hero.
 > — Gwaihir, The Return of the King
 
 **Pack:** [[Return to Mirkwood]] #120
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

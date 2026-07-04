@@ -35,3 +35,9 @@ You may give Herald of Anórien doomed 2 when you play it from your hand. If you
 > — Théoden, The Two Towers
 
 **Pack:** [[Trouble in Tharbad]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

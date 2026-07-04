@@ -28,3 +28,9 @@ Doomed 3.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Antlered Crown]] #145
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

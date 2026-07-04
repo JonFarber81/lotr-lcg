@@ -31,3 +31,9 @@ Limit 1 per deck. Cannot be included in your deck unless you also include at lea
 While this quest is in the victory display, any player can play **_Oathbreaker_** allies in their discard pile as if they were in their hand by also raising their own threat by 1 as an additional cost. (Limit 3 times per round for each player.)
 
 **Pack:** [[ALeP - Fangs in the Dark]] #49 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

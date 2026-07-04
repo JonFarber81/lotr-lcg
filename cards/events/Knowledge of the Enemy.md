@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > *-Aragorm, The Fellowship of the Ring*
 
 **Pack:** [[The Fortress of Nurn]] #139
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

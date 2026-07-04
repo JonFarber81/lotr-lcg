@@ -31,3 +31,9 @@ Attach to a **_Noble_** hero. Limit 1 per hero. Restricted. Attached hero gets +
 > *-The Fellowship of the Ring*
 
 **Pack:** [[Under the Ash Mountains]] #83
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

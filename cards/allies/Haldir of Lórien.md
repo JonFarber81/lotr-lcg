@@ -35,3 +35,9 @@ Ranged. Sentinel.
 > — The Fellowship of the Ring
 
 **Pack:** [[A Journey to Rhosgobel]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

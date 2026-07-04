@@ -28,3 +28,9 @@ While unattached, attach to the next eligible enemy that engages you.
 While attached enemy is engaged with you, reduce the total Threat in the staging area by X, where X is attached enemy's printed Threat.
 
 **Pack:** [[The Crossings of Poros]] #139
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

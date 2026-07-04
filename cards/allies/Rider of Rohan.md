@@ -34,3 +34,9 @@ While a side quest is in the victory display, Rider of Rohan does not exaust to 
 > *"Who are you, and what are you doing in this land?" said the Rider, using the Common Speech of the West… -The Two Towers*
 
 **Pack:** [[Beneath the Sands]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

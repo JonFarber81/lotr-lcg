@@ -25,3 +25,9 @@ tags: [card, event, tactics]
 **Response**: After a character you control attacks and destroys an enemy, exhaust a Weapon attached to that character to ready that character and give it +2 ATK for its next attack this phase.
 
 **Pack:** [[The Ghost of Framsburg]] #90
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

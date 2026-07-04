@@ -26,3 +26,9 @@ Attach to a (Leadership) or a **_Scout_** character.
 **Response:** At the beginning of the travel phase, exhaust Mariner's Compass and attached character to search the top 5 cards of the encounter deck for a location. Switch that location with a location in the staging area. Shuffle the encounter deck.
 
 **Pack:** [[The Grey Havens]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

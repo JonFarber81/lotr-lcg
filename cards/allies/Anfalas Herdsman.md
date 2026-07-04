@@ -35,3 +35,9 @@ Each **_Outlands_** character you control gets +1 hit point.
 > — The Return of the King
 
 **Pack:** [[The Steward's Fear]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

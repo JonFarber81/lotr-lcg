@@ -35,3 +35,9 @@ Cannot have restricted attachments.
 > *...Meneldor young and swift. -The Return of the King*
 
 **Pack:** [[Roam Across Rhovanion]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

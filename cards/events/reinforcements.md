@@ -23,3 +23,9 @@ You must spend resources from 3 different heroes' resource pools to play this ca
 **Action:** The players, as a group, can put up to 2 allies into play from their hands. Each of these allies may enter play under any player's control. At the end of the phase, return each of those allies that are still in play to their owners' hands.
 
 **Pack:** [[The Treachery of Rhudaur]] #85
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Doomed 2.
 > *-Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[Challenge of the Wainriders]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

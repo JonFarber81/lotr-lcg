@@ -31,3 +31,9 @@ Attach to a **_Ranger_** hero.
 > — Éomer, The Two Towers
 
 **Pack:** [[The Nîn-in-Eilph]] #92
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

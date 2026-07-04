@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Treachery of Rhudaur]] #91
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

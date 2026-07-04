@@ -35,3 +35,9 @@ Devoted.
 > *“Gave me a chance of walking round the country and seeing folk, and hearing the news, and knowing where the good beer was.” —Robin Smallburrow, The Return of the King*
 
 **Pack:** [[ALeP - The Gap of Rohan]] #83
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

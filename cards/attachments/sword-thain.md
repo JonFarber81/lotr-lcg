@@ -31,3 +31,9 @@ Attached character loses the ally card type and gains the hero card type.
 > — Merry, The Return of the King
 
 **Pack:** [[The Dread Realm]] #149
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Cannot have restricted attachments.
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

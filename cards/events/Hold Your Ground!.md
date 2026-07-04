@@ -28,3 +28,9 @@ tags: [card, event, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Battle of Carn Dûm]] #119
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

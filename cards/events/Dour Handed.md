@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Return of the King
 
 **Pack:** [[The Sands of Harad]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

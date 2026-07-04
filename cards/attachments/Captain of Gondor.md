@@ -31,3 +31,9 @@ Attach to a **_Warrior_** hero.
 > — Beregond, The Return of the King
 
 **Pack:** [[The Antlered Crown]] #140
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

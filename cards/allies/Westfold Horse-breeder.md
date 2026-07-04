@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — Boromir, The Fellowship of the Ring
 
 **Pack:** [[The Voice of Isengard]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

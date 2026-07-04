@@ -32,3 +32,9 @@ Attach to a (Lore) character. Restricted.
 > — The Fellowship of the Ring
 
 **Pack:** [[Conflict at the Carrock]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

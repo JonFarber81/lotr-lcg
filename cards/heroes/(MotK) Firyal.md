@@ -30,3 +30,9 @@ tags: [card, hero, lore]
 **Response:** After Firyal commits to the quest, look at the top card of the encounter deck. Then, you may discard the looked at card.
 
 **Pack:** [[Messenger of the King Allies]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

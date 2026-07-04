@@ -27,3 +27,9 @@ Limit 1 per hero. Attached hero gets +1 ATK.
 **Response:** After attached hero is declared as an attacker, exhaust The One Ring and raise your threat by 1 to double attached hero's printed ATK for this attack.
 
 **Pack:** [[The City of Ulfast]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

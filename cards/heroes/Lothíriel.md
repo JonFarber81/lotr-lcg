@@ -31,3 +31,9 @@ If Éomer is in play, Lothíriel gains the Rohan trait.
 **Response:** After Lothíriel commits to a quest, choose an ally in your hand. If that ally shares a **_Trait_** with her, put that ally into play exhausted and committed to the quest. At the end of the phase, if that ally is still in play, shuffle it into your deck.
 
 **Pack:** [[The City of Ulfast]] #27
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

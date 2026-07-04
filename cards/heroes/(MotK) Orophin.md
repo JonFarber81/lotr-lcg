@@ -36,3 +36,9 @@ Ranged.
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #114
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

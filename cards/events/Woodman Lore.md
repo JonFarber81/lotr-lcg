@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > *-The Fellowship of the Ring*
 
 **Pack:** [[The Fortress of Nurn]] #141
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

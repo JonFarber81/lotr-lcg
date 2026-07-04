@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Hobbit
 
 **Pack:** [[Messenger of the King Allies]] #19
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ While Boromir has at least 1 resource in his resource pool, **_Gondor_** allies 
 > — The Fellowship of the Ring
 
 **Pack:** [[Heirs of Númenor]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

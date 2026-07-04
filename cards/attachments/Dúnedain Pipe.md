@@ -26,3 +26,9 @@ Attach to a **_Dúnedain**_ character. Limit 1 per character.
 **Action**: Exhaust Dúnedain Pipe and place a card from your hand on the bottom of your deck to draw a card.
 
 **Pack:** [[The Black Serpent]] #88
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

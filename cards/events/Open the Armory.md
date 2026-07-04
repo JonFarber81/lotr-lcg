@@ -23,3 +23,9 @@ tags: [card, event, neutral]
 **Valour Action**: Search the top 5 cards of your deck for a **_Weapon**_  or **_Armor**_  attachment and put it into play. Shuffle your deck.
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #118
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

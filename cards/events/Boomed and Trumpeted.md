@@ -30,3 +30,9 @@ tags: [card, event, tactics]
 > — Merry, The Two Towers
 
 **Pack:** [[Escape from Mount Gram]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

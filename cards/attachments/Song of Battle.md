@@ -31,3 +31,9 @@ Attached hero gains a (Tactics) resource icon.
 > — The Two Towers
 
 **Pack:** [[The Dead Marshes]] #104
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

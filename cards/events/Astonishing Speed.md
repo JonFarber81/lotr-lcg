@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Two Towers
 
 **Pack:** [[Return to Mirkwood]] #122
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

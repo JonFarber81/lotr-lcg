@@ -36,3 +36,9 @@ Ranged.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #28
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

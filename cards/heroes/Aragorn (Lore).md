@@ -36,3 +36,9 @@ Sentinel.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Watcher in the Water]] #53
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

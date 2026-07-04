@@ -30,3 +30,9 @@ tags: [card, ally, tactics]
 Erebor Battle Master gets +1 ATK for each other **_Dwarf_** ally you control. (Limit +4 ATK.)
 
 **Pack:** [[The Long Dark]] #79
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

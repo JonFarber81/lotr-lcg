@@ -34,3 +34,9 @@ tags: [card, ally, lore]
 > *“Remnants of an older time they be, living few and secretly, wild and wary as the beasts.” —Elfhelm, The Return of the King*
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #78
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Hobbit
 
 **Pack:** [[On the Doorstep]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Devoted. Cannot have attachments.
 > —Treebeard, The Two Towers
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #148
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

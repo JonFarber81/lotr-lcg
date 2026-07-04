@@ -27,3 +27,33 @@ tags: [card, event, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #23
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Yes, this is a 44-card deck. Why? Because IMHO these are the only cards in the core set worth including in the deck. Just about everything else in the box (not including Tactics cards) is of situational use at best, and will just dilute the deck. if you're going with the constraint of a single Core set, you really shouldn't be handicapping yourself by forcing a 50-card deck. If you really want a 50-card minimum, get another Core set and add extra copies of [[Sneak Attack]], [[Steward of Gondor]], [[Northern Tracker]], [[A Test of Will]], [[Unexpected Courage]] and [[Henamarth Riversong]], or start adding cards from expansion packs as you get them.
+- * Even after all the expansions, [[Sneak Attack]]/[[Gandalf]] is probably still the best combo in the game, giving you a big ally to quest, defend or attack and also letting you deal an extra 4 damage, reduce your threat or draw cards, all for just one measly leadership resource. Try to save the combo for when you really need it, like when you're facing down a big enemy or need a lot of willpower to blast through a difficult stage of a quest.
+- * Keep in mind that, due to one of the most nonsensical rulings in the history of card games, [[Stand and Fight]] does NOT work with [[Gandalf]], since he does not belong to "any" sphere. (Seriously... that "hero can be any sphere" is supposed to be clarification text, not a rules override.) However, you can use S&F to bring #beorn](/card/01031) into play, and that's why Beorn's in the deck. Alternatively,kyou can [[Sneak Attack]] #beorn](/card/01031) in for an 8-strength attack, though generally Sneak is best saved for Gandalf. Note that you can pitch Beorn to Eowyn's special ability to get him into your discard pile.
+
+**[[Seastan's Single Core Set Solo]]**
+- 4. You can play [[Sneak Attack]] and [[Gandalf]] to play him for cheap, and if you do it during the combat phase, you can pair it with [[Ever Vigilant]] to use Gandalf for both defending and attacking. Or you can trigger [[Beorn]]'s effect and use [[Ever Vigilant]] to make use of his 8 attack twice before he leaves play.
+
+**[[Sting Like A Bee]]**
+- This is an updated version of the original Hobbit deck I built right after cracking open The Black Riders at Gen Con the year it was released. The core idea of the deck has never really changed: Pump Merry up and let him kill things, have Sam defend, and use Pippin for card draw. What has changed is the ally lineup, and I think it will always continually change as new allies are released. There are a few different Hobbit builds possible using this hero trio. One of them can make good use of Ents, and I've had fun with that particular deck, but I already have quite a few decks featuring Ents now, so I didn't go with that approach for this one. This is the classic "big alies" Hobbit build, which uses Elf-stone and Sneak Attack to get the big guys into play. There's also plenty of resources with Steward and Errand-rider to pay for some of them conventionally as well. The newest additions are Taste It Again! and Staff of Lebethron from Land of Shadow, which make Sam even better. Still one of the most enjoyable decks around that is powerful at the same time. This can work in either solo or multiplayer.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **Don't underestimate [[Son of Arnor]]!** Many people think that he's way too overpriced (and he probably is, at least before Dunedain decks became a thing), but he can be super useful. If you put him into play via [[Stand and Fight]] or [[Sneak Attack]] right after resolving enemy attacks, you'll be able to engage a tough enemy and it won't be able to attack you this round, but you'll be able to attack him immediately. Also, if you have enough resources you'll be able to engage an enemy during the planning phase and play [[Forest Snare]] immediately, without having to keep him engaged 'till the next planning phase. And last but not least, he allows you to engage enemies who normally cannot be optionally engaged.
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- 1. [[Sneak Attack]] and [[Valiant Sacrifice]] help you turn two leadership resources into two new cards. And if you include [[Gandalf]], you get even more draw or another bit of utility.
+1. [[Durin's Song]] is a great emergency button when [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] is defending. This deck has almost all the healing that's available in these three sets, but it's still not a ton. And no spirit means no shadow canceling for a while.
+1. [[Lórien's Wealth]] is easier to pay for with [[Bifur]] than you think, because he can easily get 4 resources in two rounds.
+1. [[Steward of Gondor]] on Gimli, passing a resource to [[Bifur]] every round is probably what you want for this deck. Unless you've drawn way too many of your leadership cards.
+1. I wouldn't worry about maximizing the abilities of the dwarf allies as they come into play. If you can take advantage of them, it's great. But the stats are good enough to play them without it in most cases.
+
+**[[Gaffer Ever After]]**
+- The occasional turn where you get surprised with a second forced engagement or an enemy with very low threat can be handled with [[Feint]] and [[Sneak Attack]]-[[Gandalf]]. You could sneak in the Gaffer to use him twice in one round, but I prefer to save the sneaks for Gandalf.

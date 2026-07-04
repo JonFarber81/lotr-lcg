@@ -36,3 +36,9 @@ tags: [card, hero, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Dead Marshes]] #95
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ Attached hero gains +1 DEF
 **Action:** Pay 1 resource from attached hero's pool to attach Dúnedain Warning to another hero.
 
 **Pack:** [[Conflict at the Carrock]] #26
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

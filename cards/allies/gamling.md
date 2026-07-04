@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — The Two Towers
 
 **Pack:** [[The Land of Shadow]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

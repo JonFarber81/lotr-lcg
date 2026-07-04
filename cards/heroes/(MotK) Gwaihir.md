@@ -36,3 +36,9 @@ Cannot have restricted attachments.
 > — Gwaihir, The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Hobbit
 
 **Pack:** [[Over Hill and Under Hill]] #16
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

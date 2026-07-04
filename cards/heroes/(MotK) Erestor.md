@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #77
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

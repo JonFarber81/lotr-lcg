@@ -31,3 +31,9 @@ Sentinel.
 While Déorwine is defending, he gains: “Response: Spend 1 (Leadership) resource to cancel a shadow effect just triggered. Any player may trigger this response.”
 
 **Pack:** [[Temple of the Deceived]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

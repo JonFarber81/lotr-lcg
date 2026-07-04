@@ -31,3 +31,9 @@ Limit 1 per deck.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Wastes of Eriador]] #9 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

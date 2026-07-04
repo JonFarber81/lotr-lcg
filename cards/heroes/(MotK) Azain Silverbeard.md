@@ -30,3 +30,9 @@ tags: [card, hero, tactics]
 **Response:** After Azain Silverbeard participates in an attack that destroys an enemy, spend 1 (Tactics) resource to deal 2 damage to another enemy that shares a **_Trait_** with the destroyed enemy. Any player may trigger this response.
 
 **Pack:** [[Messenger of the King Allies]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

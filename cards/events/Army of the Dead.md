@@ -23,3 +23,9 @@ Play only if Fulfil Your Oath is in the victory display.
 **Action**: Choose an enemy with a **_Fear_** attachment you control. Deal 2 damage to the enemy and return that attachment to your play area as an ally, if able. Repeat this effect any number of times. Remove Army of the Dead from the game.
 
 **Pack:** [[ALeP - Fangs in the Dark]] #44
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

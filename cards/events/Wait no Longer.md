@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Aragorn, The Return of the King
 
 **Pack:** [[The Mûmakil]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

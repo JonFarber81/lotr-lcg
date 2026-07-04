@@ -28,3 +28,9 @@ Play only after the staging step.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Thing in the Depths]] #36
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

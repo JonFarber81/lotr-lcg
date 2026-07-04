@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[A Journey to Rhosgobel]] #52
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

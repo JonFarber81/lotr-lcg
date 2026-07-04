@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — The Two Towers
 
 **Pack:** [[Return to Mirkwood]] #124
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

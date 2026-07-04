@@ -36,3 +36,9 @@ Herubrand gets +1 WP for each hero you control with at least 1 restricted attach
 > —Imrahil, The Return of the King
 
 **Pack:** [[ALeP - Children of Eorl]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

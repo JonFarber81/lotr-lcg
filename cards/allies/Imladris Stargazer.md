@@ -30,3 +30,16 @@ tags: [card, ally, spirit]
 **Action:** Exhaust Imladris Stargazer to choose a player. That player looks at the top 5 cards of his deck and then returns them to the top of his deck in any order.
 
 **Pack:** [[Foundations of Stone]] #106
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- This might not come as much of a shock to people. Vilya decks have always been one of the strongest archetypes in the game. Combined with [[Imladris Stargazer]], you can reliably get out a 4 or 5 cost card for free each turn. Most encounter decks simply cannot keep up with that kind of resource advantage.
+- This Vilya deck in particular stands out for 5 reasons:
+1. A focus on making Vilya effective very quickly. This means dedicating several card slots ([[Master of the Forge]], [[Heed the Dream]], [[Gather Information]]) to ensure Vilya is found fast, and it means having very few cards in the deck that will be duds if Vilya gets used before an [[Imladris Stargazer]] is found.
+- The next priority is to find the [[Imladris Stargazer]]. This is often done through [[Heed the Dream]], [[Gather Information]], or simply drawing her.
+- He can also be used to shuffle up your deck when your Stargazer reveals that your next 5 cards are all lame. There have been a few times where in late game I am searching hard for a specific card in my deck like [[Faramir]]. You can use [[Master of the Forge]] to keep shuffling your deck, then checking the top 5 with [[Imladris Stargazer]] to see if he's there. If he is, you move him to the top of the deck and draw him with [[Elven-light]]. By having multiple Masters and Stargazers out, they become remarkably effective deck searchers.

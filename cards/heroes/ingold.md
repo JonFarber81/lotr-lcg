@@ -34,3 +34,9 @@ tags: [card, hero, leadership]
 > *“We wish for no strangers in the land at this time, unless they be mighty men of arms in whose faith and help we can trust.” —The Return of the King*
 
 **Pack:** [[ALeP - Children of Eorl]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ Bywater Shirriff gets +1 WP, +1 ATK, and +1 DEF while you are engaged with an en
 > *-The Hobbit*
 
 **Pack:** [[The Fate of Wilderland]] #150
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

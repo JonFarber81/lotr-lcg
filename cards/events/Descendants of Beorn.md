@@ -26,3 +26,9 @@ tags: [card, event, tactics]
 > *He tossed wolves and goblins from his path like straws and feathers. —The Hobbit*
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #151
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

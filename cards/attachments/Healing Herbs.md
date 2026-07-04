@@ -26,3 +26,9 @@ Attach to a (Lore) hero.
 **Action:** Discard Healing Herbs and exhaust attached hero to heal all damage on 1 character.
 
 **Pack:** [[Foundations of Stone]] #109
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

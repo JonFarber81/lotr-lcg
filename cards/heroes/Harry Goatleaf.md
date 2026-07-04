@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Gap of Rohan]] #73
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

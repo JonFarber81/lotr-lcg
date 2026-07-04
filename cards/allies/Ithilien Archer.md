@@ -31,3 +31,9 @@ Ranged.
 **Response:** After Ithilien Archer attacks and damages an enemy, return that enemy to the staging area.
 
 **Pack:** [[Encounter at Amon Dîn]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

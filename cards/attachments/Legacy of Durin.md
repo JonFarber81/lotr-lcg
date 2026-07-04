@@ -26,3 +26,9 @@ Attach to a Dwarf hero.
 **Response:** After you play a Dwarf character from your hand, exhaust Legacy of Durin to draw 1 card.
 
 **Pack:** [[The Watcher in the Water]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

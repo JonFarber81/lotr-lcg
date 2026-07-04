@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > —The Return of the King
 
 **Pack:** [[ALeP - Children of Eorl]] #19
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

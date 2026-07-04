@@ -32,3 +32,9 @@ While playing an event with the printed doomed keyword, Saruman gains the printe
 **Response:** After you play a card with the doomed keyword, ready Saruman.
 
 **Pack:** [[Challenge of the Wainriders]] #54
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

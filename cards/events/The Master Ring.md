@@ -30,3 +30,9 @@ tags: [card, event, neutral]
 > *-Frodo, The Two Towers*
 
 **Pack:** [[A Shadow in the East]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

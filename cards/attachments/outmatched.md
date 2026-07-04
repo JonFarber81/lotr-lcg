@@ -27,3 +27,9 @@ If unattached, attach to the next eligible enemy that engages you.
 **Response:** After attached enemy resolves its attack, ready the defending character.
 
 **Pack:** [[Fire in the Night]] #62
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

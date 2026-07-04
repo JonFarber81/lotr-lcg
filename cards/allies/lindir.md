@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Battle of Carn Dûm]] #120
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

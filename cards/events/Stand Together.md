@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Return of the King
 
 **Pack:** [[Core Set]] #38
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

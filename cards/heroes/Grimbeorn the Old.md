@@ -31,3 +31,9 @@ Sentinel.
 **Response:** After Grimbeorn the Old defends an attack, spend 1 resource from his pool to declare him as an attacker against that enemy (and resolve his attack). The defending enemy gets -2 DEF for this attack.
 
 **Pack:** [[The Withered Heath]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

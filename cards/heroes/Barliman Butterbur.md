@@ -34,3 +34,9 @@ tags: [card, hero, lore]
 > *“I’m run off my feet; but I’ll see what I can do for you.” —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Gap of Rohan]] #71
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

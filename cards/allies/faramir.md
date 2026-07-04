@@ -35,3 +35,28 @@ tags: [card, ally, lore]
 > *-The Two Towers*
 
 **Pack:** [[A Shadow in the East]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * [[Steward of Gondor]] will usually go on Eowyn, since the more expensive cards in this deck are the Spirit ones. However, I have played it on Theodred if I have Faramir and several other leadership cards in my opening hand. In that case, you need to be sure to always quest with Theodred and Eowyn and give the resource to Eowyn so she can build up her pool.
+- * [[Faramir]] is awesome for questing; always keep him ready during the questing phase and only exhaust him for his ability AFTER revealing cards from the encounter deck, if you actually need the added willpower. Otherwise, he makes a very good defender if need be.
+
+**[[The One Deck]]**
+- Another 1x ally. Faramir is in here because whenever he comes out he generally contributes enough willpower that you can free up some questers for combat. He was also essential for my 1 eventual win at Mount Doom.
+- Faramir's other use was in post-staging willpower control, which can be helpful in quests where you want to stall.
+- He can also be used to shuffle up your deck when your Stargazer reveals that your next 5 cards are all lame. There have been a few times where in late game I am searching hard for a specific card in my deck like [[Faramir]]. You can use [[Master of the Forge]] to keep shuffling your deck, then checking the top 5 with [[Imladris Stargazer]] to see if he's there. If he is, you move him to the top of the deck and draw him with [[Elven-light]]. By having multiple Masters and Stargazers out, they become remarkably effective deck searchers.
+- Heed the Dream is mainly here to help you set up your Vilya/Stargazer in the early game, but it has a couple other uses. It's useful for shuffling up your top 5 cards when the Stargazer shows you that they're all bad, and it's useful for grabbing some 1-ofs like [[Faramir]] for a late-game questing push.
+
+**[[Seastan's Single Core Set Solo]]**
+- For getting through Stage 2, you should aim to get through it in only 1 turn to avoid too many encounter cards from piling up in the staging area, so try not to advance past stage 1 until you're ready to do this. A helpful combo for getting a huge burst of willpower in stage 2 is to use [[Ever Vigilant]] with [[Faramir]] and use his ability twice in one questing phase.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **[[Stand and Fight]] is just bonkers.** I forgot how good and flexible this card can be, especially with a hero like [[Éowyn (Spirit)|Éowyn]], with an in-built discarding ability. If you choose to put a [[Steward of Gondor]] on her and you'll be able to play every ally (obviously except for [[Gandalf]]) from your hand/discard pile, **in any phase** - I can't express how many times this saved my life ;). **It is also a fantastic resource-smoothing card** (I rarely looked at it this way to be honest). [[Glóin]] is lacking resources for [[Faramir]]? No problem, discard him and put him into play via [[Stand and Fight]] with your pile of blue resources. Remember this nasty location with 5  and single quest point in Journey Along the Anduin? Well, with [[Stand and Fight]] you can play [[Snowbourn Scout]] after the staging step, but before the questing resolution and explore it immediately, effectively boosting your  by 5. It's those little tricks that made me appreciate going back to basics once again and forcing myself to make the most out of every card I have. Seriously, don't underestimate this card - **it elevates the options you have with this deck to another level.** With [[Steward of Gondor]] on [[Éowyn (Spirit)|Éowyn]] you'll be able to play [[Beorn]] in just two rounds and keep him on your table for much longer than in case of simply Sneak-Attacking him into play for a phase. This card will also allow you to bypass the limit of playing one ally per round in Escape from Dol Guldur (play and put into play are totally different things). [[Stand and Fight]] is pure gold.
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- The allies here are mostly self explanatory. Dwarves have very efficient stats, and [[Faramir]] can bump that up even further for questing. [[Brok Ironfist]] is in the deck just in case. And [[Self Preservation]] plus [[Daughter of the Nimrodel]] should help you keep Dain alive if he has to defend a lot of attacks.

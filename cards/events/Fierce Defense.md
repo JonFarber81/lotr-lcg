@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > *When thirteen had fallen the rest fled shrieking, leaving the defenders unharmed, except for Sam who had a scratch along the scalp. -The Fellowship of the Ring*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #113
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

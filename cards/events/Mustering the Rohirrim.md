@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Éomer, The Return of the King
 
 **Pack:** [[The Hunt for Gollum]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

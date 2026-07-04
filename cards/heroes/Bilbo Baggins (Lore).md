@@ -35,3 +35,9 @@ The first player draws 1 additional card in the resource phase.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Hunt for Gollum]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

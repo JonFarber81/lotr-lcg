@@ -38,3 +38,9 @@ While Thalin is committed to a quest, deal 1 damage to each enemy as it is revea
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

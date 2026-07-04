@@ -31,3 +31,9 @@ Play only if you control a **_Dúnedain_** hero.
 > — Halbarad, The Return of the King
 
 **Pack:** [[The Lost Realm]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

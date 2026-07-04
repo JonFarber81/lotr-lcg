@@ -36,3 +36,9 @@ tags: [card, hero, tactics]
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

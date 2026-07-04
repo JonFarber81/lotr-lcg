@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Return of the King
 
 **Pack:** [[The City of Corsairs]] #143
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

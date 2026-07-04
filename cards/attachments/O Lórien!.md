@@ -34,3 +34,9 @@ Attach to a hero.
 > — Galadriel, The Fellowship of the Ring
 
 **Pack:** [[Trouble in Tharbad]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

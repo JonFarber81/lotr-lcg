@@ -32,3 +32,9 @@ Cannot have restricted attachments. Gwaihir does not ready during the refresh ph
 **Response:** After an **_Eagle_** ally enters or leaves play, ready Gwaihir. (Limit once per phase.)
 
 **Pack:** [[The Land of Sorrow]] #108
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

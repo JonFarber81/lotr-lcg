@@ -31,3 +31,9 @@ Cannot enter play.
 **Action**: If Wandering Spirit is in your discard pile, move it up or down by 1 or 2 cards. Then, if it is next to a **_Noldor_** ally with a printed cost of 2 or less, you may spend 1 (Spirit) resource and remove Wandering Spirit from the game to put that ally into play. (Limit once per round.)
 
 **Pack:** [[ALeP - The Glittering Caves]] #107
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

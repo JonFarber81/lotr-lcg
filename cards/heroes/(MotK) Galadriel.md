@@ -31,3 +31,9 @@ At the end of the round, discard Galadriel from play.
 **Response:** After you play Galadriel from your hand, search the top 5 cards of your deck for an attachment of cost 3 or less and put it into play. Put the remaining cards back in any order.
 
 **Pack:** [[Messenger of the King Allies]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

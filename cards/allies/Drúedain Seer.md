@@ -35,3 +35,9 @@ Secrecy 1.
 > *“I count many things: stars in sky, leaves on trees, men in the dark.” —Ghȃn-buri-Ghȃn, The Return of the King*
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #79
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

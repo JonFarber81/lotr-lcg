@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach to a location.
 > —Gandalf, The Fellowship of the Ring
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #147
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

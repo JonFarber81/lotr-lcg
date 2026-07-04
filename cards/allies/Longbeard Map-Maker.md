@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Hobbit
 
 **Pack:** [[Conflict at the Carrock]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

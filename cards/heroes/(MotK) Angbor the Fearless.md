@@ -35,3 +35,9 @@ While your threat is 40 or higher, Angbor the Fearless gets +2 ATK and does not 
 > *-Aragorn, The Return of the King*
 
 **Pack:** [[Messenger of the King Allies]] #28
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach to Galadriel.
 > — Galadriel, The Fellowship of the Ring
 
 **Pack:** [[Celebrimbor's Secret]] #118
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -28,3 +28,9 @@ Play only if each of your heroes is a **_Hobbit._**
 > — The Fellowship of the Ring
 
 **Pack:** [[Encounter at Amon Dîn]] #65
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

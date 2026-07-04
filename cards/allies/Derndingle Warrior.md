@@ -33,3 +33,9 @@ Enters play exhausted.
 While Derndingle Warrior is defending, it gains: "**Action:** Deal 1 damage to Derndingle Warrior to give it +3 DEF for this attack." (Limit once per attack.)
 
 **Pack:** [[Escape from Mount Gram]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

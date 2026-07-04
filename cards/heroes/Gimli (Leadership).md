@@ -36,3 +36,9 @@ Sentinel.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Sands of Harad]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

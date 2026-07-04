@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Beorn, The Hobbit
 
 **Pack:** [[Core Set]] #68
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

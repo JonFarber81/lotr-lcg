@@ -31,3 +31,9 @@ Defender of Cair Andros gets +X DEF, where X is the tens digit of your threat. (
 **Valour Response**: After Defender of Cair Andros is declared as a defender, deal 1 damage to the attacking enemy.
 
 **Pack:** [[The Black Serpent]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

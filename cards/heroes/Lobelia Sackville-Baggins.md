@@ -31,3 +31,9 @@ You may look at other players’ hands at any time.
 **Action**: Choose an **_Item_** attachment in play or in a player’s hand. Pay X resources to attach it to Lobelia Sackville-Baggins, even if she is ineligible for it. X is its printed cost. (Limit once per round.)
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

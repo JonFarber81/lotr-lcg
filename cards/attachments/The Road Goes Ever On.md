@@ -32,3 +32,9 @@ Attach to a quest card in play.
 > — Frodo Baggins, The Fellowship of the Ring
 
 **Pack:** [[The Sands of Harad]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

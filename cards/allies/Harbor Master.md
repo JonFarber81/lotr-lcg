@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Drúadan Forest]] #39
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

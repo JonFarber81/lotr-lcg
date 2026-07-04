@@ -31,3 +31,9 @@ Attach to Tom Bombadil or a **_Hobbit_** character.
 > —Tom Bombadil, The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

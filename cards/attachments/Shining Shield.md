@@ -32,3 +32,9 @@ Attached hero gets +1 DEF (+2 DEF instead if your threat is 40 or higher).
 > *-The Fellowship of the Ring*
 
 **Pack:** [[The Fortress of Nurn]] #138
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

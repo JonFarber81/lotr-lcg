@@ -35,3 +35,9 @@ Secrecy 1.
 > *“…they are woodcrafty beyond compare.” —Elfhelm, The Return of the King*
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #77
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — The Two Towers
 
 **Pack:** [[The Lost Realm]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

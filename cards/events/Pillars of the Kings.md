@@ -27,3 +27,9 @@ While your threat is less than 40, reduce the cost to play Pillars of the Kings 
 > *-Aragorn, The Fellowship of the Ring*
 
 **Pack:** [[Wrath and Ruin]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

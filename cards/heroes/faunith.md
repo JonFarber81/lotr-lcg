@@ -35,3 +35,9 @@ Cannot have restricted attachments.
 > *Straight down upon the Nazgûl they bore, stooping suddenly out of the high airs… —The Return of the King*
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #39
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -28,3 +28,9 @@ Doomed 2.
 > *-The Hobbit*
 
 **Pack:** [[Under the Ash Mountains]] #87
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

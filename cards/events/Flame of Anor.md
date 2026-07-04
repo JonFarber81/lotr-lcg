@@ -30,3 +30,9 @@ tags: [card, event, neutral]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[The Road Darkens]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

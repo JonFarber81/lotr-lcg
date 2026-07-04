@@ -14,7 +14,7 @@ nb_favorites: 249
 nb_comments: 2
 source: ringsdb
 source_url: "https://ringsdb.com/decklist/view/3470/deck-tech-dwarf-starter-deck-1.0"
-tags: [deck, khazad-dum]
+tags: [deck, khazad-d-m]
 ---
 
 # Deck Tech: Dwarf Starter Deck

@@ -27,3 +27,13 @@ tags: [card, event, spirit]
 > — The Return of the King
 
 **Pack:** [[Core Set]] #48
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Don't play [[Hasty Stroke]] on any old shadow effect. Taking an extra damage on a defender or having to raise your threat isn't necessarily a big deal; save Hasty Stroke for when you really need it.
+- * Speaking of which, [[Hasty Stroke]] / [[Lore of Imladris]] can be a very useful combo. For example, let's say it's the first turn of Passage Through Mirkwood and you have no allies in play, but really want to take care of that Forest Spider ASAP. You can quest with Eowyn, ready her by traveling to Old Forest Road and have all your heroes at the ready, Engage the Spider and take its attack undefended. Since you have Hasty Stroke in hand, you can afford to do this -- if a shadow effect that would give the spider a bonus to its attack comes up, you can just cancel it. Drop the 3 damage on Beravor and then attack with all three heroes to kill the Spider. Actually, against many quests you don't even need to have the Lore of Imladris in hand to do this. The reason you put the damage on Beravor and not Theodred is because you're usually going to want to quest with Theo, making him susceptible to damage from Necromancer's Reach. Beravor, on the other hand, will usually stay back to attack or draw cards, so she's effectively immune to that treachery. Later quests can deal damage to characters whether they're exhausted or not, but nothing in the base set. Knowing the encounter deck is key.

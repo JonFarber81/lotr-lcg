@@ -32,3 +32,9 @@ Attached enemy gets -1 Threat.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Lost Realm]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

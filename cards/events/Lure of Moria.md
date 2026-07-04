@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[Road to Rivendell]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

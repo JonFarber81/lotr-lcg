@@ -31,3 +31,9 @@ Attach a hero with Sentinel. Limit 1 per hero.
 > — The Return of the King
 
 **Pack:** [[The Wastes of Eriador]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

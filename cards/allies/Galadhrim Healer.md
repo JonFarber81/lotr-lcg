@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Celeborn, The Fellowship of the Ring
 
 **Pack:** [[The Dread Realm]] #147
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

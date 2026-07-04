@@ -32,3 +32,9 @@ Cannot gain resources from player card effects. The first player gains control o
 **If Bilbo Baggins leaves play, the players lose the game.**
 
 **Pack:** [[ALeP - The Hobbit]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

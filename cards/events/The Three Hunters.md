@@ -28,3 +28,9 @@ Play only if you control (Fellowship) Aragorn.
 > — Aragorn, The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

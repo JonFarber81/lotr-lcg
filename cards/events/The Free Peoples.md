@@ -27,3 +27,9 @@ Play only if the characters you control have a total of at least 9 different **_
 > *"For the rest, they shall represent the other Free Peoples of the World: Elves, Dwarves and Men." -Elrond, The Fellowship of the Ring*
 
 **Pack:** [[Beneath the Sands]] #64
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

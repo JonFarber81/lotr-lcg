@@ -34,3 +34,9 @@ tags: [card, ally, tactics]
 > *"...if it were not for the Beornings, the passage from Dale to Rivendell would long ago have become impossible." -Glóin, The Fellowship of the Ring*
 
 **Pack:** [[The Crossings of Poros]] #138
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -32,3 +32,22 @@ Attached enemy cannot attack.
 > *The Two Towers*
 
 **Pack:** [[Core Set]] #69
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * [[Forest Snare]]'s use is obvious, though remember you have to take at least one attack from the enemy first, since the Snare can only be played during your planning phase. Chump blocking the Hill Troll with a Snowbourn Scout and taking a 4-threat increase isn't so bad as long as you have the resources to play the Snare on the following turn.
+
+**[[Seastan's Single Core Set Solo]]**
+- Try to mulligan for [[The Galadhrim's Greeting]]. The extra turns you buy yourself before needing to engage the Hill Troll are worth more than a hand containing [[Steward of Gondor]]. If you find that you can't handle the Hill Troll once you engage him, one trick I like to do is save up resources and play [[Son of Arnor]] to engage the troll during the planning phase, then slap down a [[Forest Snare]] on it right away, so you never have to deal with its attacks.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- [[Steward of Gondor]] can be played either on [[Beravor]] (most of the time) or [[Éowyn (Spirit)|Éowyn]], depending on your draw. If you have a hand full of [[Forest Snare]]s and [[Self Preservation]]s, you'll know to whom to attach it. If you want to really abuse [[Stand and Fight]] or you just need to quickly play your [[Unexpected Courage]]s and [[Northern Tracker]], [[Éowyn (Spirit)|Éowyn]] is your target.
+- **Don't underestimate [[Son of Arnor]]!** Many people think that he's way too overpriced (and he probably is, at least before Dunedain decks became a thing), but he can be super useful. If you put him into play via [[Stand and Fight]] or [[Sneak Attack]] right after resolving enemy attacks, you'll be able to engage a tough enemy and it won't be able to attack you this round, but you'll be able to attack him immediately. Also, if you have enough resources you'll be able to engage an enemy during the planning phase and play [[Forest Snare]] immediately, without having to keep him engaged 'till the next planning phase. And last but not least, he allows you to engage enemies who normally cannot be optionally engaged.
+
+**[[Dunedain Trappers]]**
+- The crucial cards in the deck, which it probably won't work without, are 3x [[Master of the Forge]], 3x [[Forest Snare]]. [[Celebrían's Stone]] is the only way to get the Spirit icon, so if you don't have two or three you should put in some [[Song of Travel]].

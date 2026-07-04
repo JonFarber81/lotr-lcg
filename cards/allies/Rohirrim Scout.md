@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > *-The Two Towers*
 
 **Pack:** [[Challenge of the Wainriders]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

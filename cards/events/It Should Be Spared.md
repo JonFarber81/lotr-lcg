@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > —Faramir, The Two Towers
 
 **Pack:** [[ALeP - Children of Eorl]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

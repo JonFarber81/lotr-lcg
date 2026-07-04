@@ -31,3 +31,9 @@ Sentinel.
 **Action:** Spend 1 (Lore) resource to look at a facedown shadow card dealt to an engaged enemy. If that card has a shadow effect, Eldahir gets +2 DEF until the end of the phase. Any player may trigger this action. (Limit once per phase.)
 
 **Pack:** [[The Thing in the Depths]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

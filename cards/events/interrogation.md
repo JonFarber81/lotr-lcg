@@ -22,3 +22,9 @@ tags: [card, event, lore]
 **Action:** Choose an enemy with an attached **_Trap_** card. Look at the top X cards of the encounter deck, where X is that enemy's printed Threat. You may discard 1 of those cards. Return the rest to the top of the deck, in the same order.
 
 **Pack:** [[The Drowned Ruins]] #90
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

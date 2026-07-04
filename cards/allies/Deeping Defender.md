@@ -35,3 +35,9 @@ Devoted.
 > *The sunset gilded their spears and helmets, and glinted in their pale flowing hair. —The Two Towers*
 
 **Pack:** [[ALeP - Children of Eorl]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

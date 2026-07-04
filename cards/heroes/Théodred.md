@@ -35,3 +35,16 @@ tags: [card, hero, leadership]
 > — Gandalf, The Two Towers
 
 **Pack:** [[Core Set]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * In most quests, on the first turn you'll quest with [[Théodred]] and [[Éowyn (Spirit)|Éowyn]] (giving the resource to Eowyn unless you have Steward of Gondor in hand), leaving [[Beravor]] back to defend or attack if need be. Then if you don't need Beravor for combat, you can (and should) exhaust her to draw two cards.
+
+**[[Seastan's Single Core Set Solo]]**
+- 1. Cards: Try to quest with [[Théodred]] and [[Éowyn (Spirit)|Éowyn]] and use [[Beravor]] to draw every turn. Drawing extra cards each round is one of the biggest keys to success at this game. I will often sacrifice allies rather than defend with Beravor just so I can draw.
+- 2. Resources: Steward of Gondor goes on Eowyn. This allows her to quickly afford expensive cards like [[Northern Tracker]] and [[The Galadhrim's Greeting]]. [[Théodred]]'s resource should go on the hero that is going to need it next round. Once [[Beravor]] gets [[Unexpected Courage]], she can both quest and draw each turn, and becomes eligible for [[Théodred]]'s resource.

@@ -31,3 +31,9 @@ Limit 1 per deck.
 > — Hirgon, The Return of the King
 
 **Pack:** [[The Treachery of Rhudaur]] #86 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

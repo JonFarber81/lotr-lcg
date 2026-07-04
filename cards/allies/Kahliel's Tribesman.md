@@ -34,3 +34,9 @@ tags: [card, ally, leadership]
 > *But the Haradrim, being now driven to the brink, turned at bay, and they were fierce in despair... -The Return of the King*
 
 **Pack:** [[Race Across Harad]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

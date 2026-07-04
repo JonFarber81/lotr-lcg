@@ -26,3 +26,9 @@ Attach to a hero.
 **Action:** Discard Cram to ready attached hero.
 
 **Pack:** [[Over Hill and Under Hill]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -14,7 +14,7 @@ nb_favorites: 819
 nb_comments: 160
 source: ringsdb
 source_url: "https://ringsdb.com/decklist/view/8682/the-one-deck-1.0"
-tags: [deck, the-mumakil]
+tags: [deck, the-m-makil]
 ---
 
 # The One Deck

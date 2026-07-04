@@ -31,3 +31,9 @@ Attach to a **_Noldor_** or **_Silvan_** hero. Restricted.
 > — The Hobbit
 
 **Pack:** [[The Treachery of Rhudaur]] #87
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

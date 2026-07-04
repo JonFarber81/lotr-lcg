@@ -31,3 +31,9 @@ Devoted. Ranged.
 **Response**: After an enemy that shares a **_Trait_** with an enemy in the victory display is added to the staging area, spend 1 (Lore) resource to put Buckland Shirriff into play from your hand, under your control.
 
 **Pack:** [[ALeP - The Aldburg Plot]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

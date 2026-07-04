@@ -28,3 +28,9 @@ Lower the cost play Take No Notice by 1 for each **_Hobbit_** or **_Ranger_** he
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

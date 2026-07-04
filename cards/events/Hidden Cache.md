@@ -28,3 +28,9 @@ tags: [card, event, neutral]
 > — The Hobbit
 
 **Pack:** [[The Morgul Vale]] #143
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

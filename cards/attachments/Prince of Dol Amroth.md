@@ -27,3 +27,9 @@ Price Imrahil gains the **_Outlands_** trait.
 While you control **_Outlands_** allies that belong to 4 different spheres, add 1 additional resource to Prince Imrahil's resource pool when you collect resources during the resource phase (if Prince Imrahil is a hero).
 
 **Pack:** [[The City of Corsairs]] #146
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -34,3 +34,9 @@ tags: [card, ally, tactics]
 > *After him thundered the knights of his house... -The Return of the King*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #112
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

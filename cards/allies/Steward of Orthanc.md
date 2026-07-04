@@ -34,3 +34,9 @@ tags: [card, ally, neutral]
 > *“...the power of Orthanc cannot be lightly thrown aside...” -Saruman, The Two Towers*
 
 **Pack:** [[Race Across Harad]] #37
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

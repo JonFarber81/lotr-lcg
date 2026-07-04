@@ -32,3 +32,9 @@ Attach to a **_Noldor_** character.
 > — The Return of the King
 
 **Pack:** [[The Grey Havens]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

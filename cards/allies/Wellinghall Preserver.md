@@ -32,3 +32,9 @@ Enters play exhausted.
 **Response:** After Wellinghall Preserver readies, heal 1 damage from an **_Ent_** character.
 
 **Pack:** [[Across the Ettenmoors]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

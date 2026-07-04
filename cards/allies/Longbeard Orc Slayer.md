@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — The Two Towers
 
 **Pack:** [[Core Set]] #18
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — Strider, The Fellowship of the Ring
 
 **Pack:** [[The Dead Marshes]] #96
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

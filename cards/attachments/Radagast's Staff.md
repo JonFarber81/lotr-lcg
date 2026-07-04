@@ -25,3 +25,9 @@ tags: [card, attachment, neutral]
 Attach to Radagast. **Action**: Exhaust Radagast's Staff to choose one: Reduce the cost of the next **_Creature_** ally you play this phase by 2, ready a **_Creature_** ally, or return a non-unique **_Creature_** enemy engaged with you to the staging area.
 
 **Pack:** [[The Fate of Wilderland]] #154
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

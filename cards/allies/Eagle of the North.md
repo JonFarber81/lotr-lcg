@@ -32,3 +32,9 @@ Cannot have restricted attachments.
 **When Revealed:** The first player chooses a player to take control of Eagle of the North. The chosen player may choose and discard a non-unique enemy in the staging area.
 
 **Pack:** [[Roam Across Rhovanion]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

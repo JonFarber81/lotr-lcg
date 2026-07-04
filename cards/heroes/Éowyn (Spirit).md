@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Two Towers
 
 **Pack:** [[Core Set]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

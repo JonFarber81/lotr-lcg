@@ -22,3 +22,9 @@ tags: [card, event, baggins]
 **Action:** Bilbo Baggins gets +2 WP, +2 ATK, and +2 DEF until the end of the phase. (You may spend a (Baggins) resource from Bilbo Baggins' resource pool to play this card even if you do not control Bilbo Baggins.)
 
 **Pack:** [[Over Hill and Under Hill]] #19
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Cannot have restricted attachments. Enters play exhausted.
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

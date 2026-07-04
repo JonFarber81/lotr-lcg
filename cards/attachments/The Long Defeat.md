@@ -31,3 +31,9 @@ Attach to a quest card in play. Limit 1 per quest.
 > — Galadriel, The Fellowship of the Ring
 
 **Pack:** [[The Battle of Carn Dûm]] #122
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

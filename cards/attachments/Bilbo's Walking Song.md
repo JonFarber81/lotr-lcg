@@ -36,3 +36,9 @@ Attach to a **_Hobbit_** or **_Minstrel_** character.
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ While the top card of your discard pile is an ally, Mithlond Sea-watcher gets +2
 > — The Fellowship of the Ring
 
 **Pack:** [[The Grey Havens]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

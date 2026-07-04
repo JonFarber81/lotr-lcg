@@ -26,3 +26,9 @@ Attach to a **_Dúnedain_** hero or Aragorn. Attached character gains the **_Nol
 **Action**: Exhaust Estel and discard 1 card from your hand to search the top X cards of your deck for 1 card and add it to your hand. Shuffle your deck. X is the number of **_Traits_** on the attached character.
 
 **Pack:** [[ALeP - Blood in the Isen]] #188
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

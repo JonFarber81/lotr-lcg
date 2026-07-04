@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Return of the King
 
 **Pack:** [[The Drowned Ruins]] #89
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

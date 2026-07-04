@@ -35,3 +35,17 @@ While you control at least 5 **_Dwarf_** characters, Bifur gains: "**Response:**
 > —  we have forgotten them, they are down in the valley!" –The Hobbit
 
 **Pack:** [[On the Doorstep]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- And last, but definitely not least, [[Bifur]] is a huge source of resource fixing for the deck. A ton of great allies are in lore, and being able to pass resources to him helps get them out quickly. If you get [[Steward of Gondor]] in play, you can also trivially spread the resources around between two of your spheres. This can be especially handy when your pool is small because of the limited access to Songs and A Good Harvest.
+- 1. [[Sneak Attack]] and [[Valiant Sacrifice]] help you turn two leadership resources into two new cards. And if you include [[Gandalf]], you get even more draw or another bit of utility.
+1. [[Durin's Song]] is a great emergency button when [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] is defending. This deck has almost all the healing that's available in these three sets, but it's still not a ton. And no spirit means no shadow canceling for a while.
+1. [[Lórien's Wealth]] is easier to pay for with [[Bifur]] than you think, because he can easily get 4 resources in two rounds.
+1. [[Steward of Gondor]] on Gimli, passing a resource to [[Bifur]] every round is probably what you want for this deck. Unless you've drawn way too many of your leadership cards.
+1. I wouldn't worry about maximizing the abilities of the dwarf allies as they come into play. If you can take advantage of them, it's great. But the stats are good enough to play them without it in most cases.

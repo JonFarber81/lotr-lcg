@@ -31,3 +31,9 @@ Attached hero gets +4 Hit Points.
 > — Denethor, The Return of the King
 
 **Pack:** [[Core Set]] #40
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

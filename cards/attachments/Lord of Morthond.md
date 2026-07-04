@@ -31,3 +31,9 @@ If each hero you control has a printed (Leadership) resource icon, Lord of Morth
 > — Bergil, The Return of the King
 
 **Pack:** [[Encounter at Amon Dîn]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

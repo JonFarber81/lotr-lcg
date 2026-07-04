@@ -22,3 +22,9 @@ tags: [card, event, spirit]
 **Response:** After another player plays an attachment on a hero you control, you may (choose 1): ready 1 of that player's heroes, have that player draw 1 card, or lower that player's threat by 2.
 
 **Pack:** [[The Redhorn Gate]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

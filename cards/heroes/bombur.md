@@ -35,3 +35,9 @@ When counting the number of **_Dwarf_** characters you control, Bombur counts as
 > — Gandalf, The Hobbit
 
 **Pack:** [[On the Doorstep]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Two Towers
 
 **Pack:** [[The Hills of Emyn Muil]] #76
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

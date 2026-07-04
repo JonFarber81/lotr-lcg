@@ -35,3 +35,9 @@ Ranged.
 > — Haldir of Lórien, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #17
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

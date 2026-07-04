@@ -30,3 +30,9 @@ tags: [card, ally, lore]
 Cannot have attachments. **Response**: Discard Loyal Hound to cancel up to 2 damage just dealt to a hero you control.
 
 **Pack:** [[The Fate of Wilderland]] #148
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

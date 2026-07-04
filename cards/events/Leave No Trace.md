@@ -23,3 +23,9 @@ Limit 3 copies of Leave No Trace in the victory display.
 **Response:** After a non-unique location is explored, add Leave No Trace to the victory display to add that location to the victory display.
 
 **Pack:** [[Escape from Mount Gram]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

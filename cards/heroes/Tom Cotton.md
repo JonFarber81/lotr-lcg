@@ -31,3 +31,9 @@ While you are engaged with an enemy with an engagement cost higher than your thr
 **Response:** After a **_Hobbit_** ally enters play, it gets +2 ATK until the end of the round.
 
 **Pack:** [[The Mountain of Fire]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

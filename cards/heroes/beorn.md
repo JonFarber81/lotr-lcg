@@ -37,3 +37,9 @@ Beorn does not exhaust to defend.
 > — The Hobbit
 
 **Pack:** [[Over Hill and Under Hill]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

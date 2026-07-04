@@ -27,3 +27,9 @@ tags: [card, event, neutral]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Blood of Gondor]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

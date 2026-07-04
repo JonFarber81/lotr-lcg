@@ -31,3 +31,9 @@ Boromir gets +2 DEF while defending against an enemy with an engagement cost hig
 **Response:** After Boromir takes any amount of damage, ready him.
 
 **Pack:** [[Messenger of the King Allies]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

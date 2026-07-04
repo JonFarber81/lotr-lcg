@@ -31,3 +31,9 @@ Eagles of the Misty Mountains cannot have restricted attachments. Eagles of the 
 **Response:** After another **_Eagle_** character leaves play, you may attach that card facedown to Eagles of the Misty Mountains.
 
 **Pack:** [[Return to Mirkwood]] #119
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

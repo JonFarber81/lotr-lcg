@@ -32,3 +32,9 @@ Aragorn gains a resource icon matching each **_Title_** attachment attached to h
 **Action**: Ready a **_Title_** attachment with a printed cost of 1 attached to Aragorn. (Limit once per round.)
 
 **Pack:** [[ALeP - Blood in the Isen]] #183
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

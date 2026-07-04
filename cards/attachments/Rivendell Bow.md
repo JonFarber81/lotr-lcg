@@ -27,3 +27,9 @@ Attached character gains ranged.
 If attached character has the printed ranged keyword, it gets +1 ATK during a ranged attack.
 
 **Pack:** [[The Watcher in the Water]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

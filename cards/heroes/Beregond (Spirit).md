@@ -36,3 +36,9 @@ Sentinel.
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

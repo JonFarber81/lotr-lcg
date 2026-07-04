@@ -36,3 +36,9 @@ Secrecy 2.
 > — The Hobbit
 
 **Pack:** [[The Nîn-in-Eilph]] #89
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

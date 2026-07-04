@@ -31,3 +31,9 @@ Encounter. Surge. Ranged. Sentinel.
 **When Revealed:** The first player chooses a player to take control of Ranger of the North. Then, either deal 2 damage to an enemy or place 2 progress tokens on a location.
 
 **Pack:** [[The Lost Realm]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

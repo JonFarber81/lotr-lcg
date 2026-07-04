@@ -36,3 +36,9 @@ Cannot attack or defend.
 > — The Hobbit
 
 **Pack:** [[Messenger of the King Allies]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

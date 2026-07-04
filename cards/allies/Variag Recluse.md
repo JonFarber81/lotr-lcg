@@ -34,3 +34,9 @@ tags: [card, ally, spirit]
 > *“…what it is that makes him look to these distant and desolate parts, I cannot guess.” —Radagast, The Fellowship of the Ring*
 
 **Pack:** [[ALeP - Strange News in Bree]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

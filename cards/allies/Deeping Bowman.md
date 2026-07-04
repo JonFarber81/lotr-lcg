@@ -35,3 +35,9 @@ Devoted. Ranged.
 > *“We loosed every arrow that we had, and filled the Dike with Orcs.” —The Two Towers*
 
 **Pack:** [[ALeP - Children of Eorl]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ You may give Henneth Annûn Guard doomed 1 when you play it from your hand. If y
 > — Faramir, The Two Towers
 
 **Pack:** [[Celebrimbor's Secret]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

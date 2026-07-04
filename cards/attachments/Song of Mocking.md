@@ -34,3 +34,9 @@ Attach to a hero.
 > — Bilbo Baggins, The Hobbit
 
 **Pack:** [[The Dead Marshes]] #99
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

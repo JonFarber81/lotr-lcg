@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

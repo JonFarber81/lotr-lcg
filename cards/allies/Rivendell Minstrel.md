@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Hunt for Gollum]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

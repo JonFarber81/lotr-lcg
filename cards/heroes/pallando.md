@@ -31,3 +31,9 @@ While you control exactly 2 heroes, Pallando gains a (Lore) icon and: “**Respo
 **Response**: After you play a **_Spell_** event, ready an **_Istari_** hero. (Limit once per round.)
 
 **Pack:** [[ALeP - Strange News in Bree]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -32,3 +32,12 @@ Attach to a hero. Attached hero gets -1 WP
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #71
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- [[Dark Knowledge]] can be really useful for deciding whether or not to take undefended attacks with [[Glóin]]. Some folks really don't care for this card - if you think that it's weak and you don't really need it, try swapping it for an additional ally card, e.g. [[Guard of the Citadel]] or [[Erebor Hammersmith]] or even another copy of [[Ever Vigilant]] (all of those cards are included in the **sideboard** for you to consider). On the other hand, if you really like the idea of taking numerous undefended attacks on [[Glóin]] and you want to have more control over their effects, get rid of the [[Ever Vigilant]] and add a second copy of [[Dark Knowledge]]!

@@ -30,3 +30,9 @@ tags: [card, event, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Grey Havens]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

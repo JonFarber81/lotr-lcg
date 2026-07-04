@@ -27,3 +27,9 @@ Attach to a hero. Limit 1 per hero.
 **Action**: Spend 1 resource from attached hero’s pool to give attached hero +1 WP until the end of the phase. (Limit 3 times per phase.)
 
 **Pack:** [[The Black Serpent]] #82
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

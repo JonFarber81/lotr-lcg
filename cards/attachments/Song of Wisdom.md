@@ -34,3 +34,9 @@ Attached hero gains a (Lore) resource icon.
 > — The Fellowship of the Ring
 
 **Pack:** [[Conflict at the Carrock]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

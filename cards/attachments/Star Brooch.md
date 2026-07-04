@@ -31,3 +31,9 @@ While you are engaged with an enemy, attached hero gets +1 WP and cannot have it
 > — The Return of the King
 
 **Pack:** [[The Lost Realm]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

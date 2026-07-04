@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — Boromir, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

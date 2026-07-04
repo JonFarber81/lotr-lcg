@@ -27,3 +27,16 @@ tags: [card, event, leadership]
 > — Gandalf, The Return of the King
 
 **Pack:** [[Core Set]] #20
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Seastan's Single Core Set Solo]]**
+- 4. You can play [[Sneak Attack]] and [[Gandalf]] to play him for cheap, and if you do it during the combat phase, you can pair it with [[Ever Vigilant]] to use Gandalf for both defending and attacking. Or you can trigger [[Beorn]]'s effect and use [[Ever Vigilant]] to make use of his 8 attack twice before he leaves play.
+- For getting through Stage 2, you should aim to get through it in only 1 turn to avoid too many encounter cards from piling up in the staging area, so try not to advance past stage 1 until you're ready to do this. A helpful combo for getting a huge burst of willpower in stage 2 is to use [[Ever Vigilant]] with [[Faramir]] and use his ability twice in one questing phase.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- [[Dark Knowledge]] can be really useful for deciding whether or not to take undefended attacks with [[Glóin]]. Some folks really don't care for this card - if you think that it's weak and you don't really need it, try swapping it for an additional ally card, e.g. [[Guard of the Citadel]] or [[Erebor Hammersmith]] or even another copy of [[Ever Vigilant]] (all of those cards are included in the **sideboard** for you to consider). On the other hand, if you really like the idea of taking numerous undefended attacks on [[Glóin]] and you want to have more control over their effects, get rid of the [[Ever Vigilant]] and add a second copy of [[Dark Knowledge]]!

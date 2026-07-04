@@ -32,3 +32,9 @@ Attached character gets +2 hit points.
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

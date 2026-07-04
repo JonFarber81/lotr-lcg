@@ -28,3 +28,9 @@ Play during the Quest phase, before characters are committed to the Quest.
 > — Gildor, The Fellowship of the Ring
 
 **Pack:** [[The Hills of Emyn Muil]] #80
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ tags: [card, ally, lore]
 **Action:** Exhaust Mirkwood Explorer to move all progress from it to a location in play.
 
 **Pack:** [[The Thing in the Depths]] #37
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

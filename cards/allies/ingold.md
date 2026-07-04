@@ -35,3 +35,9 @@ Ingold gets +1 WP for each hero you control with at least 1 resource in its reso
 > — The Return of the King
 
 **Pack:** [[The Wastes of Eriador]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ You may use resources from Kahliel's resource pool to pay for **_Harad**_ ally c
 > — The Return of the King
 
 **Pack:** [[The Mûmakil]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

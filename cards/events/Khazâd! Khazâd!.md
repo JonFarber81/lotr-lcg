@@ -22,3 +22,9 @@ tags: [card, event, tactics]
 **Action:** Choose a **_Dwarf_** character. Until the end of the phase, that character gets +3 ATK.
 
 **Pack:** [[Khazad-dûm]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

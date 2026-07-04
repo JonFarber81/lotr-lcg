@@ -28,3 +28,9 @@ Play only if each hero you control has a printed (Lore) resource icon.
 > — The Two Towers
 
 **Pack:** [[The Drúadan Forest]] #40
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

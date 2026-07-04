@@ -36,3 +36,9 @@ Sentinel.
 > — The Hobbit
 
 **Pack:** [[Across the Ettenmoors]] #54
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

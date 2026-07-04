@@ -35,3 +35,22 @@ tags: [card, ally, tactics]
 > — The Hobbit
 
 **Pack:** [[Core Set]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Keep in mind that, due to one of the most nonsensical rulings in the history of card games, [[Stand and Fight]] does NOT work with [[Gandalf]], since he does not belong to "any" sphere. (Seriously... that "hero can be any sphere" is supposed to be clarification text, not a rules override.) However, you can use S&F to bring #beorn](/card/01031) into play, and that's why Beorn's in the deck. Alternatively,kyou can [[Sneak Attack]] #beorn](/card/01031) in for an 8-strength attack, though generally Sneak is best saved for Gandalf. Note that you can pitch Beorn to Eowyn's special ability to get him into your discard pile.
+
+**[[The One Deck]]**
+- There are number of allies in here that are great to get out with Vilya, but not so essential that it's worth risking having duplicate dead cards in the deck. Beorn is one of those allies. He can survive attacks from the toughest enemies, which I've found to be particularly good in combination with all the healing in the deck. I ended up using his ability to good effect about 5 times or so.
+
+**[[Seastan's Single Core Set Solo]]**
+- 3. Although you don't have a tactics hero, you can play [[Beorn]] by discarding him to [[Éowyn (Spirit)|Éowyn]] and bringing him into play with [[Stand and Fight]].
+- 4. You can play [[Sneak Attack]] and [[Gandalf]] to play him for cheap, and if you do it during the combat phase, you can pair it with [[Ever Vigilant]] to use Gandalf for both defending and attacking. Or you can trigger [[Beorn]]'s effect and use [[Ever Vigilant]] to make use of his 8 attack twice before he leaves play.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **[[Stand and Fight]] is just bonkers.** I forgot how good and flexible this card can be, especially with a hero like [[Éowyn (Spirit)|Éowyn]], with an in-built discarding ability. If you choose to put a [[Steward of Gondor]] on her and you'll be able to play every ally (obviously except for [[Gandalf]]) from your hand/discard pile, **in any phase** - I can't express how many times this saved my life ;). **It is also a fantastic resource-smoothing card** (I rarely looked at it this way to be honest). [[Glóin]] is lacking resources for [[Faramir]]? No problem, discard him and put him into play via [[Stand and Fight]] with your pile of blue resources. Remember this nasty location with 5  and single quest point in Journey Along the Anduin? Well, with [[Stand and Fight]] you can play [[Snowbourn Scout]] after the staging step, but before the questing resolution and explore it immediately, effectively boosting your  by 5. It's those little tricks that made me appreciate going back to basics once again and forcing myself to make the most out of every card I have. Seriously, don't underestimate this card - **it elevates the options you have with this deck to another level.** With [[Steward of Gondor]] on [[Éowyn (Spirit)|Éowyn]] you'll be able to play [[Beorn]] in just two rounds and keep him on your table for much longer than in case of simply Sneak-Attacking him into play for a phase. This card will also allow you to bypass the limit of playing one ally per round in Escape from Dol Guldur (play and put into play are totally different things). [[Stand and Fight]] is pure gold.

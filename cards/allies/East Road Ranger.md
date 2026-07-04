@@ -35,3 +35,9 @@ East Road Ranger gets +2 WP while committed to a side quest.
 > — Gandalf, the Fellowship of the Ring
 
 **Pack:** [[The Wastes of Eriador]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

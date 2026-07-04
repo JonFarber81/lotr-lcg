@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Glóin, The Fellowship of the Ring
 
 **Pack:** [[Shadow and Flame]] #129
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

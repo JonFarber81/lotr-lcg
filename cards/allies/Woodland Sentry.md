@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > *-The Hobbit*
 
 **Pack:** [[The City of Ulfast]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach a **_Dwarf_** character.
 > — The Two Towers
 
 **Pack:** [[The Long Dark]] #82
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

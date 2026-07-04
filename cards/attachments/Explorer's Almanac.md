@@ -26,3 +26,9 @@ Attach to a location in the staging area.
 Progress from questing successfully may be placed on the attached location before it is placed on the current quest.
 
 **Pack:** [[The Grey Havens]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

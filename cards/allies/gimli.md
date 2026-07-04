@@ -36,3 +36,18 @@ Sentinel.
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- [[Gimli (Tactics)|Gimli]] is an early defender or quester, because he has great stats for the first round with Dain on the table. In a lot of quests, he can pretty safely take an undefended attack in the first few rounds to boost up his attack, though it doesn't work in all cases.
+- But it works out okay, because Dain can defend the Goblin Swordsman, and an undefended attack from the Goblin Follower enrages and powers Gimli up. Plus the staging area is empty, so I can quest much lighter on the following round.
+- 1. [[Sneak Attack]] and [[Valiant Sacrifice]] help you turn two leadership resources into two new cards. And if you include [[Gandalf]], you get even more draw or another bit of utility.
+1. [[Durin's Song]] is a great emergency button when [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] is defending. This deck has almost all the healing that's available in these three sets, but it's still not a ton. And no spirit means no shadow canceling for a while.
+1. [[Lórien's Wealth]] is easier to pay for with [[Bifur]] than you think, because he can easily get 4 resources in two rounds.
+1. [[Steward of Gondor]] on Gimli, passing a resource to [[Bifur]] every round is probably what you want for this deck. Unless you've drawn way too many of your leadership cards.
+1. I wouldn't worry about maximizing the abilities of the dwarf allies as they come into play. If you can take advantage of them, it's great. But the stats are good enough to play them without it in most cases.

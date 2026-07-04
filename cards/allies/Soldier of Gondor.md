@@ -30,3 +30,9 @@ tags: [card, ally, leadership]
 **Response**: After Soldier of Gondor enters play, search the top 5 cards of your deck for a **_Gondor_** ally and add it to your hand (any number of Gondor allies instead if your threat is 40 or higher). Shuffle your deck.
 
 **Pack:** [[Wrath and Ruin]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

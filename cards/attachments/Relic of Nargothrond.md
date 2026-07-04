@@ -31,3 +31,9 @@ Attached character gets +1 DEF.
 > *In that labour Finrod was aided by the Dwarves of the Blue Mountains. —The Silmarillion*
 
 **Pack:** [[ALeP - The Glittering Caves]] #108
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

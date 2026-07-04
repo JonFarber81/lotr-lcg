@@ -36,3 +36,9 @@ Ranged.
 > — The Fellowship of the Ring
 
 **Pack:** [[Trouble in Tharbad]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

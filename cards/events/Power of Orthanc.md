@@ -31,3 +31,9 @@ Doomed 2.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[The Voice of Isengard]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

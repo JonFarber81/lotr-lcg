@@ -36,3 +36,9 @@ Discard Denethor if his WP is 0 or less.
 > — Gandalf, The Return of the King
 
 **Pack:** [[Encounter at Amon Dîn]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

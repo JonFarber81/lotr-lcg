@@ -31,3 +31,9 @@ Attached hero can have 1 additional restricted attachment.
 > *-The Fellowship of the Ring*
 
 **Pack:** [[Challenge of the Wainriders]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ Dúnhere can target enemies in the staging area when he attacks alone. When doin
 > — The Return of the King
 
 **Pack:** [[Core Set]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

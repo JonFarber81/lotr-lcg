@@ -28,3 +28,9 @@ Each **_Dwarf_** gets +1 hit point.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Shadow and Flame]] #130
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

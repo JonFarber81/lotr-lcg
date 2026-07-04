@@ -31,3 +31,9 @@ Devoted.
 **Response**: Exhaust Bree-land Protector to cancel a shadow effect just triggered during an attack and deal the attacking enemy another shadow card. If this attack deals no damage, return Bree-land Protector to its owner’s hand after the attack.
 
 **Pack:** [[ALeP - The Gap of Rohan]] #80
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

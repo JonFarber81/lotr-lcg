@@ -31,3 +31,9 @@ Attach to a character.
 > —Farmer Maggot, The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Gap of Rohan]] #76
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

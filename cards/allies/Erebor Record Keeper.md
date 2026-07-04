@@ -31,3 +31,9 @@ Erebor Record Keeper cannot attack or defend.
 **Action:** Exhaust Erebor Record Keeper and pay 1 (Lore) resource to choose and ready a **_Dwarf_** character.
 
 **Pack:** [[Khazad-dûm]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

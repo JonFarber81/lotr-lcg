@@ -30,3 +30,9 @@ Attach to a hero. Limit 1 per hero and 1 per deck.
 > *"In Eregion long ago many Elven-rings were made, magic rings as you call them, and they were, of course, of various kinds..." -Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[The Crossings of Poros]] #143 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

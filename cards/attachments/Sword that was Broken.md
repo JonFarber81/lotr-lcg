@@ -32,3 +32,9 @@ If attached hero is Aragorn, each character you control gets +1 WP.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Watcher in the Water]] #55
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

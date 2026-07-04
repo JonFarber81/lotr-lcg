@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

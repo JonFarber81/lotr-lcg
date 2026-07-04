@@ -31,3 +31,9 @@ Cannot have attachments.
 **Response**: After an encounter card without surge is revealed, exhaust Gavin to give that card surge and add 1 resource to the pool of a **_Scout_** hero you control. If the next encounter card revealed is not a location, discard it without resolving its effects.
 
 **Pack:** [[ALeP - The Aldburg Plot]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

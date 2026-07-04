@@ -32,3 +32,9 @@ While an **_Orc_** is making an enagement check with you, it gets +5 engagement 
 > — Sam Gamgee, The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

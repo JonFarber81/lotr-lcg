@@ -31,3 +31,9 @@ Limit 1 per deck.
 > — The Fellowship of the Ring
 
 **Pack:** [[Escape from Mount Gram]] #34 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

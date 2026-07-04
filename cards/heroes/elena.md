@@ -31,3 +31,9 @@ Reduce the cost of each **_Instrument_** attachment you play by 1.
 **Setup**: Search your deck for an **_Instrument_** attachment and add it to your hand. Shuffle your deck.
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

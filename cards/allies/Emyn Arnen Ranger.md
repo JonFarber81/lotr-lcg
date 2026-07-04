@@ -30,3 +30,9 @@ tags: [card, ally, lore]
 **Response**: After Emyn Arnen Ranger commits to the quest, choose an enemy with a **_Trap**_ attachment. Until the end of the phase, Emyn Arnen Ranger gets +X WP, where X is the chosen enemy's printed Threat.
 
 **Pack:** [[The Crossings of Poros]] #141
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

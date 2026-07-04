@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Gandalf, The Two Towers
 
 **Pack:** [[The Dead Marshes]] #101
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach to a hero or Legolas.
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

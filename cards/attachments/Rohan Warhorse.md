@@ -31,3 +31,9 @@ Attach to a (Tactics) or **_Rohan_** hero. Restricted.
 > — The Two Towers
 
 **Pack:** [[The Voice of Isengard]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

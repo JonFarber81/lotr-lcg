@@ -31,3 +31,47 @@ Gandalf does not exhaust to commit to a quest.
 **Forced:** At the end of the refresh phase, discard Gandalf from play. You may raise your threat by 2 to cancel this effect.
 
 **Pack:** [[Over Hill and Under Hill]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Even after all the expansions, [[Sneak Attack]]/[[Gandalf]] is probably still the best combo in the game, giving you a big ally to quest, defend or attack and also letting you deal an extra 4 damage, reduce your threat or draw cards, all for just one measly leadership resource. Try to save the combo for when you really need it, like when you're facing down a big enemy or need a lot of willpower to blast through a difficult stage of a quest.
+- * Keep in mind that, due to one of the most nonsensical rulings in the history of card games, [[Stand and Fight]] does NOT work with [[Gandalf]], since he does not belong to "any" sphere. (Seriously... that "hero can be any sphere" is supposed to be clarification text, not a rules override.) However, you can use S&F to bring #beorn](/card/01031) into play, and that's why Beorn's in the deck. Alternatively,kyou can [[Sneak Attack]] #beorn](/card/01031) in for an 8-strength attack, though generally Sneak is best saved for Gandalf. Note that you can pitch Beorn to Eowyn's special ability to get him into your discard pile.
+
+**[[The One Deck]]**
+- The major advantage that this deck has over Vilya decks that use the [[Gandalf]] hero is the ability to use Vilya to get Core Set [[Gandalf]] into play for free. His flexibility is ideal for the kind of deck that seeks to be able to beat a wide variety or quests, because he can act as threat reduction in quests that raise your threat, or as direct damage in quests that have a lot of enemies. I think overall I used him for threat reduction the most.
+- One trick in this deck regarding Gandalf: You can just keep him on the top of your deck and wait until after staging to see if you're going to need him to kill an enemy that just appeared or for threat reduction to avoid engaging a new enemy. If you don't need him that turn, then you can use Stargazer to swap a permanent ally on top for Vilya, putting Gandalf a couple cards down to do the same thing next turn.
+
+**[[Seastan's Single Core Set Solo]]**
+- 4. You can play [[Sneak Attack]] and [[Gandalf]] to play him for cheap, and if you do it during the combat phase, you can pair it with [[Ever Vigilant]] to use Gandalf for both defending and attacking. Or you can trigger [[Beorn]]'s effect and use [[Ever Vigilant]] to make use of his 8 attack twice before he leaves play.
+
+**[[Seastan's Boromir]]**
+- For the majority of quests, the hardest part is surviving the initial rounds until you get set up. This is solved by putting a Gondorian Shield on Boromir, as it allows him to hold off enemies easily for several rounds. During this time you try to look for A Good Harvest and Steward of Gondor. Steward goes on Boromir and he starts to collect many resources. Eventually you attach Gondorian Fire and Blood of Numenor and he can now defend and kill pretty much anything. If you want to feel for yourself how incredibly powerful this combo is, try using it against Nightmare Conflict at the Carrock, and have Boromir defend all the trolls then take them all out the same turn they enter play. With multiple copies of Gondorian Fire he can easily take out The Watcher, The Balrog, Smaug, etc., all by himself.
+ 
+This whole campaign has really opened my eyes to the power of Boromir. Is an encounter card requiring that you exhaust a hero/character? Is an enemy making an immediate attack you weren't counting on? Did a condition attachment turn up that punishes the attached hero for being exhausted at the end of a phase? No big deal. I just wish there had been a situation in one of the many quests that required me to use Boromir's second ability!
+ 
+Glorfindel and Galadriel help with the other aspect of the game - questing. With Nenya and a spirit ally in your opening hand, this deck can be questing for 10 on turn 1. But for quests that don't require this I tend to hold back and use Galadriel's card draw to set up Boromir. Her Mirror is responsible for bringing together Harvest and Steward in about 75% of my games. For location-heavy quests, use her Mirror to grab Asfaloth.
+ 
+It doesn't look like there is much threat reduction in the deck given its dependence on Boromir. I initially had more but found it isn't needed. Between Galadriel, her Handmaidens, Elrond's Council (and Tomb), and Gandalf, I've only lost once or twice due to threat.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **[[Stand and Fight]] is just bonkers.** I forgot how good and flexible this card can be, especially with a hero like [[Éowyn (Spirit)|Éowyn]], with an in-built discarding ability. If you choose to put a [[Steward of Gondor]] on her and you'll be able to play every ally (obviously except for [[Gandalf]]) from your hand/discard pile, **in any phase** - I can't express how many times this saved my life ;). **It is also a fantastic resource-smoothing card** (I rarely looked at it this way to be honest). [[Glóin]] is lacking resources for [[Faramir]]? No problem, discard him and put him into play via [[Stand and Fight]] with your pile of blue resources. Remember this nasty location with 5  and single quest point in Journey Along the Anduin? Well, with [[Stand and Fight]] you can play [[Snowbourn Scout]] after the staging step, but before the questing resolution and explore it immediately, effectively boosting your  by 5. It's those little tricks that made me appreciate going back to basics once again and forcing myself to make the most out of every card I have. Seriously, don't underestimate this card - **it elevates the options you have with this deck to another level.** With [[Steward of Gondor]] on [[Éowyn (Spirit)|Éowyn]] you'll be able to play [[Beorn]] in just two rounds and keep him on your table for much longer than in case of simply Sneak-Attacking him into play for a phase. This card will also allow you to bypass the limit of playing one ally per round in Escape from Dol Guldur (play and put into play are totally different things). [[Stand and Fight]] is pure gold.
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- By round ten of mostly questing through locations and just defending against the Patrol Leader, I've got enough resources to play Gandalf next round in stage three. And my threat is up at 45, so we need to move. I quest hard and advance, luckily not drawing another enemy to deal with this round.
+- Just as a note: Into the Pit is pretty rough on threat totals. I wouldn't expect this deck to be quite so high threat in most quests. Gandalf should be enough to keep your threat below elimination.
+- 1. [[Sneak Attack]] and [[Valiant Sacrifice]] help you turn two leadership resources into two new cards. And if you include [[Gandalf]], you get even more draw or another bit of utility.
+1. [[Durin's Song]] is a great emergency button when [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] is defending. This deck has almost all the healing that's available in these three sets, but it's still not a ton. And no spirit means no shadow canceling for a while.
+1. [[Lórien's Wealth]] is easier to pay for with [[Bifur]] than you think, because he can easily get 4 resources in two rounds.
+1. [[Steward of Gondor]] on Gimli, passing a resource to [[Bifur]] every round is probably what you want for this deck. Unless you've drawn way too many of your leadership cards.
+1. I wouldn't worry about maximizing the abilities of the dwarf allies as they come into play. If you can take advantage of them, it's great. But the stats are good enough to play them without it in most cases.
+
+**[[Gaffer Ever After]]**
+- Spend the rest of the game cancelling attacks while you keep your threat low with [[The Shirefolk]] and [[Gandalf]] and build up your board of allies.
+- The occasional turn where you get surprised with a second forced engagement or an enemy with very low threat can be handled with [[Feint]] and [[Sneak Attack]]-[[Gandalf]]. You could sneak in the Gaffer to use him twice in one round, but I prefer to save the sneaks for Gandalf.
+- The deck does have one weakness: "Immune to player card effects." This is not the deck to take up against Smaug or his kin. But if you are trying some quest where the immune enemy only shows up for a brief period, you may find that Sneak-Gandalf is enough to deal with those defenses. For example, the deck had no trouble dealing with the Mumak in The Mumakil quest. Alternatively, you may decide to swap out [[Feint]] for [[Hobbit Cloak]] so that Sam and Rosie can do their tanking business for a few turns.
+- For those that like the nitty-gritty details: If I open with Resourceful+Steward, I like to put Resourceful on Sam then Steward on Pippin turn 2. Then I'll put the second and third Resourceful on Pippin. Extra lore resources can always be used for readying [[Warden of Healing]] and paying full price for Gandalf.

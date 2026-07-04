@@ -27,3 +27,9 @@ Attached hero gains sentinel.
 **Action:** Pay 1 resource from attached hero's pool to attach Dúnedain Signal to another hero.
 
 **Pack:** [[Return to Mirkwood]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

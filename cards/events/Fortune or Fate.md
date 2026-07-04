@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #54
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

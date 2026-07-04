@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

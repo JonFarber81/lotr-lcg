@@ -32,3 +32,9 @@ Attached hero gains +1 WP.
 > *The Fellowship of the Ring*
 
 **Pack:** [[Core Set]] #55
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

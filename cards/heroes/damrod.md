@@ -36,3 +36,9 @@ Reduce the cost of the first **_Trap_** card you play each round by 1 (to a mini
 > — The Two Towers
 
 **Pack:** [[The Land of Shadow]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

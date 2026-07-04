@@ -36,3 +36,9 @@ Hobbit Archer gets +1 ATK while attacking an enemy with a higher engagement cost
 > *-Merry, The Return of the King*
 
 **Pack:** [[The Land of Sorrow]] #109
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

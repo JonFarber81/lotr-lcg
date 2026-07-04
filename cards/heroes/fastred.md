@@ -30,3 +30,9 @@ tags: [card, hero, spirit]
 **Response**: After Fastred defends an enemy attack, return that enemy to the staging area to reduce your threat by 2. (Limit once per phase.)
 
 **Pack:** [[The Black Serpent]] #81
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

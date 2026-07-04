@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — The Hobbit
 
 **Pack:** [[Core Set]] #66
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

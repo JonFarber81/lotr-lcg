@@ -32,3 +32,9 @@ Attached hero gets +1DEF.
 > — The Hobbit
 
 **Pack:** [[The Sands of Harad]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

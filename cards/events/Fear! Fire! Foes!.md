@@ -27,3 +27,9 @@ Secrecy 1. Play only if you do not control a **_Warrior_** hero.
 > *Far away answering horns were heard. The alarm was spreading. —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Aldburg Plot]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

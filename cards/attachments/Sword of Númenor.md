@@ -32,3 +32,9 @@ Attached hero gets +1 ATK.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Dread Realm]] #142
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

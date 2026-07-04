@@ -30,3 +30,9 @@ Play only if you control a **_Beorning_** hero. Attach to a hero. Limit 1 per he
 > *“I am Gandalf,” said the wizard. “Never heard of him,” growled the man. —The Hobbit*
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #152
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

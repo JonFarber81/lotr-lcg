@@ -36,3 +36,9 @@ Each enemy engaged with you gets +10 engagement cost.
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

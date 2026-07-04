@@ -31,3 +31,9 @@ While you control exactly 2 heroes, Alatar gains a (Tactics) icon and: “**Resp
 **Action**: Exhaust an **_Istari_** hero to place 2 progress on a player side quest (bypassing any active location). (Limit twice per round.)
 
 **Pack:** [[ALeP - Strange News in Bree]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

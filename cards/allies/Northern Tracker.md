@@ -35,3 +35,22 @@ tags: [card, ally, spirit]
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #45
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Yes, this is a 44-card deck. Why? Because IMHO these are the only cards in the core set worth including in the deck. Just about everything else in the box (not including Tactics cards) is of situational use at best, and will just dilute the deck. if you're going with the constraint of a single Core set, you really shouldn't be handicapping yourself by forcing a 50-card deck. If you really want a 50-card minimum, get another Core set and add extra copies of [[Sneak Attack]], [[Steward of Gondor]], [[Northern Tracker]], [[A Test of Will]], [[Unexpected Courage]] and [[Henamarth Riversong]], or start adding cards from expansion packs as you get them.
+- * Tempting as it might be to get that [[Northern Tracker]] into play ASAP, be wary of spending all your spirit resources if you have [[A Test of Will]] in hand. Usually it's better to wait an extra turn to accumulate resources so that if a nasty treachery comes up you're not left with an unplayable Test of Will.
+
+**[[The One Deck]]**
+- A: [[Yazan]] and the [[Northern Tracker]] tended to be my go-to discards for Arwen if I hadn't drawn [[Elven-light]] yet. So if you want to try to improve on this deck, you could start there. The Northern Trackers were pretty vital in my win against Rhosgobel, but other than that they were basically just stats, and there are some better options in that department, like [[Prince Imrahil]], [[Ranger of Cardolan]], or [[Knight of the White Tower]]. If you find that you don't often play against quests that really punish your threat you could also easily give up [[The Galadhrim's Greeting]] for more deckspace. Whatever you do, I strongly suggest that any new cards you swap in are cards you would want to see with a blind Vilya in the early game.
+
+**[[Seastan's Single Core Set Solo]]**
+- 2. Resources: Steward of Gondor goes on Eowyn. This allows her to quickly afford expensive cards like [[Northern Tracker]] and [[The Galadhrim's Greeting]]. [[Théodred]]'s resource should go on the hero that is going to need it next round. Once [[Beravor]] gets [[Unexpected Courage]], she can both quest and draw each turn, and becomes eligible for [[Théodred]]'s resource.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- [[Steward of Gondor]] can be played either on [[Beravor]] (most of the time) or [[Éowyn (Spirit)|Éowyn]], depending on your draw. If you have a hand full of [[Forest Snare]]s and [[Self Preservation]]s, you'll know to whom to attach it. If you want to really abuse [[Stand and Fight]] or you just need to quickly play your [[Unexpected Courage]]s and [[Northern Tracker]], [[Éowyn (Spirit)|Éowyn]] is your target.

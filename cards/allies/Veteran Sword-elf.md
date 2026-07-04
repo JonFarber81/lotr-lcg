@@ -35,3 +35,9 @@ Veteran Sword-elf gets +1 ATK and +1 DEF for each copy of Veteran Sword-elf in y
 > — The Hobbit
 
 **Pack:** [[A Storm on Cobas Haven]] #112
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,12 @@ Attach to a **_Hobbit_** character.
 > — Sam, The Two Towers
 
 **Pack:** [[The Dead Marshes]] #103
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- The [[Fast Hitch]] play order is typically [[Merry (Tactics)|Merry]] first, so he can quest, then [[Rosie Cotton]] second (if she's out) so she can use her ability in both the quest phase and combat phase. Then Sam would be the next target so he can act as an emergency defender and still be able to attack.

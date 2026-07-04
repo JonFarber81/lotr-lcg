@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Hobbit
 
 **Pack:** [[Fire in the Night]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

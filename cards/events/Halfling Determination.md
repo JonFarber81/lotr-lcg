@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Sam Gamgee, The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -34,3 +34,9 @@ tags: [card, ally, spirit]
 > *“Little service can I offer to your lord, but what I can do, I would do.” —Pippin, The Return of the King*
 
 **Pack:** [[ALeP - Children of Eorl]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

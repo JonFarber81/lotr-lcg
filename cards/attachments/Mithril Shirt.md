@@ -31,3 +31,9 @@ Guarded (location). Attach to a hero. **Response**: When attached hero is dealt 
 > *-The Hobbit*
 
 **Pack:** [[The Fate of Wilderland]] #152
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

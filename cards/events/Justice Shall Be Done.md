@@ -28,3 +28,9 @@ Limit 1 per deck.
 > — Aragorn, The Return of the King
 
 **Pack:** [[A Storm on Cobas Haven]] #119 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

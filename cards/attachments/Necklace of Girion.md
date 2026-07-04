@@ -32,3 +32,9 @@ Attached hero gets +2 WP and collects an additional resource during the resource
 > — The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

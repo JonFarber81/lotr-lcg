@@ -34,3 +34,9 @@ During the round that Young Tom enters play, enemies get +5 engagement cost.
 > *“Not all is well there,” said Frodo, “but certainly gardeners are honoured.” —The Two Towers*
 
 **Pack:** [[ALeP - The Aldburg Plot]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

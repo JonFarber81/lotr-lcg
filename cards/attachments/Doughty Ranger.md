@@ -30,3 +30,9 @@ Attach to a hero. Limit 1 per hero. Attached hero gains the **_Ranger**_ trait.
 > *...he went forth clad only in rusty green and brown, as a Ranger of the wilderness. -The Fellowship of the Ring*
 
 **Pack:** [[Beneath the Sands]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

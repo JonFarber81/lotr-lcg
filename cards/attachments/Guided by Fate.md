@@ -27,3 +27,9 @@ Attach to a hero.
 **Action**: If the encounter deck has 5 or more cards in it, exhaust Guided by Fate and raise your threat by 1 to shuffle the top card of the encounter discard pile into the top 5 cards of the encounter deck.
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #51
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Ranged.
 > — Legolas, The Fellowship of the Ring
 
 **Pack:** [[The Nîn-in-Eilph]] #87
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

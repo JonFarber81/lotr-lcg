@@ -31,3 +31,9 @@ tags: [card, event, spirit]
 > *- The Hobbit*
 
 **Pack:** [[Roam Across Rhovanion]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

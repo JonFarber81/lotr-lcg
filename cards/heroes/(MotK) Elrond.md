@@ -31,3 +31,9 @@ At the end of the round, discard Elrond from play.
 **Response:** After Elrond enters play, choose one: heal all damage on a hero, discard a **_Condition_** attachment, or each player draws 1 card.
 
 **Pack:** [[Messenger of the King Allies]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

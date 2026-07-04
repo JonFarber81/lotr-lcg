@@ -35,3 +35,15 @@ tags: [card, ally, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Seastan's Single Core Set Solo]]**
+- Try to mulligan for [[The Galadhrim's Greeting]]. The extra turns you buy yourself before needing to engage the Hill Troll are worth more than a hand containing [[Steward of Gondor]]. If you find that you can't handle the Hill Troll once you engage him, one trick I like to do is save up resources and play [[Son of Arnor]] to engage the troll during the planning phase, then slap down a [[Forest Snare]] on it right away, so you never have to deal with its attacks.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **Don't underestimate [[Son of Arnor]]!** Many people think that he's way too overpriced (and he probably is, at least before Dunedain decks became a thing), but he can be super useful. If you put him into play via [[Stand and Fight]] or [[Sneak Attack]] right after resolving enemy attacks, you'll be able to engage a tough enemy and it won't be able to attack you this round, but you'll be able to attack him immediately. Also, if you have enough resources you'll be able to engage an enemy during the planning phase and play [[Forest Snare]] immediately, without having to keep him engaged 'till the next planning phase. And last but not least, he allows you to engage enemies who normally cannot be optionally engaged.

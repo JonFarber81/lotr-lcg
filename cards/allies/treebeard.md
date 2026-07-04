@@ -31,3 +31,12 @@ Cannot have restricted attachments. Treebeard enters play exhausted and collects
 **Action:** Pay 2 resources from Treebeard's pool to ready an **_Ent_** character.
 
 **Pack:** [[The Antlered Crown]] #146
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- Given how well Treebeard works in most decks, it shouldn't be a surprise that he shows up here. He's easy to play whenever you draw him thanks to Arwen, even if you used all your resources on the last turn. Some games can last a while, so he often gets to ready himself.

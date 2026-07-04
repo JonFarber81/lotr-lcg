@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > — The Two Towers
 
 **Pack:** [[The Long Dark]] #76
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[Celebrimbor's Secret]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

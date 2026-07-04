@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Response:** After Long Lake Fisherman enters play, name a number. Then, search the top 5 cards of your deck for a card whose printed cost is equal to that number and add it to your hand. Shuffle your deck.
 
 **Pack:** [[The Withered Heath]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

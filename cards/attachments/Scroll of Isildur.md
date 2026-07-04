@@ -27,3 +27,9 @@ Reduce the cost to play Scroll of Isildur by 1 for each hero you control with a 
 **Action:** Discard Scroll of Isildur to play any (Lore) event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck.
 
 **Pack:** [[The Morgul Vale]] #142
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — The Two Towers
 
 **Pack:** [[The Land of Shadow]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

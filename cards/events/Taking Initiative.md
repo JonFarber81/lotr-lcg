@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 **Action:** Discard the top card of your deck. If the discarded card's printed cost is equal to or higher than the number of characters you control, draw 2 cards and deal 2 damage to any enemy.
 
 **Pack:** [[The Redhorn Gate]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

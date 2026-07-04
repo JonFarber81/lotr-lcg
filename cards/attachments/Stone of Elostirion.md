@@ -31,3 +31,9 @@ Attach to a hero. Attached hero gets +2 WP. You draw 1 additional card during th
 > *-The Fellowship of the Ring*
 
 **Pack:** [[Under the Ash Mountains]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

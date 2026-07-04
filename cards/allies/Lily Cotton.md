@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > —The Hobbit
 
 **Pack:** [[ALeP - The Aldburg Plot]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

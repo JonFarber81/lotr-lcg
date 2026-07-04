@@ -31,3 +31,9 @@ Ranged.
 Reduce the cost to play Mirkwood Hunter by 1 for each attachment on the active location.
 
 **Pack:** [[The Ghost of Framsburg]] #87
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

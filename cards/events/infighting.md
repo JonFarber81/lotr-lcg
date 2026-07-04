@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Orc Soldier, The Return of the King
 
 **Pack:** [[A Journey to Rhosgobel]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

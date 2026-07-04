@@ -26,3 +26,9 @@ Play only if you control an unattached **_Trap_** attachment.
 **Action**: Choose a non-unique enemy in play. Until the end of the round, treat the chosen enemy’s printed text box as if it were blank (except for **_Traits_**). Then, attach an unattached **_Trap_** attachment you control to that enemy.
 
 **Pack:** [[ALeP - Children of Eorl]] #18
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

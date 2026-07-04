@@ -31,3 +31,9 @@ Attached character gains the **_Noldor_** and **_Silvan_** traits.
 > — Gildor, The Fellowship of the Ring
 
 **Pack:** [[The Treachery of Rhudaur]] #93
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

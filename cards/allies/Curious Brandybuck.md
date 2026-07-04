@@ -31,3 +31,9 @@ tags: [card, ally, spirit]
 **Response:** After you travel to a location, put Curious Brandybuck into play from your hand, under any player's control.
 
 **Pack:** [[The Wastes of Eriador]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

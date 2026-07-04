@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Strider, The Fellowship of the Ring
 
 **Pack:** [[The Hunt for Gollum]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

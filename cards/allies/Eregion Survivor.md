@@ -34,3 +34,9 @@ While you have no cards in your hand, Eregion Survivor gets +1 WP, +1 ATK, and +
 > *"Much evil must befall a country before it wholly forgets the Elves, if once they dwelt there." -Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #114
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

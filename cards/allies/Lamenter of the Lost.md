@@ -36,3 +36,9 @@ Cannot have restricted attachments.
 > *Come back to me! Come back to me… —The Two Towers*
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #17
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

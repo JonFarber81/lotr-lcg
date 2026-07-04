@@ -35,3 +35,9 @@ While you control **_Outlands_** allies that belong to 4 different spheres, read
 > — The Return of the King
 
 **Pack:** [[The Drúadan Forest]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

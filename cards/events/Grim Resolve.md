@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Frodo Baggins, The Two Towers
 
 **Pack:** [[Core Set]] #25
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

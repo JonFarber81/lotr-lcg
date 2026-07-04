@@ -30,3 +30,9 @@ tags: [card, hero, lore]
 **Planning Action**: Search the top 10 cards of the encounter deck for a location, reveal it, and shuffle the encounter deck. Then, search the top 10 cards of your deck for a (Lore) attachment, play it for no cost, and shuffle your deck. (Limit once per round.)
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #74
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

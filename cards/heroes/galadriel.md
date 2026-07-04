@@ -31,3 +31,9 @@ Galadriel cannot quest, attack, or defend. Allies you control do not exhaust to 
 **Action:** Exhaust Galadriel to choose a player. That player reduces his threat by 1 and draws 1 card. (Limit once per round.)
 
 **Pack:** [[Celebrimbor's Secret]] #112
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

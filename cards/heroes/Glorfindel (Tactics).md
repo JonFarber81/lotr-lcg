@@ -36,3 +36,9 @@ Glorfindel gets +2 ATK while attacking a unique enemy.
 > —The Fall of Gondolin
 
 **Pack:** [[ALeP - The Glittering Caves]] #102
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

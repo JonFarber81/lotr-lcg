@@ -22,3 +22,9 @@ tags: [card, event, spirit]
 **Response:** After a location worth no victory points leaves play as an explored location, return it to the top of the encounter deck.
 
 **Pack:** [[Heirs of Númenor]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

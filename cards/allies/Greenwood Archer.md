@@ -36,3 +36,9 @@ Ranged.
 > — The Hobbit
 
 **Pack:** [[The Sands of Harad]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

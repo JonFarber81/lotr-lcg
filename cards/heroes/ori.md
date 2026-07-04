@@ -35,3 +35,9 @@ If you control at least 5 **_Dwarf_** characters, draw 1 additional card at the 
 > — Gimli, The Fellowship of the Ring
 
 **Pack:** [[Over Hill and Under Hill]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

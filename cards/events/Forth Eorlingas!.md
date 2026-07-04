@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Théoden, The Return of the King
 
 **Pack:** [[The Morgul Vale]] #138
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

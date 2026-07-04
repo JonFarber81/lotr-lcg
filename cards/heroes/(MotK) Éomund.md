@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — Aragorn, The Two Towers
 
 **Pack:** [[Messenger of the King Allies]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

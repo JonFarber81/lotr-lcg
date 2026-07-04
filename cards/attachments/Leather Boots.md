@@ -31,3 +31,9 @@ Attach to a (Lore) or **_Ranger_** character. Limit 1 per character.
 > — The Fellowship of the Ring
 
 **Pack:** [[Fire in the Night]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

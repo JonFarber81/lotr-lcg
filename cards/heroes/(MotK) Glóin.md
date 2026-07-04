@@ -35,3 +35,9 @@ While you control at least 5 **_Dwarf_** characters, Glóin gains: "**Response:*
 > —  The Hobbit
 
 **Pack:** [[Messenger of the King Allies]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

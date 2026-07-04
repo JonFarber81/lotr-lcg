@@ -28,3 +28,9 @@ Play only after the resolving enemy attacks step is complete.
 > — Riders of Rohan, The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

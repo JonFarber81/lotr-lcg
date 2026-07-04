@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > *-The Return of the King*
 
 **Pack:** [[Roam Across Rhovanion]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -26,3 +26,9 @@ Attach to a **_Noldor_** or **_Silvan_** character. Restricted.
 When attached character attacks an enemy, that enemy gets -2 DEF until the end of the phase.
 
 **Pack:** [[Road to Rivendell]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

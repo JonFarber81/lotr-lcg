@@ -30,3 +30,9 @@ Attach to a location or enemy. Attached card gets +1 Threat.
 > *…only the old Púkel-men were left, still sitting at the turnings of the road. —The Return of the King*
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #82
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

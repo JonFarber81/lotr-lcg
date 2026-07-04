@@ -34,3 +34,9 @@ tags: [card, ally, spirit]
 > *There were toys the like of which they had never seen before, all beautiful and some obviously magical. —The Fellowship of the Ring*
 
 **Pack:** [[Mount Gundabad]] #119
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attached character gets +1 ATK, +1 DEF and +2 hit points.
 > — The Two Towers
 
 **Pack:** [[The Thing in the Depths]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

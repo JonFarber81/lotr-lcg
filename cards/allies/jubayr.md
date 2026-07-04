@@ -31,3 +31,16 @@ Sentinel.
 **Response:** After Jubayr exhausts to defend an attack, discard 1 facedown shadow card from a non-unique enemy. (Limit once per phase.)
 
 **Pack:** [[The Mûmakil]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- 2. A focus on the powerful new Harad allies [[Firyal]] and [[Jubayr]] to universally tech against the most problematic encounter and shadow card effects in a given scenario.
+- Not just a Vilya machine in the deck. His impressive stats do get used once you find [[Unexpected Courage]], and his 4 hit points also allow you to take undefended attacks, which I did many, many times. Since you can use [[Jubayr]] to discard the shadow card on the enemy that will be making the undefended attack, you can do this safely, and with Elrond's healing ability, your [[Warden of Healing]] can quickly get rid of the damage. It took me a few games until I discovered how valuable this action advantage can actually be.
+- Jubayr's awesomeness cannot be overstated. By far the best defending ally in the game.
+- In solo, it's often the case where you're only defending one enemy per round, then killing it. In that situation, you never have to resolve any shadow effects. Jubayr's main weakness (enemies with more than 3 ) is easily handled because Jubayr can safely defend enemies up to 5  with no fear of a surprise shadow effect killing him, then he can be brought back to full health with a single use of [[Warden of Healing]]+[[Elrond]]. Enemies with 6 or more attack are often unique, rendering his ability useless for their attacks anyway.
+- As I mentioned earlier, these guys also make taking undefended attacks pretty viable, especially when you discard the shadow cards with Jubayr, because they can heal your heroes back to full health so easily.

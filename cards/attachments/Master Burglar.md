@@ -26,3 +26,9 @@ Limit 1 per deck. Attach to Bilbo Baggins. He gets +2 WP and –1 threat cost.
 If you have won _The Hobbit_ ALeP community scenario with 10 or more boons in play, you may attach this card from your collection to an eligible printed hero when you put your starting heroes into play.
 
 **Pack:** [[ALeP - The Hobbit]] #71 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

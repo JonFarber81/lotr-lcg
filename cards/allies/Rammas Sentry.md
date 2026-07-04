@@ -36,3 +36,9 @@ While each hero you control has at least 1 resource in its resource pool, Rammas
 > —Beregond, The Return of the King
 
 **Pack:** [[ALeP - Children of Eorl]] #17
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

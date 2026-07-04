@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 **Response:** After players quest unsuccessfully, choose a player. That player does not raise his threat.
 
 **Pack:** [[Khazad-dûm]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

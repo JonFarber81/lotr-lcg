@@ -31,3 +31,12 @@ Attach to a hero.
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #70
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **One of the key things is to play [[Self Preservation]] on [[Glóin]]** as soon as you can. It basically turns him into a second [[Steward of Gondor]]. I tend to use him exclusively as a defender against max 3-attack enemies (so that I can heal him completely before the next round), but if you plan to make him a main defender against some stronger foes then [[Protector of Lórien]] is your best friend (another staple from the core set). However, if I manage to draw [[Unexpected Courage]] I tend to play it together with [[Protector of Lórien]] on [[Beravor]] due to her extra point of defence - she will handle the swings of a Hill Troll even more efficiently. And with [[Unexpected Courage]] you'll be able to use her priceless card-drawing ability "for free".

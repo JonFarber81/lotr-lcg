@@ -31,3 +31,9 @@ Doomed 3.
 > — The Two Towers
 
 **Pack:** [[The Voice of Isengard]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Gandalf, The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

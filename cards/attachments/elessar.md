@@ -31,3 +31,9 @@ Attach to a **_Noble_** hero or Aragorn. Attached character gains the **_Gondor_
 > —Prince Imrahil, The Return of the King
 
 **Pack:** [[ALeP - Blood in the Isen]] #185
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

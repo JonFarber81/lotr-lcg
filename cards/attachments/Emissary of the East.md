@@ -26,3 +26,9 @@ Attach to a hero. Reduce each player’s threat increase for questing unsuccessf
 **Response**: After an **_Easterling_** or **_Harad_** character exhausts as part of a player card effect, place 1 progress on the current quest.
 
 **Pack:** [[ALeP - Strange News in Bree]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

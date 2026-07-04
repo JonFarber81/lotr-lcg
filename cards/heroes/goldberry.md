@@ -31,3 +31,9 @@ tags: [card, hero, spirit]
 **Response**: After you play a **_Song_** event, attach it to a **_Minstrel_** character. It counts as a **_Song_** attachment with a blank text box. (Limit once per round.)
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Reduce the cost to play Halfast Gamgee by 1 for each side quest in the victory d
 > *"He works for Mr. Boffin at Overhill and goes up to the Northfarthing for the hunting." -Sam Gamgee, The Fellowship of the Ring*
 
 **Pack:** [[Messenger of the King Allies]] #136
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,9 @@ tags: [card, hero, spirit]
 **Response:** After you play Kili from your hand during the planning phase, search your deck for Fili and put him into play under your control. Then, shuffle your deck.
 
 **Pack:** [[Messenger of the King Allies]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

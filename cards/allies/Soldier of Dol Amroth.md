@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > — The Return of the King
 
 **Pack:** [[The City of Corsairs]] #141
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

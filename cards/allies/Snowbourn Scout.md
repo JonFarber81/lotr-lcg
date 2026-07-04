@@ -35,3 +35,20 @@ tags: [card, ally, leadership]
 > — The Two Towers
 
 **Pack:** [[Core Set]] #16
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Against some of the Mirkwood quests, one of my favorite tricks with this deck is using [[Stand and Fight]] to bring a [[Snowbourn Scout]] into play during the encounter phase... AFTER cards have been revealed from the encounter deck, but before you resolve the quest. For example, suppose a  comes off the encounter deck... That's 5 threat you're facing, and could cause you to quest unsuccessfully. But if you bring a Scout into play you can immediately explore it (without having to wait for the travel phase) and not have that 5 threat count against you.
+- * [[Forest Snare]]'s use is obvious, though remember you have to take at least one attack from the enemy first, since the Snare can only be played during your planning phase. Chump blocking the Hill Troll with a Snowbourn Scout and taking a 4-threat increase isn't so bad as long as you have the resources to play the Snare on the following turn.
+
+**[[Seastan's Single Core Set Solo]]**
+- 5. One neat trick: If you turn up The Brown Lands while questing, you can discard a [[Snowbourn Scout]] to [[Éowyn (Spirit)|Éowyn]], then bring him into play with [[Stand and Fight]] and place a progress on the location to clear it from play before resolving the quest.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **[[Stand and Fight]] is just bonkers.** I forgot how good and flexible this card can be, especially with a hero like [[Éowyn (Spirit)|Éowyn]], with an in-built discarding ability. If you choose to put a [[Steward of Gondor]] on her and you'll be able to play every ally (obviously except for [[Gandalf]]) from your hand/discard pile, **in any phase** - I can't express how many times this saved my life ;). **It is also a fantastic resource-smoothing card** (I rarely looked at it this way to be honest). [[Glóin]] is lacking resources for [[Faramir]]? No problem, discard him and put him into play via [[Stand and Fight]] with your pile of blue resources. Remember this nasty location with 5  and single quest point in Journey Along the Anduin? Well, with [[Stand and Fight]] you can play [[Snowbourn Scout]] after the staging step, but before the questing resolution and explore it immediately, effectively boosting your  by 5. It's those little tricks that made me appreciate going back to basics once again and forcing myself to make the most out of every card I have. Seriously, don't underestimate this card - **it elevates the options you have with this deck to another level.** With [[Steward of Gondor]] on [[Éowyn (Spirit)|Éowyn]] you'll be able to play [[Beorn]] in just two rounds and keep him on your table for much longer than in case of simply Sneak-Attacking him into play for a phase. This card will also allow you to bypass the limit of playing one ally per round in Escape from Dol Guldur (play and put into play are totally different things). [[Stand and Fight]] is pure gold.
+- Finally, [[For Gondor!]] is included to compensate for the lack of strong attackers. Sometimes you just need this extra boost to slay a mighty foe engaged with you. What's cool is that [[For Gondor!]] gives some fighting capabilities even to cards like [[Snowbourn Scout]] (swarm of weaker allies can turn into killing machines for a phase).

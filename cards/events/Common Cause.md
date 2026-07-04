@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Aragorn, The Two Towers
 
 **Pack:** [[Core Set]] #21
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attached hero gains the **_Warrior_** trait.
 > *Gimli hewed the legs from another that had sprung up on Balin’s tomb. -The Fellowship of the Ring*
 
 **Pack:** [[Race Across Harad]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

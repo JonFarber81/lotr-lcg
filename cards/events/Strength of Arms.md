@@ -28,3 +28,9 @@ Play only if each hero you control has a printed (Leadership) resource icon.
 > — The Return of the King
 
 **Pack:** [[The Drúadan Forest]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

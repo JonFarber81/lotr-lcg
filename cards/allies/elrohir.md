@@ -36,3 +36,9 @@ While Elladan is in play, Elrohir gets +2 DEF.
 > — The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

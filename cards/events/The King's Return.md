@@ -33,3 +33,9 @@ tags: [card, event, leadership]
 > *-The Hobbit*
 
 **Pack:** [[The Fate of Wilderland]] #147
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

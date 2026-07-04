@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Action:** Spend 1 (Lore) resource to exhaust Súlien. Then, each location in the staging area gets –1 Threat until the end of the phase. Any player may trigger this action.
 
 **Pack:** [[The City of Corsairs]] #142
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

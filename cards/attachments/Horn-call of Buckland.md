@@ -31,3 +31,9 @@ Attach to a (Lore) or **_Hobbit_** hero.
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Aldburg Plot]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

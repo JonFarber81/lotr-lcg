@@ -36,3 +36,9 @@ While Elladan is in play, Elrohir gets +2 DEF.
 > — The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

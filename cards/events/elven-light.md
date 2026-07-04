@@ -28,3 +28,18 @@ Elven-light can only be played from your discard pile.
 > — The Return of the King
 
 **Pack:** [[The Dread Realm]] #145
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- Arwen is one of the best heroes in the entire game, and overall my most-used hero by a large margin. Her ability to regulate the resource/card balance with [[Elven-light]] is incredible, and at the same time she quests well and offers access to the  sphere. But in this particular deck she's just phenomenal. Her extra resource enables a turn 1 [[Master of the Forge]]->[[Vilya]], allowing you to use Vilya 1 turn ahead of when you might otherwise be able to use it. In a Vilya deck, getting an extra use out of Vilya is often like getting an extra 4 or 5 resources. So imagine Arwen with an extra 4 starting resources, and that's what she often feels like in this deck. She also enables the even more awesome turn 1 Vilya+Stargazer. Getting a turn 1 Vilya+[[Unexpected Courage]] is also pretty sweet.
+- Another powerful ally that is great to get with Vilya, but is also a great target for Arwen's discard. His ability also gives you more opportunities to get rid of [[Elven-light]] so that you can spend all your excess resources on getting new cards.
+- He can also be used to shuffle up your deck when your Stargazer reveals that your next 5 cards are all lame. There have been a few times where in late game I am searching hard for a specific card in my deck like [[Faramir]]. You can use [[Master of the Forge]] to keep shuffling your deck, then checking the top 5 with [[Imladris Stargazer]] to see if he's there. If he is, you move him to the top of the deck and draw him with [[Elven-light]]. By having multiple Masters and Stargazers out, they become remarkably effective deck searchers.
+- Steward obviously goes on Elrond once, and effectively lets you play 2 huge allies every turn - one with Vilya and one with his resources. He can never really have too much, since the spirit icon you get with Vilya allows you to use his resources to draw with [[Elven-light]]. The resources can also be use to ready your [[Warden of Healing]] after healing.
+- [[Elven-light]] with [[Arwen Undómiel]] just feels like cheating. What I find best about it is the laziness it allows you in balancing your cost curve. Got lots of cards, but not enough resources? Discard cards to Arwen to balance it out. Got lots of resources but not enough cards? Spend those resources on Elven-light to equalize.
+- In this deck, Elrond often gets [[Steward of Gondor]] and a  from Vilya, so he can fuel a ton of card draw with Elven-light if he needs to. Especially once [[Glorfindel]] hits the table and you can start discarding Elven-light multiple times per round.
+- A: [[Yazan]] and the [[Northern Tracker]] tended to be my go-to discards for Arwen if I hadn't drawn [[Elven-light]] yet. So if you want to try to improve on this deck, you could start there. The Northern Trackers were pretty vital in my win against Rhosgobel, but other than that they were basically just stats, and there are some better options in that department, like [[Prince Imrahil]], [[Ranger of Cardolan]], or [[Knight of the White Tower]]. If you find that you don't often play against quests that really punish your threat you could also easily give up [[The Galadhrim's Greeting]] for more deckspace. Whatever you do, I strongly suggest that any new cards you swap in are cards you would want to see with a blind Vilya in the early game.

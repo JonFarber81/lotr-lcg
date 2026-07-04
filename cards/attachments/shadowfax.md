@@ -32,3 +32,9 @@ Gandalf gains ranged and sentinel.
 > — Gandalf, The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

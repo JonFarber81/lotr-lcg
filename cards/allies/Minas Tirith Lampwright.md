@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Response:** After an encounter card with surge is revealed, discard Minas Tirith Lampwright to name enemy, location, or treachery. If the next encounter card revealed is the named type, discard it without resolving its effects.
 
 **Pack:** [[Encounter at Amon Dîn]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

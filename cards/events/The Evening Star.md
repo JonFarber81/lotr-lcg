@@ -30,3 +30,9 @@ tags: [card, event, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Grey Havens]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,9 @@ Attached enemy gets –4 ATK.
 > *His miserable enemy lay grovelling on the stones whimpering. —The Two Towers*
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #153
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

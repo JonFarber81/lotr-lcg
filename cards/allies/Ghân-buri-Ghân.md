@@ -35,3 +35,9 @@ X is the Threat of the active location.
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

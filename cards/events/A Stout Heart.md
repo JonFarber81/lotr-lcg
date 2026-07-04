@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > —Aragorn, The Return of the King
 
 **Pack:** [[ALeP - The Gap of Rohan]] #81
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

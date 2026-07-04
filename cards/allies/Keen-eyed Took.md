@@ -36,3 +36,9 @@ tags: [card, ally, leadership]
 > — The Hobbit
 
 **Pack:** [[The Hills of Emyn Muil]] #73
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

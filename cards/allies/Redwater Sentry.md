@@ -31,3 +31,9 @@ Reduce the cost to play **_Armor_** attachments on Redwater Sentry by 1.
 Redwater Sentry gets +1 DEF and gains Sentinel while it has an **_Armor_** attachment.
 
 **Pack:** [[The Wilds of Rhovanion]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

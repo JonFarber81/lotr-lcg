@@ -31,3 +31,9 @@ tags: [card, ally, tactics]
 **Valour Response:** Exhaust and discard Honour Guard to cancel up to 5 damage just dealt to a character.
 
 **Pack:** [[The Wastes of Eriador]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

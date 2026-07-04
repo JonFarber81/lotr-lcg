@@ -32,3 +32,9 @@ Attach to a hero.
 > — Lórien Elf, The Fellowship of the Ring
 
 **Pack:** [[Trouble in Tharbad]] #64
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

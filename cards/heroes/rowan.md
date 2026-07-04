@@ -32,3 +32,9 @@ Sentinel.
 **Quest Action**: Choose a player to take control of the first player token. Each player can only be chosen once per game.
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #144
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

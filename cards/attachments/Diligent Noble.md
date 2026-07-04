@@ -31,3 +31,9 @@ Attached hero gains the **_Noble**_ trait.
 > *"The wise will stay here and hope to rebuild our town, and enjoy in times its peace and riches." -The Master, The Hobbit*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #111
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

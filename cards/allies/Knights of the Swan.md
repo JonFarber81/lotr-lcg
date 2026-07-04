@@ -35,3 +35,9 @@ Each **_Outlands_** character you control gets +1 ATK.
 > — The Return of the King
 
 **Pack:** [[The Steward's Fear]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

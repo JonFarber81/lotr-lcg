@@ -31,3 +31,9 @@ Cannot have restricted attachments. Enters play exhausted.
 **Response:** After Beechbone is declared as an attacker, deal 1 damage to him to deal X damage to the defending enemy. X is the amount of damage on Beechbone.
 
 **Pack:** [[Messenger of the King Allies]] #118
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

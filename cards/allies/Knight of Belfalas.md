@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > *-The Return of the King*
 
 **Pack:** [[The City of Ulfast]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

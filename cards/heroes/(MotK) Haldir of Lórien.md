@@ -35,3 +35,9 @@ Ranged.ÿSentinel.
 > — The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

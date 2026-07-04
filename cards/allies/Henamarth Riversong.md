@@ -36,3 +36,19 @@ tags: [card, ally, lore]
 > *The Fellowship of the Ring*
 
 **Pack:** [[Core Set]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Yes, this is a 44-card deck. Why? Because IMHO these are the only cards in the core set worth including in the deck. Just about everything else in the box (not including Tactics cards) is of situational use at best, and will just dilute the deck. if you're going with the constraint of a single Core set, you really shouldn't be handicapping yourself by forcing a 50-card deck. If you really want a 50-card minimum, get another Core set and add extra copies of [[Sneak Attack]], [[Steward of Gondor]], [[Northern Tracker]], [[A Test of Will]], [[Unexpected Courage]] and [[Henamarth Riversong]], or start adding cards from expansion packs as you get them.
+- * [[Henamarth Riversong]] is the MVP of this deck when playing pure solo. But resist the temptation to exhaust him the moment he comes into play. Instead, wait until after the combat phase. Then you can get a sneak peek at next turn's encounter card without risking any ill effects. If you exhaust Henamarth at the start of the turn, the encounter card could be something that damages exhausted characters and then Henamarth would be toast. On rare occasions, I've used Henamarth to peek at the top card before dealing a shadow card, to know if I can take an attack undefended or not. But usually I save him for the end of the turn (before the refresh phase) so I can have perfect information (barring a surge or guarded card) for the next encounter phase.
+
+**[[Seastan's Single Core Set Solo]]**
+- 4. Wait until the end of the combat phase before using exhaust abilities like [[Beravor]] or [[Henamarth Riversong]]. This is because you may get hit by a Necromancer's Reach during questing, or an enemy you didn't expect may show up that you need to defend. It is handy to have those characters ready.
+
+**[[Gaffer Ever After]]**
+- A good partner deck for this one is probably something that can handle its own enemy per round, and provide a solution for big, immune bosses. I played the deck alongside one of Bullroarer Took's Beregond decks and we handled Mount Gundabad's Dagnir with ease. But any  [[Beregond (Tactics)|Beregond]] or  [[Beregond (Spirit)|Beregond]] deck should work. Perhaps [one of these](https://ringsdb.com/decklists/find?sphere=&threato=%3A&threat=&author=seastan&name=friend+to+play&sort=popularity&packs%5B%5D=1&packs%5B%5D=8&packs%5B%5D=15&packs%5B%5D=22&packs%5B%5D=29&packs%5B%5D=36&packs%5B%5D=53&packs%5B%5D=58&packs%5B%5D=61&packs%5B%5D=64&packs%5B%5D=2&packs%5B%5D=3&packs%5B%5D=4&packs%5B%5D=5&packs%5B%5D=6&packs%5B%5D=7&packs%5B%5D=9&packs%5B%5D=10&packs%5B%5D=11&packs%5B%5D=12&packs%5B%5D=13&packs%5B%5D=14&packs%5B%5D=16&packs%5B%5D=17&packs%5B%5D=18&packs%5B%5D=19&packs%5B%5D=20&packs%5B%5D=21&packs%5B%5D=23&packs%5B%5D=24&packs%5B%5D=25&packs%5B%5D=26&packs%5B%5D=27&packs%5B%5D=28&packs%5B%5D=30&packs%5B%5D=31&packs%5B%5D=32&packs%5B%5D=33&packs%5B%5D=34&packs%5B%5D=35&packs%5B%5D=43&packs%5B%5D=44&packs%5B%5D=45&packs%5B%5D=46&packs%5B%5D=48&packs%5B%5D=49&packs%5B%5D=37&packs%5B%5D=38&packs%5B%5D=39&packs%5B%5D=40&packs%5B%5D=41&packs%5B%5D=42&packs%5B%5D=47&packs%5B%5D=55&packs%5B%5D=50&packs%5B%5D=51&packs%5B%5D=52&packs%5B%5D=54&packs%5B%5D=56&packs%5B%5D=57&packs%5B%5D=59&packs%5B%5D=60&packs%5B%5D=62&packs%5B%5D=63&packs%5B%5D=65). In a multiplayer setting I also like to swap out [[Henamarth Riversong]] for [[Errand-rider]] to share excess resources with other players.

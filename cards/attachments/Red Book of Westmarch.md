@@ -27,3 +27,9 @@ While attached hero is committed to the quest, each **_Hobbit_** character gets 
 **Response:** After you quest successfully, exhaust Red Book of Westmarch to add 1 resource to attached hero's resource pool.
 
 **Pack:** [[The Land of Sorrow]] #110
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

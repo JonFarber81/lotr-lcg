@@ -30,3 +30,9 @@ tags: [card, ally, neutral]
 **Action**: Exhaust Southron Refugee to reduce the cost of the next **_Harad_** ally you play this phase by 1.
 
 **Pack:** [[The Black Serpent]] #90
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

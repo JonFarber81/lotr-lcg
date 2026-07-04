@@ -32,3 +32,9 @@ Attached character gets +1 DEF (+2 DEF instead if the active location has the **
 > — The Fellowship of the Ring
 
 **Pack:** [[Celebrimbor's Secret]] #120
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

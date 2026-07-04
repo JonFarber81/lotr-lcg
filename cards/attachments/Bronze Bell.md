@@ -30,3 +30,9 @@ Attach to a (Lore) or **_Minstrel_** hero. Restricted.
 > *Three strokes it rang, like silver in the air, and ceased: the third hour from the rising of the sun. —The Return of the King*
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

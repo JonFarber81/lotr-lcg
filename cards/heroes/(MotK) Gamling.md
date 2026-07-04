@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Two Towers
 
 **Pack:** [[Messenger of the King Allies]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

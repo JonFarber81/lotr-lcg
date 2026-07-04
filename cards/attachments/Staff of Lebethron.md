@@ -31,3 +31,12 @@ Attach to a **_Gondor_** or **_Hobbit_** hero. Restricted.
 > — Faramir, The Two Towers
 
 **Pack:** [[The Land of Shadow]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Sting Like A Bee]]**
+- This is an updated version of the original Hobbit deck I built right after cracking open The Black Riders at Gen Con the year it was released. The core idea of the deck has never really changed: Pump Merry up and let him kill things, have Sam defend, and use Pippin for card draw. What has changed is the ally lineup, and I think it will always continually change as new allies are released. There are a few different Hobbit builds possible using this hero trio. One of them can make good use of Ents, and I've had fun with that particular deck, but I already have quite a few decks featuring Ents now, so I didn't go with that approach for this one. This is the classic "big alies" Hobbit build, which uses Elf-stone and Sneak Attack to get the big guys into play. There's also plenty of resources with Steward and Errand-rider to pay for some of them conventionally as well. The newest additions are Taste It Again! and Staff of Lebethron from Land of Shadow, which make Sam even better. Still one of the most enjoyable decks around that is powerful at the same time. This can work in either solo or multiplayer.

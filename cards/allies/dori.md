@@ -30,3 +30,9 @@ tags: [card, ally, lore]
 **Response:** After a hero is assigned any amount of damage, exhaust Dori to place that damage on Dori instead.
 
 **Pack:** [[Over Hill and Under Hill]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

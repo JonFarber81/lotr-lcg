@@ -35,3 +35,15 @@ tags: [card, ally, lore]
 > — The Hobbit
 
 **Pack:** [[Core Set]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * [[Miner of the Iron Hills]] is your first and best defense against nasty conditions like Caught in a Web. When playing a quest that has conditions, try to hold on to your Miners until if and when these condition cards appear. Again, knowing the encounter deck is key; for example, there are no condition attachments in Journey Down the Anduin, so against that quest you might as well play the Miner as soon as you have the available resources. Also note that if need be a card like Caught in a Web can be canceled by A Test of Will, though only as it's revealed from the encounter deck.
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- Dwarves are a classic archetype in the game, and for good reason. The early dwarves have great stats and useful abilities, like [[Erebor Hammersmith]] and [[Miner of the Iron Hills]]. And [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] turns any group of dwarves into a formidable questing and attacking threat.

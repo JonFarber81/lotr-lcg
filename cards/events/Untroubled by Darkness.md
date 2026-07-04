@@ -22,3 +22,9 @@ tags: [card, event, spirit]
 **Action:** Each **_Dwarf_** character gets +1 WP until the end of the phase. (+2 WP instead if the active location is an **_Underground_** or **_Dark_** location.)
 
 **Pack:** [[Khazad-dûm]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

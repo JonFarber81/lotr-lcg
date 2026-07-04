@@ -30,3 +30,9 @@ tags: [card, ally, neutral]
 **Response:** After Envoy of Pelargir enters play, add 1 resource to a **_Gondor_** or **_Noble_** hero's resource pool.
 
 **Pack:** [[Heirs of Númenor]] #18
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

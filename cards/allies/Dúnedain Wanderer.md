@@ -35,3 +35,9 @@ Ranged. Sentinel. Secrecy 3.
 > — The Fellowship of the Ring
 
 **Pack:** [[Road to Rivendell]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

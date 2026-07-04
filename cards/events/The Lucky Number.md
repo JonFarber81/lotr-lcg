@@ -27,3 +27,9 @@ tags: [card, event, baggins]
 > — Bilbo Baggins, The Hobbit
 
 **Pack:** [[On the Doorstep]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

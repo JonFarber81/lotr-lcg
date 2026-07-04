@@ -23,3 +23,9 @@ You may exhaust any number of **_Heale_r** characters you control as part of th
 **Refresh Action:** Choose a hero in any player's discard pile. Put that hero into play under its owner's control, with 1 damage token on it.
 
 **Pack:** [[A Storm on Cobas Haven]] #118
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

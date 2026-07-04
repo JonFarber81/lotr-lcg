@@ -28,3 +28,9 @@ Doomed 1.
 > — Gandalf, The Two Towers
 
 **Pack:** [[The Voice of Isengard]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

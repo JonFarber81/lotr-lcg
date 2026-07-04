@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Galadriel, The Fellowship of the Ring
 
 **Pack:** [[The Treachery of Rhudaur]] #92
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Forced:** After this ally enters play, search the top 5 cards of the encounter deck for a non-unique location and add it to the staging area. If no location enters play by this effect, discard Dunedain Pathfinder. Shuffle the encounter deck.
 
 **Pack:** [[Race Across Harad]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

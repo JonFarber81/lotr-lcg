@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

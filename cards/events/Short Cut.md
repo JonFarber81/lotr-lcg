@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Frodo, The Fellowship of the Ring
 
 **Pack:** [[The Watcher in the Water]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -26,3 +26,9 @@ tags: [card, event, leadership]
 > *...soon Haldir turned aside into the trees and halted on the bank of the river under their shadows. —The Fellowship of the Ring*
 
 **Pack:** [[Mount Gundabad]] #114
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

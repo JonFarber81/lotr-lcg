@@ -36,3 +36,9 @@ Sentinel.
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[Trouble in Tharbad]] #65
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

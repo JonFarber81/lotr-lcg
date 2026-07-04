@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > *-The Fellowship of the Ring*
 
 **Pack:** [[Under the Ash Mountains]] #88
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

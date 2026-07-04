@@ -23,3 +23,9 @@ Play during the quest phase, before the staging step.
 **Action:** Deal 2 damage to the first enemy revealed from the encounter deck this phase.
 
 **Pack:** [[Over Hill and Under Hill]] #18
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

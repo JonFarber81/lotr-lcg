@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Hobbit
 
 **Pack:** [[On the Doorstep]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

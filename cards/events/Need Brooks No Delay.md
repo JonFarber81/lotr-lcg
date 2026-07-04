@@ -23,3 +23,9 @@ Reduce the cost to play Need Brooks No Delay by 1 for each **_Rohan_** hero you 
 **Planning Action**: Search the top 10 cards of your deck for a card with printed cost 2 or less (3 or less if it is unique) and set it aside. Shuffle your deck. Then, play the set aside card for no cost as if it were in your hand.
 
 **Pack:** [[ALeP - Children of Eorl]] #20
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

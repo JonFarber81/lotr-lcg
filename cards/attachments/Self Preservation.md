@@ -31,3 +31,17 @@ Attach to a character.
 > — The Two Towers
 
 **Pack:** [[Core Set]] #72
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- **One of the key things is to play [[Self Preservation]] on [[Glóin]]** as soon as you can. It basically turns him into a second [[Steward of Gondor]]. I tend to use him exclusively as a defender against max 3-attack enemies (so that I can heal him completely before the next round), but if you plan to make him a main defender against some stronger foes then [[Protector of Lórien]] is your best friend (another staple from the core set). However, if I manage to draw [[Unexpected Courage]] I tend to play it together with [[Protector of Lórien]] on [[Beravor]] due to her extra point of defence - she will handle the swings of a Hill Troll even more efficiently. And with [[Unexpected Courage]] you'll be able to use her priceless card-drawing ability "for free".
+- [[Steward of Gondor]] can be played either on [[Beravor]] (most of the time) or [[Éowyn (Spirit)|Éowyn]], depending on your draw. If you have a hand full of [[Forest Snare]]s and [[Self Preservation]]s, you'll know to whom to attach it. If you want to really abuse [[Stand and Fight]] or you just need to quickly play your [[Unexpected Courage]]s and [[Northern Tracker]], [[Éowyn (Spirit)|Éowyn]] is your target.
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- The allies here are mostly self explanatory. Dwarves have very efficient stats, and [[Faramir]] can bump that up even further for questing. [[Brok Ironfist]] is in the deck just in case. And [[Self Preservation]] plus [[Daughter of the Nimrodel]] should help you keep Dain alive if he has to defend a lot of attacks.
+- In round four, I accidentally over-quest again. This clears the Bridge of Khazad-dum and sends me on to stage two with the Patrol Leader. His 4 attack is potentially threatening to Dain, but I've got [[Self Preservation]] attached to him to help out. And if need be, I can swap in another dwarf to take a hit.

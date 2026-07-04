@@ -31,3 +31,9 @@ While attached character is committed to the quest, place 1 progress on the firs
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

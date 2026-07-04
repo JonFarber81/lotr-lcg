@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Long Dark]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

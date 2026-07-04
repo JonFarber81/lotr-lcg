@@ -31,3 +31,9 @@ While attached hero is ready, shadow cards dealt to enemies engaged with you are
 > — The Fellowship of the Ring
 
 **Pack:** [[The Voice of Isengard]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

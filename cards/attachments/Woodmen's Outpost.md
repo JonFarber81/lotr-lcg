@@ -30,3 +30,9 @@ Attach to a location. Limit 1 per location.
 > *“…even the Wargs dared not attack them if there were many together, or in the bright day.” —The Hobbit*
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #146
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

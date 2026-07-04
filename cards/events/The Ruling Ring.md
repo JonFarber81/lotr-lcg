@@ -30,3 +30,9 @@ tags: [card, event, neutral]
 > *-Boromir, The Fellowship of the Ring*
 
 **Pack:** [[A Shadow in the East]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

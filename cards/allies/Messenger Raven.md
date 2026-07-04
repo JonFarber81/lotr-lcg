@@ -30,3 +30,9 @@ tags: [card, ally, leadership]
 Cannot attack, defend, of have attachments. **Refresh Action**: Return Messenger Raven to it's owner's hand and name a card type. Choose a player to look at the top card of his deck. If that card is the named type, add it to its owner's hand. If it is not, discard it.
 
 **Pack:** [[The Fate of Wilderland]] #146
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

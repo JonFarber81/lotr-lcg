@@ -35,3 +35,9 @@ North Realm Lookout gets +1 WP and does not exhaust to quest while it has an **_
 > — The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

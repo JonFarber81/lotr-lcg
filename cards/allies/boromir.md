@@ -31,3 +31,19 @@ Boromir gets +2 DEF while defending against an enemy with an engagement cost hig
 **Response:** After Boromir takes any amount of damage, ready him.
 
 **Pack:** [[The Road Darkens]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Seastan's Boromir]]**
+- For a two-handed version, see [here](http://ringsdb.com/fellowship/view/193/seastan-s-boromir-2-handed).
+- For the majority of quests, the hardest part is surviving the initial rounds until you get set up. This is solved by putting a Gondorian Shield on Boromir, as it allows him to hold off enemies easily for several rounds. During this time you try to look for A Good Harvest and Steward of Gondor. Steward goes on Boromir and he starts to collect many resources. Eventually you attach Gondorian Fire and Blood of Numenor and he can now defend and kill pretty much anything. If you want to feel for yourself how incredibly powerful this combo is, try using it against Nightmare Conflict at the Carrock, and have Boromir defend all the trolls then take them all out the same turn they enter play. With multiple copies of Gondorian Fire he can easily take out The Watcher, The Balrog, Smaug, etc., all by himself.
+ 
+This whole campaign has really opened my eyes to the power of Boromir. Is an encounter card requiring that you exhaust a hero/character? Is an enemy making an immediate attack you weren't counting on? Did a condition attachment turn up that punishes the attached hero for being exhausted at the end of a phase? No big deal. I just wish there had been a situation in one of the many quests that required me to use Boromir's second ability!
+ 
+Glorfindel and Galadriel help with the other aspect of the game - questing. With Nenya and a spirit ally in your opening hand, this deck can be questing for 10 on turn 1. But for quests that don't require this I tend to hold back and use Galadriel's card draw to set up Boromir. Her Mirror is responsible for bringing together Harvest and Steward in about 75% of my games. For location-heavy quests, use her Mirror to grab Asfaloth.
+ 
+It doesn't look like there is much threat reduction in the deck given its dependence on Boromir. I initially had more but found it isn't needed. Between Galadriel, her Handmaidens, Elrond's Council (and Tomb), and Gandalf, I've only lost once or twice due to threat.

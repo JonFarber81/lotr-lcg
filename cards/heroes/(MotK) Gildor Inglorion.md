@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > — Frodo Baggins, The Fellowship of the Ring
 
 **Pack:** [[Messenger of the King Allies]] #79
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

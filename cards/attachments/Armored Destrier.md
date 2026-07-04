@@ -26,3 +26,9 @@ Attach to a (Leadership) or sentinel hero. Restricted.
 **Response:** After attached hero defends against an attack, exhaust Armored Destrier to ready attached hero. Then, discard a shadow card from another enemy engaged with the defending player.
 
 **Pack:** [[Temple of the Deceived]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

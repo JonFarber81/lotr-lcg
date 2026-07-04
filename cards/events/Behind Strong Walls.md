@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Return of the King
 
 **Pack:** [[Heirs of Númenor]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > *-Aragorn, The Return of the King*
 
 **Pack:** [[The City of Ulfast]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Radagast, The Fellowship of the Ring
 
 **Pack:** [[The Voice of Isengard]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

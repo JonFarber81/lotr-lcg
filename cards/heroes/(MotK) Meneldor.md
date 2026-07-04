@@ -35,3 +35,9 @@ Cannot have restricted attachments.
 > *...Meneldor young and swift. -The Return of the King*
 
 **Pack:** [[Messenger of the King Allies]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

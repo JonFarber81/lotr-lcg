@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > *-The Return of the King*
 
 **Pack:** [[The Land of Sorrow]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

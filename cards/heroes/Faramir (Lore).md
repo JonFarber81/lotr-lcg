@@ -36,3 +36,9 @@ Faramir gets +1 ATK for each enemy in the staging area.
 > — Mablung, The Two Towers
 
 **Pack:** [[Assault on Osgiliath]] #81
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

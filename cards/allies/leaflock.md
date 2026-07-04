@@ -36,3 +36,9 @@ Leaflock gets +1 WP for each damaged **_Ent**_ character you control. (Limit +4 
 > *"Leaflock has grown sleepy, almost tree-ish, you might say…" Treebeard, The Two Towers*
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

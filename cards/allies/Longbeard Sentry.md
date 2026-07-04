@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > — Bilbo Baggins, The Hobbit
 
 **Pack:** [[Across the Ettenmoors]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

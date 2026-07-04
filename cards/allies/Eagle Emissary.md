@@ -36,3 +36,9 @@ Cannot have restricted attachments.
 > *-The Return of the King*
 
 **Pack:** [[The Land of Sorrow]] #113
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

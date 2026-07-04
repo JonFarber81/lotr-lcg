@@ -36,3 +36,9 @@ Each enemy engaged with you gets -1 DEF.
 > — The Two Towers
 
 **Pack:** [[The Lost Realm]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

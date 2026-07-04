@@ -30,3 +30,9 @@ Attach to a hero. Limit 1 per hero.
 > *"Now I am a burglar indeed!" –Bilbo, The Hobbit*
 
 **Pack:** [[On the Doorstep]] #17
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

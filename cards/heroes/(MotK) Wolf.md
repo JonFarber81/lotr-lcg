@@ -35,3 +35,9 @@ Limit 1 per deck. Cannot have attachments. Each enemy in play gets +1 engagement
 > *…most ferocious of the three… —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #47
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

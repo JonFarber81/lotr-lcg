@@ -31,3 +31,9 @@ Attach to a **_Warrior_** character. Restricted. Attached character gains ranged
 > *-The Two Towers.*
 
 **Pack:** [[The Fortress of Nurn]] #143
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

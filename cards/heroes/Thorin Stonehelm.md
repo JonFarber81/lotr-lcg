@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > *-The Return of the King*
 
 **Pack:** [[Two-Player Limited Edition Starter]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

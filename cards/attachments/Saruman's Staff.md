@@ -31,3 +31,9 @@ Attach to Saruman. Restricted.
 > *-The Two Towers*
 
 **Pack:** [[Challenge of the Wainriders]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, neutral]
 > *-The Return of the King*
 
 **Pack:** [[The City of Ulfast]] #36
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

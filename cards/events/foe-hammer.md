@@ -22,3 +22,9 @@ tags: [card, event, tactics]
 **Response:** After a hero you control attacks and destroys an enemy, exhaust a **_Weapon_** card attached to that hero to draw 3 cards.
 
 **Pack:** [[Over Hill and Under Hill]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

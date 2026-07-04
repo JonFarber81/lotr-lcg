@@ -26,3 +26,9 @@ Attach to a non-(Fellowship), non-(Baggins) hero you control.
 **Response:** After you attach Thorongil to a hero, search your collection for a different non-(Fellowship), non-(Baggins) version of that hero and attach it to Thorongil. While Thorongil is in play, attached hero gains the game text and resource icon of the attached hero card. If Thorongil leaves play, remove the hero card attached to it from the game.
 
 **Pack:** [[The Fortress of Nurn]] #146
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

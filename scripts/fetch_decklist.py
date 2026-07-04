@@ -8,16 +8,15 @@ Usage:
 
 import json
 import re
-import sys
 import argparse
 from pathlib import Path
 from collections import Counter
 
 import requests
-from slugify import slugify
 
 VAULT_ROOT = Path(__file__).parent.parent
 DECKS_DIR = VAULT_ROOT / "decks"
+CARDS_DIR = VAULT_ROOT / "cards"
 CACHE_DIR = Path(__file__).parent / "cache"
 RINGSDB_API = "https://ringsdb.com/api/public/decklist/{}.json"
 RINGSDB_BASE = "https://ringsdb.com"
@@ -114,7 +113,8 @@ def build_deck_note(deck: dict, card_index: dict, dup_heroes: set) -> str:
     date_created = deck.get("date_creation", "")[:10]
     date_updated = deck.get("date_update", "")[:10]
     deck_id = deck["id"]
-    source_url = f"{RINGSDB_BASE}/decklist/view/{deck_id}/{slugify(name)}-{version}"
+    name_slug = re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")
+    source_url = f"{RINGSDB_BASE}/decklist/view/{deck_id}/{name_slug}-{version}"
 
     hero_codes = sorted(deck.get("heroes", {}).keys())
     all_slots = deck.get("slots", {})
@@ -145,7 +145,7 @@ def build_deck_note(deck: dict, card_index: dict, dup_heroes: set) -> str:
         f"nb_comments: {comments}",
         f'source: ringsdb',
         f'source_url: "{source_url}"',
-        f"tags: [deck, {slugify(last_pack)}]",
+        f"tags: [deck, {re.sub(r'[^a-z0-9]+', '-', last_pack.lower()).strip('-')}]",
         "---",
     ]
     front_matter = "\n".join(fm_lines)
@@ -230,6 +230,87 @@ def build_deck_note(deck: dict, card_index: dict, dup_heroes: set) -> str:
     return front_matter + "\n\n" + "\n".join(body_parts)
 
 
+# ---------------------------------------------------------------------------
+# Card note enrichment — append deck tips to individual card ## Notes sections
+# ---------------------------------------------------------------------------
+
+NOTES_MARKER = "\n\n---\n\n## Notes\n"
+NOTES_PLACEHOLDER = "\n\n---\n\n## Notes\n\n<!-- Tips, combos, and strategy notes -->\n"
+
+# Subdirectories to search for card files
+CARD_SUBDIRS = ["heroes", "allies", "attachments", "events", "player-side-quests"]
+
+
+def build_card_file_index() -> dict[str, Path]:
+    """Map every card display name (lowercase) → its .md path in cards/."""
+    index: dict[str, Path] = {}
+    for subdir in CARD_SUBDIRS:
+        for f in (CARDS_DIR / subdir).glob("*.md"):
+            index[f.stem.lower()] = f
+    return index
+
+
+def extract_tips_for_card(card_name: str, description: str) -> list[str]:
+    """
+    Find paragraphs in the description that mention card_name.
+    Matches both [[Card Name]] and [[Card Name (Sphere)|Card Name]] wikilinks,
+    as well as plain text occurrences.
+    """
+    paragraphs = [p.strip() for p in re.split(r"\n{2,}", description) if p.strip()]
+    tips = []
+    # Match wikilink targets and plain name
+    pattern = re.compile(
+        rf"\[\[{re.escape(card_name)}(?:\s*\([^)]*\))?(?:\|[^\]]+)?\]\]"
+        rf"|(?<!\[\[)\b{re.escape(card_name)}\b",
+        re.IGNORECASE,
+    )
+    for para in paragraphs:
+        # Skip headings and very short generic lines
+        if para.startswith("#") or len(para) < 30:
+            continue
+        if pattern.search(para):
+            # Keep wikilinks intact; strip leftover HTML tags
+            clean = re.sub(r"<[^>]+>", "", para)
+            tips.append(clean)
+    return tips
+
+
+def append_card_notes(deck_name: str, description: str, card_names: list[str], card_file_index: dict[str, Path]):
+    """For each card in the deck, find relevant tips and append to its ## Notes section."""
+    deck_link = f"[[{deck_name}]]"
+    enriched = 0
+
+    for name in card_names:
+        card_path = card_file_index.get(name.lower())
+        if not card_path or not card_path.exists():
+            continue
+
+        tips = extract_tips_for_card(name, description)
+        if not tips:
+            continue
+
+        content = card_path.read_text()
+
+        # Ensure ## Notes section exists
+        if NOTES_MARKER not in content:
+            content = content.rstrip("\n") + NOTES_PLACEHOLDER
+
+        # Build the note block to add
+        note_header = f"\n**{deck_link}**\n"
+        note_body = "\n".join(f"- {t}" for t in tips) + "\n"
+        note_block = note_header + note_body
+
+        # Skip if this deck's notes are already present
+        if f"**{deck_link}**" in content:
+            continue
+
+        content = content.rstrip("\n") + "\n" + note_block
+        card_path.write_text(content)
+        enriched += 1
+
+    print(f"Card notes enriched: {enriched} card(s) updated from '{deck_name}'")
+
+
 def main():
     parser = argparse.ArgumentParser(description="Fetch a RingsDB decklist and generate a vault note")
     parser.add_argument("deck", help="Decklist ID or full RingsDB URL")
@@ -246,6 +327,19 @@ def main():
     out_path = DECKS_DIR / (safe_name + ".md")
     out_path.write_text(content)
     print(f"Written: {out_path}")
+
+    # Enrich card notes with tips extracted from the deck description.
+    # Use the already-converted (wikilink) description rather than raw API markdown.
+    raw_desc = deck.get("description_md", "")
+    if raw_desc:
+        converted_desc = convert_description(raw_desc, card_index, dup_heroes)
+        all_card_names = [
+            card_index[code]["name"]
+            for code in deck.get("slots", {})
+            if code in card_index
+        ]
+        card_file_index = build_card_file_index()
+        append_card_notes(safe_name, converted_desc, all_card_names, card_file_index)
 
 
 if __name__ == "__main__":

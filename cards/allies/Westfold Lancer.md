@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > *-The Return of the King*
 
 **Pack:** [[The Fortress of Nurn]] #142
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

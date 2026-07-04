@@ -37,3 +37,9 @@ Each (Leadership) hero with an attached **_Mount_** gets +1 DEF.
 > — The Return of the King
 
 **Pack:** [[Temple of the Deceived]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

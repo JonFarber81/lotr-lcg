@@ -31,3 +31,9 @@ Attach to a **_(Spirit)_** hero. Limit 1 per hero. Restricted. Attached hero get
 > *-The Fellowship of the Ring*
 
 **Pack:** [[Wrath and Ruin]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

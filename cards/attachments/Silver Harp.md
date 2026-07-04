@@ -32,3 +32,9 @@ Attach to a (Spirit) hero.
 > — The Return of the King
 
 **Pack:** [[The Treachery of Rhudaur]] #90
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

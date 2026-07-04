@@ -31,3 +31,9 @@ While the active location has an attachment on it, Haldan does not exhaust to qu
 **Response:** When the active location is explored, draw 1 card for each attachment on it.
 
 **Pack:** [[Roam Across Rhovanion]] #26
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

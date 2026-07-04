@@ -36,3 +36,9 @@ Cannot have restricted attachments.
 > — Gwaihir, The Return of the King
 
 **Pack:** [[Trouble in Tharbad]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

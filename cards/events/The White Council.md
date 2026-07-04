@@ -28,3 +28,9 @@ X is the number of players in the game.
 > — Galadriel, The Fellowship of the Ring
 
 **Pack:** [[The Dunland Trap]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Théoden, The Return of the King
 
 **Pack:** [[Celebrimbor's Secret]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

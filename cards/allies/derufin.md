@@ -31,3 +31,9 @@ Ranged.
 Ranged. **Response**: After Derufin participates in an attack which destroys an enemy engaged with a player, discard Derufin to reduce the engaged player's threat by X, where X is the destroyed enemy's printed Threat.
 
 **Pack:** [[A Shadow in the East]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

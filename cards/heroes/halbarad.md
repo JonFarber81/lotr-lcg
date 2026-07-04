@@ -36,3 +36,9 @@ You may optionally engage 1 additional enemy during the encounter phase.
 > — The Return of the King
 
 **Pack:** [[The Lost Realm]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

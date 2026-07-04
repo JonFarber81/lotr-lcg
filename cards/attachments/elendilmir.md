@@ -28,3 +28,9 @@ Replace each instance of “once per phase” or “once per round” in the att
 **Action**: Exhaust Aragorn to discard the location guarding Elendilmir. Then, attach Elendilmir to Aragorn.
 
 **Pack:** [[ALeP - Blood in the Isen]] #187
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

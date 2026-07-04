@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[The Nîn-in-Eilph]] #90
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

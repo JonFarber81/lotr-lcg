@@ -35,3 +35,9 @@ Gorgûn-hunter gets +1 ATK while your threat is 20 or less, and +1 ATK while the
 > —Ghȃn-buri-Ghȃn, The Return of the King
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #80
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

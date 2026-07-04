@@ -31,3 +31,9 @@ Attach to a location. Limit 1 per location.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[Across the Ettenmoors]] #55
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

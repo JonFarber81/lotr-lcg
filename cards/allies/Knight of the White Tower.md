@@ -35,3 +35,9 @@ Knight of the White Tower's resource cost must be paid from a single hero’s re
 > — Beregond, The Return of the King
 
 **Pack:** [[The City of Corsairs]] #139
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

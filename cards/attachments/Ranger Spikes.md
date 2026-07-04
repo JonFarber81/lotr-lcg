@@ -27,3 +27,9 @@ If unattached, attach Ranger Spikes to the next eligible enemy that enters the s
 Players do not make engagement checks against attached enemy. Attached enemy gets -2 Threat.
 
 **Pack:** [[Heirs of Númenor]] #17
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

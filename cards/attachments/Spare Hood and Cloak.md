@@ -31,3 +31,9 @@ Attach to a character.
 > — Dwalin, The Hobbit
 
 **Pack:** [[Over Hill and Under Hill]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

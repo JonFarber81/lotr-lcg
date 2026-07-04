@@ -30,3 +30,9 @@ tags: [card, ally, tactics]
 **Response:** After you play Master Ironsmith from your hand, if you paid all of its resource cost from a single hero's resource pool, attach a **_Weapon_** or **_Armor**_ attachment from your hand or discard pile to that hero without paying its resource cost.
 
 **Pack:** [[The Thing in the Depths]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

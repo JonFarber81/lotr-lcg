@@ -23,3 +23,9 @@ Secrecy 3.
 **Action:** Enemies engaged with you cannot attack you this phase.
 
 **Pack:** [[The Long Dark]] #81
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -32,3 +32,9 @@ Watcher of the Bruinen does not exhaust to defend.
 **Forced:** After Watcher of the Bruinen defends, either discard it from play or discard 1 card from your hand.
 
 **Pack:** [[The Watcher in the Water]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

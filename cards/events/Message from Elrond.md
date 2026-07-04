@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ Ranged.
 > — The Two Towers
 
 **Pack:** [[Core Set]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,9 @@ tags: [card, event, tactics]
 > — The Return of the King
 
 **Pack:** [[Encounter at Amon Dîn]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Lindon Navigator does not exhaust to commit to a quest, and can commit to quests
 **Forced:** After resolving a quest to which Lindon Navigator was committed, either discard it from play or discard 1 card from your hand.
 
 **Pack:** [[The Grey Havens]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

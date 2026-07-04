@@ -35,3 +35,9 @@ While you control at least 5 **_Dwarf_** characters, Bifur gains: "**Response:**
 > —  we have forgotten them, they are down in the valley!" ?The Hobbit
 
 **Pack:** [[Messenger of the King Allies]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

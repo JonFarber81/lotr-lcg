@@ -27,3 +27,9 @@ Attached hero gets +1 ATK (+2 ATK instead if attached hero is Éomer).
 **Response:** After attached hero attacks alone, exhaust Firefoot to choose a non-unique enemy engaged with you. Excess damage dealt by this attack is assigned to the chosen enemy.
 
 **Pack:** [[The Dunland Trap]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

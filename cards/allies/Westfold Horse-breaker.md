@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — Gandalf, The Two Towers
 
 **Pack:** [[The Hunt for Gollum]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

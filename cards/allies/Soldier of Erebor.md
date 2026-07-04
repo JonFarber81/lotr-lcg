@@ -30,3 +30,9 @@ tags: [card, ally, leadership]
 **Action**: Discard the top 3 cards from your deck to ready Soldier of Erebor. (Limit once per round.)
 
 **Pack:** [[The Ghost of Framsburg]] #85
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

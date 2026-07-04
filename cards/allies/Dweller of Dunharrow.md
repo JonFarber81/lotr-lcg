@@ -31,3 +31,9 @@ Cannot enter play unless Fulfil Your Oath is in the victory display.
 **Action**: Attach to an enemy. Counts as a **_Fear_** attachment with the text: “Attached enemy cannot be dealt shadow cards.”
 
 **Pack:** [[ALeP - Fangs in the Dark]] #39
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

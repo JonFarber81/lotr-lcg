@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #27
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

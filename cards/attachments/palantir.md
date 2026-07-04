@@ -26,3 +26,9 @@ Attach to a **_Noble_** hero.
 **Planning Action:** Exhaust Palantir and attached hero to name a card type and look at the top 3 cards of the encounter deck. For each of those cards that matches the named type, draw a card. For each of those cards that does not match the named type, raise your threat by 2.
 
 **Pack:** [[Assault on Osgiliath]] #90
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Gandalf, The Fellowship of the Rings
 
 **Pack:** [[The Dead Marshes]] #102
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

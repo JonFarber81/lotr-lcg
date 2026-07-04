@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 **Planning Action**: Search the top 5 cards of the encounter deck for an enemy. Add that enemy to the staging area to reduce the cost of the first ally you play this phase by X, where X is that enemy's Threat. Shuffle the encounter deck.
 
 **Pack:** [[A Shadow in the East]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

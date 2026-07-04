@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 **Response:** When an enemy attacks a player, that player may declare up to 3 eligible characters as defenders against this attack. Then, the players as a group may spend 2 (Tactics) resources to ready each defending character that takes no damage from this attack.
 
 **Pack:** [[The City of Corsairs]] #140
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

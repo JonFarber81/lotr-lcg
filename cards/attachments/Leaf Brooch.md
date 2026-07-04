@@ -31,3 +31,9 @@ The first event card you play each round that matches attached hero's printed sp
 > — The Fellowship of the Ring
 
 **Pack:** [[The Three Trials]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

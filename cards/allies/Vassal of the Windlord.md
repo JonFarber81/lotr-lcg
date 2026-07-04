@@ -31,3 +31,9 @@ Ranged.Vassal of the Windlord cannot have restricted attachments.
 **Forced:** After an attack in which Vassal of the Windlord attacked resolves, discard Vassal of the Windlord from play.
 
 **Pack:** [[The Dead Marshes]] #98
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

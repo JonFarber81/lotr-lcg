@@ -30,3 +30,9 @@ tags: [card, hero, spirit]
 While Dáin Ironfoot is defending, he gains, '**Action**: Discard the top card of your deck to give Dáin Ironfoot +1 DEF for this attack. (Limit 3 times per phase.)'
 
 **Pack:** [[The Ghost of Framsburg]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

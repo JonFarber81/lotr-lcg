@@ -36,3 +36,9 @@ tags: [card, hero, lore]
 > *The Fellowship of the Ring*
 
 **Pack:** [[Messenger of the King Allies]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

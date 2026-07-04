@@ -31,3 +31,9 @@ Attach to a **_Gondor_** hero.
 > — The Return of the King
 
 **Pack:** [[Flight of the Stormcaller]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

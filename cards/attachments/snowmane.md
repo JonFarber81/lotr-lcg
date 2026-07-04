@@ -32,3 +32,9 @@ If attached hero is Theoden, Snowmane loses the restricted keyword.
 > — The Return of the King
 
 **Pack:** [[The Land of Shadow]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

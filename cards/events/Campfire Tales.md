@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Strider, The Fellowship of the Ring
 
 **Pack:** [[The Hunt for Gollum]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

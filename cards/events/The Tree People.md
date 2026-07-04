@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Dunland Trap]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

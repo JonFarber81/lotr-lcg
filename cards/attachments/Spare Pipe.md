@@ -32,3 +32,9 @@ Attached character gets +1 hit point.
 > *-Pippin, The Two Towers*
 
 **Pack:** [[The Land of Sorrow]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

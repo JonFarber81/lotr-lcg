@@ -28,3 +28,9 @@ Doomed 1.
 > *-The Two Towers*
 
 **Pack:** [[Challenge of the Wainriders]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

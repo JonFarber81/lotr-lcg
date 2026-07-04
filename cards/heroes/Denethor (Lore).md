@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > — Beregond, The Return of the King
 
 **Pack:** [[Core Set]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

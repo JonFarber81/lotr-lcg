@@ -36,3 +36,9 @@ Ranged.
 > — The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

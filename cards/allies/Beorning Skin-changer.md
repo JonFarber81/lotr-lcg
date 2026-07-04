@@ -35,3 +35,9 @@ tags: [card, ally, tactics]
 > — Gandalf, The Hobbit
 
 **Pack:** [[The Withered Heath]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

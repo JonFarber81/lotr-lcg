@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[Escape from Mount Gram]] #36
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -32,3 +32,9 @@ While Mirkwood Runner is attacking alone, the defending enemy does not count its
 –Legolas, The Fellowship of the Ring
 
 **Pack:** [[Return to Mirkwood]] #123
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

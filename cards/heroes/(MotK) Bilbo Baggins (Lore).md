@@ -34,3 +34,9 @@ tags: [card, hero, lore]
 > *There he wandered long in a dream of music that turned into running water, and then suddenly into a voice. It seemed to be the voice of Bilbo chanting verses. —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Cannot have attachments.
 > — Gandalf, The Hobbit
 
 **Pack:** [[Fire in the Night]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ Each hero you control with a printed (Lore) resource icon gets -1 threat cost.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Drúadan Forest]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

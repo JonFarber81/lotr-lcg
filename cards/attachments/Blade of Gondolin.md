@@ -32,3 +32,9 @@ Attached hero gets +1 ATK when attacking an Orc.
 > — The Hobbit
 
 **Pack:** [[Core Set]] #39
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

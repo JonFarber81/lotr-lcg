@@ -30,3 +30,9 @@ tags: [card, hero, spirit]
 **Action:** Discard Damrod from play to lower your threat by 1 for each enemy in the staging area.
 
 **Pack:** [[Messenger of the King Allies]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

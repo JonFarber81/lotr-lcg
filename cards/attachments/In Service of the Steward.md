@@ -31,3 +31,9 @@ Attached character gains the **_Gondor_** trait.
 > — The Return of the King
 
 **Pack:** [[Flight of the Stormcaller]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

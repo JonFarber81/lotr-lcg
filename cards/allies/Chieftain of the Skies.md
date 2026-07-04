@@ -36,3 +36,9 @@ Cannot have restricted attachments.
 > *Behind them in long swift lines came all their vassals from the northern mountains. —The Return of the King*
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #42
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

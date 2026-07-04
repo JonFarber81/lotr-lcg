@@ -31,3 +31,9 @@ Attach to a (Spirit) or **_Noldor_** hero. Restricted.
 > — The Fellowship of the Ring
 
 **Pack:** [[Across the Ettenmoors]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

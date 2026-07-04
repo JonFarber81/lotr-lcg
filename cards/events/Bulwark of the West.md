@@ -26,3 +26,9 @@ tags: [card, event, leadership]
 > *"By our valour the wildfolk of the East are still restrained, and the terror of Morgul kept at bay; and thus alone are peace and freedom maintained in the lads behind us…" -Boromir, The Fellowship of the Ring*
 
 **Pack:** [[The Crossings of Poros]] #137
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

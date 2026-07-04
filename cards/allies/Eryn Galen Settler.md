@@ -30,3 +30,9 @@ tags: [card, ally, lore]
 **Response:** When the active location leaves play as an explored location, discard Eryn Galen Settler to discard a location in the staging with the same title as the just explored location.
 
 **Pack:** [[Race Across Harad]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

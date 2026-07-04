@@ -32,3 +32,9 @@ Limit 1 per deck. Attach to a hero.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Dunland Trap]] #7 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

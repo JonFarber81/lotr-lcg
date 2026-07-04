@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > *-Nori, The Hobbit*
 
 **Pack:** [[Messenger of the King Allies]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

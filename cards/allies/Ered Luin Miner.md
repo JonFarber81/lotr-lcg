@@ -35,3 +35,9 @@ tags: [card, ally, neutral]
 > — The Hobbit
 
 **Pack:** [[Temple of the Deceived]] #66
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

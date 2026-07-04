@@ -36,3 +36,9 @@ Cannot attack or defend.
 > — The Return of the King
 
 **Pack:** [[A Storm on Cobas Haven]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

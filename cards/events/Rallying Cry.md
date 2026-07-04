@@ -28,3 +28,9 @@ tags: [card, event, leadership]
 > — The Return of the King
 
 **Pack:** [[The Wastes of Eriador]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

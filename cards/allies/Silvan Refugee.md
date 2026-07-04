@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — Gildor, The Fellowship of the Ring
 
 **Pack:** [[The Drúadan Forest]] #37
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

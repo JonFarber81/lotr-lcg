@@ -36,3 +36,9 @@ Sentinel.
 > — The Hobbit
 
 **Pack:** [[The Sands of Harad]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

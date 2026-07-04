@@ -31,3 +31,9 @@ Attach to a **_Dúnedain_** hero.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Lost Realm]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

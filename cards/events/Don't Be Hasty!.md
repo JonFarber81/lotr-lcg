@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Treebeard, The Two Towers
 
 **Pack:** [[The Antlered Crown]] #144
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

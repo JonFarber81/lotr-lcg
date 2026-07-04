@@ -23,3 +23,9 @@ Play only if you control a unique character with the **_Noldor**_ trait and anot
 **Action**: Choose a non-unique location in the staging area and raise your threat by X to discard it. X is the chosen location's printed quest points.
 
 **Pack:** [[The Dungeons of Cirith Gurat]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

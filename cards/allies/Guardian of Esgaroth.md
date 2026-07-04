@@ -35,3 +35,9 @@ Guardian of Esgaroth gets +1 WP, +1 ATK, +1 DEF, and +1 hit point for each diffe
 > — The Hobbit
 
 **Pack:** [[The Withered Heath]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

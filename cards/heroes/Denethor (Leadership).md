@@ -36,3 +36,9 @@ tags: [card, hero, leadership]
 > — The Return of the King
 
 **Pack:** [[Flight of the Stormcaller]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

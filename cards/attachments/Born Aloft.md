@@ -31,3 +31,9 @@ Attach to an ally.
 > — The Hobbit
 
 **Pack:** [[Conflict at the Carrock]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ Attached hero gains +1 ATK
 **Action:** Pay 1 resource from attached hero's pool to attach Dúnedain Mark to another hero.
 
 **Pack:** [[The Hunt for Gollum]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

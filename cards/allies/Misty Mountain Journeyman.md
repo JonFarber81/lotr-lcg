@@ -35,3 +35,9 @@ You cannot play Misty Mountain Journeyman from your hand unless you are engaged 
 > *-The Fellowship of the Ring*
 
 **Pack:** [[The Fortress of Nurn]] #144
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

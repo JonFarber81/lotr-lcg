@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Foundations of Stone]] #108
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

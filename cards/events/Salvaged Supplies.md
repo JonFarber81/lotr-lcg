@@ -26,3 +26,9 @@ tags: [card, event, leadership]
 **Action**: Exhaust a character you control to return Salvaged Supplies from your discard pile to your hand.
 
 **Pack:** [[ALeP - The Glittering Caves]] #105
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

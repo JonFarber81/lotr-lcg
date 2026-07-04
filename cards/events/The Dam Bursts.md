@@ -23,3 +23,9 @@ Play only if you control a unique character with the **_Ent**_ trait and another
 **Action**: Ready each damaged **_Ent**_ character you control.
 
 **Pack:** [[The Crossings of Poros]] #142
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

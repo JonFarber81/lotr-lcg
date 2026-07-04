@@ -27,3 +27,9 @@ Attached hero collects 1 additional resource during the resource phase.
 **Forced**: At the beginning of the planning phase, either discard Bilbo’s Spoons from play or attach it to a hero with a higher threat cost than the attached hero.
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #18
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

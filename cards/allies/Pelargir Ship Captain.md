@@ -30,3 +30,9 @@ tags: [card, ally, leadership]
 **Response:** After Pelargir Ship Captain enters play, move 1 resource from the resource pool of a hero you control to another hero's resource pool.
 
 **Pack:** [[The Morgul Vale]] #135
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[Conflict at the Carrock]] #25
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

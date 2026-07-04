@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Gandalf, The Two Towers
 
 **Pack:** [[Core Set]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

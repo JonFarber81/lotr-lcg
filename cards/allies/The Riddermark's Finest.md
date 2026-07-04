@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[The Hills of Emyn Muil]] #77
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

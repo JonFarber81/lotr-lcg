@@ -34,3 +34,9 @@ tags: [card, ally, leadership]
 > *“Why don’t we get together and charge through?” —The Two Towers*
 
 **Pack:** [[ALeP - Fangs in the Dark]] #43
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -34,3 +34,12 @@ tags: [card, ally, lore]
 > *"Why? Why’s none of my business, or yours." —The Fellowship of the Ring*
 
 **Pack:** [[Mount Gundabad]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- [[Gaffer Gamgee]] is insane. If you've got low threat and enough resources to keep playing him every turn, you can cancel an attack every round. In solo, this means that enemies simply never attack you. In multiplayer, this means you can ignore the biggest enemy on the table every round (provided you engage him yourself).

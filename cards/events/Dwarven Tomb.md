@@ -31,3 +31,12 @@ tags: [card, event, spirit]
 > — The Hobbit
 
 **Pack:** [[Core Set]] #53
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * In most cases you'll want to use [[Dwarven Tomb]] to get back A Test of Will or The Galadrahim's Greeting. With Test of Will, make sure you do this BEFORE you reveal encounter cards, since one you reveal a card you cannot play Dwarven Tomb to get A Test of Will back before the When Revealed effect resolves. (Dwarven Tomb is an action, not a response, so you have to do it ahead of time.) By contrast, you can usually afford to wait until the engagement phase to play the Dwarven Tomb/Galadrahim's Greeting combo to lower your threat by six.

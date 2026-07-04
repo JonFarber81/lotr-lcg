@@ -23,3 +23,9 @@ Play only after making engagement checks.
 **Encounter Action:** If no enemies were engaged this phase, deal 1 damage to each enemy in the staging area. Then, the players as a group may spend 3 (Tactics) resources to deal 2 additional damage to each enemy in the staging area.
 
 **Pack:** [[Temple of the Deceived]] #65
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

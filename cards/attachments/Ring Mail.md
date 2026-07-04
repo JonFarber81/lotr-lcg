@@ -31,3 +31,9 @@ Attached character gets +1 hit point and +1 DEF.
 > — Gimli, The Fellowship of the Ring
 
 **Pack:** [[The Long Dark]] #80
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ Ranged.
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[Celebrimbor's Secret]] #114
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

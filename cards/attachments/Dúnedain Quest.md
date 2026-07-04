@@ -27,3 +27,9 @@ Attached hero gains +1 WP
 **Action:** Pay 1 resource from attached hero's pool to attach Dúnedain Quest to another hero.
 
 **Pack:** [[A Journey to Rhosgobel]] #51
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ While Skinbark is attacking alone against an **_Orc_** enemy, that enemy does no
 > — Treebeard, The Two Towers
 
 **Pack:** [[The Land of Shadow]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

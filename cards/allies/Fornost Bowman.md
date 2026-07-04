@@ -36,3 +36,9 @@ Fornost Bowman gets +1 ATK for each enemy engaged with you.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Dread Realm]] #143
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

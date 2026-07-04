@@ -35,3 +35,9 @@ Radagast collects 1 resource each resource phase. These resources can be used to
 > *"I have an urgent errand. My news is evil."*
 
 **Pack:** [[A Journey to Rhosgobel]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

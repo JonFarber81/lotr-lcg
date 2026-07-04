@@ -30,3 +30,9 @@ tags: [card, ally, leadership]
 **Response:** After Longbeard Elder commits to a quest, look at the top card of the encounter deck. If that card is a location, place 1 progress token on the current quest. Otherwise, Longbeard Elder gets -1 WP until the end of the phase.
 
 **Pack:** [[Foundations of Stone]] #102
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

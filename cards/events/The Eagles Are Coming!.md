@@ -30,3 +30,9 @@ tags: [card, event, tactics]
 > — Bilbo Baggins, The Hobbit
 
 **Pack:** [[The Hunt for Gollum]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

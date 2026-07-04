@@ -36,3 +36,9 @@ Reduce the cost of the first **_Item_** attachment you play on another **_Bree_*
 > —Barliman Butterbur, The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Gap of Rohan]] #72
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

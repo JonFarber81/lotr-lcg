@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > —The Hobbit
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -37,3 +37,9 @@ Each **_Hobbit_** character gets +1 hit point.
 > — Sam Gamgee, The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

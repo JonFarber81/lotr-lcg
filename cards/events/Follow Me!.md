@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Nîn-in-Eilph]] #85
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

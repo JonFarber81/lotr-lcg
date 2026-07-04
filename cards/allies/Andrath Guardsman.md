@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Mûmakil]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

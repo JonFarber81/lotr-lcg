@@ -28,3 +28,9 @@ Play only if you control at least 1 **_Ranger_** character.
 > — Anborn, The Two Towers
 
 **Pack:** [[Assault on Osgiliath]] #89
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

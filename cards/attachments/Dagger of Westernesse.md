@@ -32,3 +32,13 @@ Attached hero gets +1 ATK (+2 ATK instead if attacking an enemy with an engageme
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- An early-game turn might look something like this: Exhaust Steward, gain 2, play Gaffer. Quest with [[Sam Gamgee]], [[Pippin (Lore)|Pippin]], and Gaffer for 6. Engage an enemy, draw a card with Pippin, ready Sam and boost his stats. Cancel the attack with Gaffer. Kill the enemy with Sam (2) + [[Merry (Tactics)|Merry]] (3) + [[Dagger of Westernesse]] (2). Repeat.
+- For the [[Dagger of Westernesse]], it's not super clear to me what the optimal target order is despite playing this deck many times now. I normally put dagger #1 on Merry, so he can have boosted attack for low-engagement enemies that don't ready Sam. But the nice thing about having daggers on Sam is that when he and Merry attack together, Merry readies Sam, who can attack again, getting double use out of the dagger. So normally the second dagger goes on Sam, and the third goes on Merry again. But feel free to experiment and see what works best for you.

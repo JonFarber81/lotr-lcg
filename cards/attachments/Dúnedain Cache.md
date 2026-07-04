@@ -27,3 +27,9 @@ Attached hero gains ranged.
 **Action:** Pay 1 resource from attached hero's pool to attach Dúnedain Cache to another hero.
 
 **Pack:** [[The Dead Marshes]] #97
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

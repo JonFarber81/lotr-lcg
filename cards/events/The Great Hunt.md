@@ -27,3 +27,9 @@ You must use resources from 3 different heroes' pools to pay for this card. **Co
 > *-The Hobbit*
 
 **Pack:** [[The Fate of Wilderland]] #149
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

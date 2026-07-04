@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > — Bifur, The Hobbit
 
 **Pack:** [[Khazad-dûm]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

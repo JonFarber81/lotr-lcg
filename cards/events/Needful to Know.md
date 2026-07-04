@@ -23,3 +23,9 @@ Secrecy 2.
 **Action:** Raise your threat by 1 to look at the top card of the encounter deck. Then, reduce your threat by X, where X is the threat of that card.
 
 **Pack:** [[The Redhorn Gate]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

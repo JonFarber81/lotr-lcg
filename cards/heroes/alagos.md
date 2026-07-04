@@ -36,3 +36,9 @@ Cannot have restricted attachments.
 > —The Lord of the Eagles, The Hobbit
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #38
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -28,3 +28,9 @@ tags: [card, event, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Treachery of Rhudaur]] #88
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

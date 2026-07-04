@@ -30,3 +30,9 @@ Attach to a **_Rohan_** hero. Restricted.
 > *“…and don’t forget their horses! They can see the night-breeze, or so it’s said.” —Ugluk, The Two Towers*
 
 **Pack:** [[ALeP - Children of Eorl]] #16
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

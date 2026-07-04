@@ -30,3 +30,9 @@ Attach to a **_Dale_** or **_Scout_** character. Limit 1 per character. **Respon
 > — Gandalf, The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

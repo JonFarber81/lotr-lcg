@@ -31,3 +31,9 @@ Attach to Gandalf. Restricted.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Road Darkens]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Limit 1 per deck. Attach to a hero with Ranged.
 > — Bard, The Hobbit
 
 **Pack:** [[On the Doorstep]] #15 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -28,3 +28,9 @@ Doomed X.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Dunland Trap]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

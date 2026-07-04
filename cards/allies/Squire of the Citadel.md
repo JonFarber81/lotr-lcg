@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — The Return of the King
 
 **Pack:** [[The Blood of Gondor]] #108
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

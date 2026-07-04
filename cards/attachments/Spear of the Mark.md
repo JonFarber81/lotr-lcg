@@ -32,3 +32,9 @@ Attached character gets +1 ATK (+2 ATK instead if attacking an enemy in the stag
 > — The Return of the King
 
 **Pack:** [[The Morgul Vale]] #137
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -28,3 +28,9 @@ tags: [card, event, leadership]
 > — Gandalf, The Two Towers
 
 **Pack:** [[The Battle of Carn Dûm]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

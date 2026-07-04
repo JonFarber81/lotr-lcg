@@ -31,3 +31,9 @@ Ranged.
 **Action:** Exhaust Argalad to choose an enemy in the staging area. Until the end of the phase, that enemy gets -X Threat, where X is Argalad's ATK. If this effect reduces the enemy's Threat to 0, deal 1 damage to it. (Limit once per round.)
 
 **Pack:** [[The Drowned Ruins]] #82
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

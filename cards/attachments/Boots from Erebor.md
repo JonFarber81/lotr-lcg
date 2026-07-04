@@ -27,3 +27,9 @@ Limit 1 Boots from Erebor per character.
 Attached character gets +1 hit point.
 
 **Pack:** [[Khazad-dûm]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

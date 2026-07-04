@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Beregond, The Return of the King
 
 **Pack:** [[The Thing in the Depths]] #32
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

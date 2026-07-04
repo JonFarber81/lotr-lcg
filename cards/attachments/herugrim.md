@@ -32,3 +32,9 @@ Reduce the cost to play Herugrim on Théoden by 1.
 > — Háma, The Two Towers
 
 **Pack:** [[The Treason of Saruman]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

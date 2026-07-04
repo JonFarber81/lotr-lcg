@@ -32,3 +32,9 @@ Attached ally gets +2 hit points.
 > — The Return of the King
 
 **Pack:** [[The Withered Heath]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

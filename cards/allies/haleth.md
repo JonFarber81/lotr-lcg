@@ -30,3 +30,9 @@ tags: [card, ally, lore]
 **Response:** After Haleth quests successfully, search the top 5 cards of your deck for an attachment and add it to your hand. Shuffle your deck.
 
 **Pack:** [[The Fortress of Nurn]] #140
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

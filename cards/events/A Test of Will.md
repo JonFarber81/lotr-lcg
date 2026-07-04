@@ -27,3 +27,19 @@ tags: [card, event, spirit]
 > — Elrond, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #50
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Yes, this is a 44-card deck. Why? Because IMHO these are the only cards in the core set worth including in the deck. Just about everything else in the box (not including Tactics cards) is of situational use at best, and will just dilute the deck. if you're going with the constraint of a single Core set, you really shouldn't be handicapping yourself by forcing a 50-card deck. If you really want a 50-card minimum, get another Core set and add extra copies of [[Sneak Attack]], [[Steward of Gondor]], [[Northern Tracker]], [[A Test of Will]], [[Unexpected Courage]] and [[Henamarth Riversong]], or start adding cards from expansion packs as you get them.
+- * Tempting as it might be to get that [[Northern Tracker]] into play ASAP, be wary of spending all your spirit resources if you have [[A Test of Will]] in hand. Usually it's better to wait an extra turn to accumulate resources so that if a nasty treachery comes up you're not left with an unplayable Test of Will.
+- * In most cases you'll want to use [[Dwarven Tomb]] to get back A Test of Will or The Galadrahim's Greeting. With Test of Will, make sure you do this BEFORE you reveal encounter cards, since one you reveal a card you cannot play Dwarven Tomb to get A Test of Will back before the When Revealed effect resolves. (Dwarven Tomb is an action, not a response, so you have to do it ahead of time.) By contrast, you can usually afford to wait until the engagement phase to play the Dwarven Tomb/Galadrahim's Greeting combo to lower your threat by six.
+- * And speaking of [[The Galadhrim's Greeting]]... Watch our for Treachery cards which nail you when you're up to 35 threat. In those cases, you'll want to play the Greeting before revealing cards since, once again, Greeting is an action, not a response. Most other times you can just save the Greeting for when you actually need the threat reduction, but also be aware of encounter sets that have effects that make you discard event cards. (In those cases, just play the Greeting as soon as you have the resources, unless you have A Test of Will to protect your hand.)
+- * [[Miner of the Iron Hills]] is your first and best defense against nasty conditions like Caught in a Web. When playing a quest that has conditions, try to hold on to your Miners until if and when these condition cards appear. Again, knowing the encounter deck is key; for example, there are no condition attachments in Journey Down the Anduin, so against that quest you might as well play the Miner as soon as you have the available resources. Also note that if need be a card like Caught in a Web can be canceled by A Test of Will, though only as it's revealed from the encounter deck.
+
+**[[The One Deck]]**
+- [[A Test of Will]] is particularly useful in a rule-them-all type deck, because there are more than a few quests with game-ending treacheries that you really want to cancel.

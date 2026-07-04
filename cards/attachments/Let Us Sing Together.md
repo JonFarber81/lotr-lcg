@@ -32,3 +32,9 @@ Attach to a character. Limit 1 per character. Attached character gets +1 WP and 
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #16
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -32,3 +32,9 @@ Attached character gets +1 WP.
 > — The Return of the King
 
 **Pack:** [[A Storm on Cobas Haven]] #116
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

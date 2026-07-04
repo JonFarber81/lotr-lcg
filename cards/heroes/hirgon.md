@@ -34,3 +34,9 @@ tags: [card, hero, tactics]
 > *"Hirgon I am, errand-rider of Denethor, who bring you this token of war." -The Return of the King*
 
 **Pack:** [[Beneath the Sands]] #55
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

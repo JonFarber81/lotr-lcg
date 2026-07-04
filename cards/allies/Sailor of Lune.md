@@ -35,3 +35,9 @@ While the top card of your discard pile is an event, Sailor of Lune gets +1 WP a
 > — The Fellowship of the Ring
 
 **Pack:** [[The Grey Havens]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

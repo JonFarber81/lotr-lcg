@@ -30,3 +30,9 @@ Attach to a hero. Limit 1 per hero.
 > *…he lifted it, shut his eyes, and put it in his deepest pocket. “Now I am a burglar indeed!” thought he. —Bilbo Baggins, The Hobbit*
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #19
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

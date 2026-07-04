@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Response:**  After you play Linhir Sea-captain from your hand, if you paid all of its resouce cost from a single hero's resource pool, both that hero and Linhir Sea-captain do not exhaust to quest this round.
 
 **Pack:** [[A Storm on Cobas Haven]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

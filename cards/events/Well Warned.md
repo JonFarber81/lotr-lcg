@@ -28,3 +28,9 @@ Play only if you control a unique character with the **_Noble_** trait and anoth
 > — The Return of the King
 
 **Pack:** [[The Sands of Harad]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

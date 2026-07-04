@@ -35,3 +35,19 @@ tags: [card, ally, lore]
 > — Aragorn, The Return of the King
 
 **Pack:** [[Core Set]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * Speaking of [[Éowyn (Spirit)|Éowyn]]'s ability, a nice little card-conserving combo is to pitch an attachment to her ability if you've got [[Erebor Hammersmith]] in hand. Then next turn you can play the Hammersmith and get that attachment back.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- [[Dark Knowledge]] can be really useful for deciding whether or not to take undefended attacks with [[Glóin]]. Some folks really don't care for this card - if you think that it's weak and you don't really need it, try swapping it for an additional ally card, e.g. [[Guard of the Citadel]] or [[Erebor Hammersmith]] or even another copy of [[Ever Vigilant]] (all of those cards are included in the **sideboard** for you to consider). On the other hand, if you really like the idea of taking numerous undefended attacks on [[Glóin]] and you want to have more control over their effects, get rid of the [[Ever Vigilant]] and add a second copy of [[Dark Knowledge]]!
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- Dwarves are a classic archetype in the game, and for good reason. The early dwarves have great stats and useful abilities, like [[Erebor Hammersmith]] and [[Miner of the Iron Hills]]. And [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] turns any group of dwarves into a formidable questing and attacking threat.
+- Which I do, adding a [[Veteran Axehand]] and an [[Erebor Hammersmith]] to my army.

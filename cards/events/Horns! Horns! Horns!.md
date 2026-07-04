@@ -23,3 +23,9 @@ Doomed 2.
 **Action:** Each player may put one ally card into play from his hand. At the end of the phase, shuffle each of those allies that are still in play into their owners' decks.
 
 **Pack:** [[Challenge of the Wainriders]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

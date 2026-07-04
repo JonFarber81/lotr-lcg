@@ -27,3 +27,9 @@ Each **_Harad**_ character gets +1WP.
 **Refresh Action:** Exhaust Kahliel's Headdress to shuffle the topmost **_Harad**_ ally in your discard pile into your deck.
 
 **Pack:** [[The Mûmakil]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

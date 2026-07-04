@@ -27,3 +27,9 @@ Attach to a (Spirit) hero.
 **Response:** After another player raises his threat, raise your threat by 1 to reduce that player's threat by 1.
 
 **Pack:** [[Road to Rivendell]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

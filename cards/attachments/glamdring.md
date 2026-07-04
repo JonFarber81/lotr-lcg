@@ -28,3 +28,9 @@ Attached character gets +2 ATK
 **Response:** After attached character destroys an enemy, draw 1 card.
 
 **Pack:** [[Roam Across Rhovanion]] #29
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

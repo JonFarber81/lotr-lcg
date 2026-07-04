@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Escape from Mount Gram]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

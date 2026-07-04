@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Wastes of Eriador]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

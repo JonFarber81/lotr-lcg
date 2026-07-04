@@ -34,3 +34,9 @@ tags: [card, ally, leadership]
 > *"Fili is the youngest and still has the best sight" —Thorin, The Hobbit*
 
 **Pack:** [[Over Hill and Under Hill]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

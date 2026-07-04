@@ -31,3 +31,9 @@ While this quest is in the victory display, the first ally played by each player
 > — Gandalf, The Return of the King
 
 **Pack:** [[The Sands of Harad]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

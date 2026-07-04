@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Hobbit
 
 **Pack:** [[Conflict at the Carrock]] #27
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

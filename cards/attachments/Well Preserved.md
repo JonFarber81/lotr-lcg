@@ -27,3 +27,9 @@ Limit 1 per hero. Attached hero gets + 1 hit point.
 **Response:** At the beginning of the round, exhaust The One Ring and raise your threat by 1 to heal all damage from attached hero.
 
 **Pack:** [[Under the Ash Mountains]] #85
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

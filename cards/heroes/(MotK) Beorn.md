@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > — The Hobbit
 
 **Pack:** [[Messenger of the King Allies]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -36,3 +36,9 @@ If the attacking enemy shares a **_Trait_** with an enemy in the victory display
 > — Galadriel, The Fellowship of the Ring
 
 **Pack:** [[Escape from Mount Gram]] #28
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

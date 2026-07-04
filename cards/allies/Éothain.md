@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — The Two Towers
 
 **Pack:** [[The Dread Realm]] #141
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

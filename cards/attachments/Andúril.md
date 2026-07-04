@@ -32,3 +32,9 @@ Attached hero gets +1 WP, +1 ATK, and +1 DEF.
 > *“You shall not be sheathed again until the last battle is fought.” —Aragorn, The Return of the King*
 
 **Pack:** [[ALeP - Blood in the Isen]] #191
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Legolas, The Return of the King
 
 **Pack:** [[Core Set]] #49
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

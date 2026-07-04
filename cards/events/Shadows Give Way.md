@@ -28,3 +28,9 @@ You must use resources from 3 different heroes' pools to pay for this card.
 > — The Return of the King
 
 **Pack:** [[The Antlered Crown]] #143
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

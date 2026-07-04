@@ -36,3 +36,9 @@ Booming Ent gets +1 ATK for each damaged **_Ent_** character you control.
 > — Merry, The Two Towers
 
 **Pack:** [[The Antlered Crown]] #141
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

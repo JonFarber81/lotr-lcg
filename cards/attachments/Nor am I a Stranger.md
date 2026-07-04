@@ -31,3 +31,9 @@ Attached character gains the **_Rohan_** trait.
 > — Aragorn, The Two Towers
 
 **Pack:** [[Conflict at the Carrock]] #31
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

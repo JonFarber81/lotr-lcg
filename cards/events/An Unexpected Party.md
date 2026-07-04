@@ -33,3 +33,9 @@ tags: [card, event, leadership]
 > —The Hobbit
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

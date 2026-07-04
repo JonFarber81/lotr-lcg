@@ -35,3 +35,9 @@ While you control at least 5 **_Dwarf_** characters, lower the cost to play Dwal
 > *As soon as the door was opened, he pushed inside, just as if he had been expected. –The Hobbit*
 
 **Pack:** [[On the Doorstep]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #65
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

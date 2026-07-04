@@ -35,3 +35,9 @@ tags: [card, hero, lore]
 > — Faramir, The Two Towers
 
 **Pack:** [[Messenger of the King Allies]] #114
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

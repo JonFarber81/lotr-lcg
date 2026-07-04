@@ -31,3 +31,9 @@ Attach to a **_Gondor_** hero. Restricted.
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

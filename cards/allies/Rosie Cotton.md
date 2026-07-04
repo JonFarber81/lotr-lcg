@@ -35,3 +35,12 @@ tags: [card, ally, leadership]
 > — The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- The [[Fast Hitch]] play order is typically [[Merry (Tactics)|Merry]] first, so he can quest, then [[Rosie Cotton]] second (if she's out) so she can use her ability in both the quest phase and combat phase. Then Sam would be the next target so he can act as an emergency defender and still be able to attack.

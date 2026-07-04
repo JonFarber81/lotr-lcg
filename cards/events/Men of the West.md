@@ -32,3 +32,9 @@ tags: [card, event, leadership]
 > — The Return of the King
 
 **Pack:** [[Assault on Osgiliath]] #83
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

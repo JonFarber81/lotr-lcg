@@ -36,3 +36,9 @@ Sentinel.
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

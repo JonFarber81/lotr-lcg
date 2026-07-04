@@ -27,3 +27,9 @@ Play only if you control a **_Noldor**_ or **_Silvan**_ hero.
 > *"...they may pass to the Sea unhindered and leave the Middle-earth forever." -Haldir, The Two Towers*
 
 **Pack:** [[The Crossings of Poros]] #140
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

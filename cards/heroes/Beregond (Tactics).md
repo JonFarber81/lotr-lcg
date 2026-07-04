@@ -36,3 +36,9 @@ Lower the cost to play **_Weapon_** and **_Armor_** attachments on Beregond by 2
 > — The Return of the King
 
 **Pack:** [[Heirs of Númenor]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ While attached hero has at least 1 resource in its resource pool, **_Gondor_** c
 > — Denethor, The Return of the King
 
 **Pack:** [[The Morgul Vale]] #136
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

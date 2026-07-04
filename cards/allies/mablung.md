@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Two Towers
 
 **Pack:** [[The Land of Shadow]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

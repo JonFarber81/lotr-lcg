@@ -36,3 +36,9 @@ Each (Tactics) hero with a printed (Tactics) resource icon gets +1 WP.
 > — The Return of the King
 
 **Pack:** [[The Morgul Vale]] #134
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ If each hero you control belongs to the same sphere of influence, you may assign
 > — The Return of the King
 
 **Pack:** [[The Drúadan Forest]] #41
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

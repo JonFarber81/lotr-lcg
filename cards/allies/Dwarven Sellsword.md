@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — The Hobbit
 
 **Pack:** [[The Drowned Ruins]] #83
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

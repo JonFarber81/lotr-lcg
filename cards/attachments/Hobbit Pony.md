@@ -31,3 +31,9 @@ Attach to a **_Hobbit_** hero. Restricted.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Wastes of Eriador]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

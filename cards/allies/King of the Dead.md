@@ -35,3 +35,9 @@ Cannot enter play unless Fulfil Your Oath is in the victory display.
 > *Ever there rose the same cry in the gathering night: ‘The King of the Dead! The King of the Dead is come upon us!’ —The Return of the King*
 
 **Pack:** [[ALeP - Fangs in the Dark]] #41
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

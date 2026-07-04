@@ -27,3 +27,9 @@ Reduce the cost to play Tome of Atanatar by 1 for each hero you control with a p
 **Action:** Discard Tome of Atanatar to play any (Leadership) event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck.
 
 **Pack:** [[The Blood of Gondor]] #109
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

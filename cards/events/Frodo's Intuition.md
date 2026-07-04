@@ -27,3 +27,9 @@ tags: [card, event, fellowship]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

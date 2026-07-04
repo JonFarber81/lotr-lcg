@@ -23,3 +23,9 @@ Secrecy 4.
 **Response:** After a non-unique enemy attacks you, put that enemy on the bottom of the encounter deck. If your threat is lower than that enemy's engagement cost, set your threat equal to the engagement cost of that enemy.
 
 **Pack:** [[Shadow and Flame]] #132
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

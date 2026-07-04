@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Two Towers
 
 **Pack:** [[Core Set]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -30,3 +30,9 @@ tags: [card, ally, spirit]
 **Action:** Choose another player. That player gains control of Blue Mountain Trader. Then, that player moves 1 resource from the resource pool of a hero he controls to the resource pool of a hero you control, or Blue Mountain Trader is discarded. (Limit once per round.)
 
 **Pack:** [[The Dunland Trap]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ If there is at least 1 **_Rohan_** hero in play, lower the cost to play Guthlaf 
 If there is at least 1 **_Gondor_** hero in play, Guthlaf gains sentinel.
 
 **Pack:** [[Messenger of the King Allies]] #110
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

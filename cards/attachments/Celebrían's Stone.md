@@ -32,3 +32,12 @@ If attached hero is Aragorn, he also gains a (Spirit) resource icon.
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #27
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Dunedain Trappers]]**
+- The crucial cards in the deck, which it probably won't work without, are 3x [[Master of the Forge]], 3x [[Forest Snare]]. [[Celebrían's Stone]] is the only way to get the Spirit icon, so if you don't have two or three you should put in some [[Song of Travel]].

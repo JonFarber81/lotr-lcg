@@ -30,3 +30,9 @@ Attach to a (Tactics) or **_Minstrel_** hero. Restricted.
 > *At that moment, among the trees nearby, a horn rang out. —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #20
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

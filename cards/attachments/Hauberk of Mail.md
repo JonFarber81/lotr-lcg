@@ -31,3 +31,9 @@ Attached character gets +1 DEF (and +1 hit point if attached character has the s
 > — The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

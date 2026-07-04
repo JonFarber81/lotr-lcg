@@ -34,3 +34,9 @@ tags: [card, hero, spirit]
 > *“My friend,” said Gandalf, “you had horses, and deeds of arms, and the free fields.” —The Return of the King*
 
 **Pack:** [[ALeP - Children of Eorl]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

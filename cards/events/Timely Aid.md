@@ -23,3 +23,9 @@ Secrecy 3.
 **Action:** Reveal the top 5 cards of your deck and put 1 revealed ally into play, if able. Shuffle all other revealed cards back into your deck.
 
 **Pack:** [[The Redhorn Gate]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ Attach to a (Tactics) character. Limit 1 per character.
 **Response:** After attached character is declared as a defender, deal 1 damage to the attacking enemy.
 
 **Pack:** [[Heirs of Númenor]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

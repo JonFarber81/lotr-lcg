@@ -26,3 +26,9 @@ Restricted.
 Immune to non-Master card effects. **Setup**: Attach to a hero you control and search your deck for a Master card. Add it to your hand and shuffle your deck. Your threat elimination level is reduced by 5. If The One Ring leaves play, the players lose the game.
 
 **Pack:** [[A Shadow in the East]] #1 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

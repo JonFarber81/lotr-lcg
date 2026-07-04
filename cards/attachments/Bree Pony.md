@@ -32,3 +32,9 @@ Attached character gets +1 hit point.
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Gap of Rohan]] #75
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

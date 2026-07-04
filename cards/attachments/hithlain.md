@@ -31,3 +31,9 @@ Attach to a location. Limit 1 per location
 > — The Fellowship of the Ring
 
 **Pack:** [[The Drowned Ruins]] #88
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

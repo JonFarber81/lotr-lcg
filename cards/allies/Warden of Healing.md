@@ -35,3 +35,17 @@ tags: [card, ally, lore]
 > — Return of the King
 
 **Pack:** [[The Long Dark]] #83
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- Not just a Vilya machine in the deck. His impressive stats do get used once you find [[Unexpected Courage]], and his 4 hit points also allow you to take undefended attacks, which I did many, many times. Since you can use [[Jubayr]] to discard the shadow card on the enemy that will be making the undefended attack, you can do this safely, and with Elrond's healing ability, your [[Warden of Healing]] can quickly get rid of the damage. It took me a few games until I discovered how valuable this action advantage can actually be.
+- In solo, it's often the case where you're only defending one enemy per round, then killing it. In that situation, you never have to resolve any shadow effects. Jubayr's main weakness (enemies with more than 3 ) is easily handled because Jubayr can safely defend enemies up to 5  with no fear of a surprise shadow effect killing him, then he can be brought back to full health with a single use of [[Warden of Healing]]+[[Elrond]]. Enemies with 6 or more attack are often unique, rendering his ability useless for their attacks anyway.
+- Steward obviously goes on Elrond once, and effectively lets you play 2 huge allies every turn - one with Vilya and one with his resources. He can never really have too much, since the spirit icon you get with Vilya allows you to use his resources to draw with [[Elven-light]]. The resources can also be use to ready your [[Warden of Healing]] after healing.
+
+**[[Gaffer Ever After]]**
+- For those that like the nitty-gritty details: If I open with Resourceful+Steward, I like to put Resourceful on Sam then Steward on Pippin turn 2. Then I'll put the second and third Resourceful on Pippin. Extra lore resources can always be used for readying [[Warden of Healing]] and paying full price for Gandalf.

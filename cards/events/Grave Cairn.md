@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Legolas, The Two Towers
 
 **Pack:** [[The Watcher in the Water]] #54
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

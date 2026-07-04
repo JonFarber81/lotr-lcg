@@ -32,3 +32,9 @@ Attached character gains a (Leadership) resource icon.
 > — Círdan, The Return of the King
 
 **Pack:** [[The Grey Havens]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

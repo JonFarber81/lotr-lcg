@@ -22,3 +22,9 @@ tags: [card, event, lore]
 **Action**: Each location with an attachment gets -2 Threat until the end of the phase.
 
 **Pack:** [[The Ghost of Framsburg]] #88
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

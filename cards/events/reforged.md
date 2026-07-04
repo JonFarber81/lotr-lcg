@@ -26,3 +26,9 @@ tags: [card, event, spirit]
 > *The Sword of Elendil was forged anew by Elvish smiths... -The Fellowship of the Ring*
 
 **Pack:** [[The Fate of Wilderland]] #153
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

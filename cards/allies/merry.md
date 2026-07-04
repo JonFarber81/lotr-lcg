@@ -35,3 +35,17 @@ tags: [card, ally, leadership]
 > *-The Return of the King*
 
 **Pack:** [[A Shadow in the East]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Sting Like A Bee]]**
+- This is an updated version of the original Hobbit deck I built right after cracking open The Black Riders at Gen Con the year it was released. The core idea of the deck has never really changed: Pump Merry up and let him kill things, have Sam defend, and use Pippin for card draw. What has changed is the ally lineup, and I think it will always continually change as new allies are released. There are a few different Hobbit builds possible using this hero trio. One of them can make good use of Ents, and I've had fun with that particular deck, but I already have quite a few decks featuring Ents now, so I didn't go with that approach for this one. This is the classic "big alies" Hobbit build, which uses Elf-stone and Sneak Attack to get the big guys into play. There's also plenty of resources with Steward and Errand-rider to pay for some of them conventionally as well. The newest additions are Taste It Again! and Staff of Lebethron from Land of Shadow, which make Sam even better. Still one of the most enjoyable decks around that is powerful at the same time. This can work in either solo or multiplayer.
+
+**[[Gaffer Ever After]]**
+- An early-game turn might look something like this: Exhaust Steward, gain 2, play Gaffer. Quest with [[Sam Gamgee]], [[Pippin (Lore)|Pippin]], and Gaffer for 6. Engage an enemy, draw a card with Pippin, ready Sam and boost his stats. Cancel the attack with Gaffer. Kill the enemy with Sam (2) + [[Merry (Tactics)|Merry]] (3) + [[Dagger of Westernesse]] (2). Repeat.
+- The [[Fast Hitch]] play order is typically [[Merry (Tactics)|Merry]] first, so he can quest, then [[Rosie Cotton]] second (if she's out) so she can use her ability in both the quest phase and combat phase. Then Sam would be the next target so he can act as an emergency defender and still be able to attack.
+- For the [[Dagger of Westernesse]], it's not super clear to me what the optimal target order is despite playing this deck many times now. I normally put dagger #1 on Merry, so he can have boosted attack for low-engagement enemies that don't ready Sam. But the nice thing about having daggers on Sam is that when he and Merry attack together, Merry readies Sam, who can attack again, getting double use out of the dagger. So normally the second dagger goes on Sam, and the third goes on Merry again. But feel free to experiment and see what works best for you.

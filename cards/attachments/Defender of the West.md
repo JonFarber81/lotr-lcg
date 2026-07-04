@@ -32,3 +32,9 @@ Damage from undefended attacks against you may be assigned to attached ally.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Nîn-in-Eilph]] #93
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ Play only after staging step. **Quest Action**: You may declare and resolve an a
 > *-The Hobbit*
 
 **Pack:** [[Wrath and Ruin]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

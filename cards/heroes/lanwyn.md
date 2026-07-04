@@ -36,3 +36,9 @@ Ranged.
 > — Thorin, The Hobbit
 
 **Pack:** [[The Thing in the Depths]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

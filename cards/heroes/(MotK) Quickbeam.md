@@ -36,3 +36,9 @@ Cannot have restricted attachments. Enters play exhausted.
 > — The Two Towers
 
 **Pack:** [[Messenger of the King Allies]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

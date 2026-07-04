@@ -31,3 +31,9 @@ Attach to a location.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Thing in the Depths]] #38
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

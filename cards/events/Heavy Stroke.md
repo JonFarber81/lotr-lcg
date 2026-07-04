@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Fellowship of the Ring
 
 **Pack:** [[Foundations of Stone]] #105
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ While Saruman has an **_Artifact_** card attached, he is considered to have the 
 **Action**: Attach an **_Artifact_** card from your hand to Saruman. Ignore eligibility and the guarded (X) keyword. At the end of the round, discard it.
 
 **Pack:** [[ALeP - Fangs in the Dark]] #38
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 **Response:** After an enemy is declared as an attacker against you, declare an exhausted character you control as the defender. Resolve that effect again for each copy of Anchor Watch currently in your discard pile (all chosen characters are defending against this attack).
 
 **Pack:** [[The Grey Havens]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

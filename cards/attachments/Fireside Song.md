@@ -32,3 +32,9 @@ Attach to a Hobbit hero. Limit 1 per hero. Attached hero gets +1 WP for each Son
 > *that I shall ever see." -Bilbo Baggins, The Fellowship of the Ring*
 
 **Pack:** [[Beneath the Sands]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

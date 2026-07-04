@@ -32,3 +32,9 @@ Restricted.
 > — The Lord of the Eagles, The Hobbit
 
 **Pack:** [[The Wilds of Rhovanion]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

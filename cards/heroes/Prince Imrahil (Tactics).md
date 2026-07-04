@@ -30,3 +30,9 @@ tags: [card, hero, tactics]
 **Combat Action:** Spend 1 resource from Prince Imrahil's resource pool to search the top 5 cards of your deck for an ally who shares at least 1 **_Trait_** with him, and put that ally into play. Shuffle your deck. At the end of the phase, if that ally is still in play, shuffle it into your deck. (Limit once per round.)
 
 **Pack:** [[The City of Corsairs]] #138
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

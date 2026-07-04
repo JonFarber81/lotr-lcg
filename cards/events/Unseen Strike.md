@@ -22,3 +22,9 @@ tags: [card, event, tactics]
 **Action:** Choose a character you control. Until the end of the phase, that character gets +3 ATK while attacking an enemy with a higher engagement cost than your threat.
 
 **Pack:** [[The Redhorn Gate]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

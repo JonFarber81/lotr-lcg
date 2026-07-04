@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Legolas, Th Two Towers
 
 **Pack:** [[Fire in the Night]] #64
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Battle of Carn Dûm]] #123
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

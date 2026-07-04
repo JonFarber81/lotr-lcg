@@ -31,3 +31,9 @@ tags: [card, hero, lore]
 **Response**: After a **_Rohan_** or **_Gondor_** ally leaves play, exhaust Morwen Steelsheen to either heal 2 damage from a character or reduce your threat by 1.
 
 **Pack:** [[ALeP - Messenger of the King Allies]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

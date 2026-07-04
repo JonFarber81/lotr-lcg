@@ -26,3 +26,9 @@ Attach to a hero.
 **Action:** Discard Miruvor to (choose two): ready attached hero, add 1 resource to attached hero's resource pool, attached hero gets +1 WP until the end of the round, or put Miruvor on the top of your deck.
 
 **Pack:** [[Shadow and Flame]] #133
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

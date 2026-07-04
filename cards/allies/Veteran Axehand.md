@@ -31,3 +31,12 @@ tags: [card, ally, tactics]
 > — Legolas, The Two Towers
 
 **Pack:** [[Core Set]] #28
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Deck Tech Dwarf Starter Deck]]**
+- Which I do, adding a [[Veteran Axehand]] and an [[Erebor Hammersmith]] to my army.

@@ -23,3 +23,9 @@ Play only if you control a unique character with the **_Ranger_** trait and anot
 **Response:** After you engage an enemy, that enemy cannot attack you until the end of the round.
 
 **Pack:** [[The Mûmakil]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

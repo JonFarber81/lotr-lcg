@@ -31,3 +31,9 @@ Attached ally gains the **_Outlands_** trait.
 > — The Return of the King
 
 **Pack:** [[Assault on Osgiliath]] #82
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

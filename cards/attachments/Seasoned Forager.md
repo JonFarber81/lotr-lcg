@@ -27,3 +27,9 @@ Your heroes cannot gain resources from player card effects.
 **Action**: Exhaust Seasoned Forager to reduce the cost of the next card you play this phase that matches the attached hero’s sphere by 1.
 
 **Pack:** [[ALeP - The Gap of Rohan]] #77
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

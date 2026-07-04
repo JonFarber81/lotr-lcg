@@ -32,3 +32,9 @@ Attach to a **_Ranger_** character.
 > — The Two Towers
 
 **Pack:** [[Assault on Osgiliath]] #88
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

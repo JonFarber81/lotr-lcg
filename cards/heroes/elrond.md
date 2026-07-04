@@ -36,3 +36,9 @@ You may spend resources from Elrond's resource pool to pay for (Spirit), (Leader
 > — The Fellowship of the Ring
 
 **Pack:** [[Shadow and Flame]] #128
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

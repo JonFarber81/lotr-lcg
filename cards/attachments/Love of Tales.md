@@ -31,3 +31,9 @@ Attach to a (Lore) hero. Limit 1 per hero.
 > — Sam Gamgee, The Fellowship of the Ring
 
 **Pack:** [[The Long Dark]] #85
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

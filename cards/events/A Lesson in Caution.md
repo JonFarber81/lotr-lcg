@@ -27,3 +27,9 @@ Secrecy 1.
 > *Hobbits go light, and their footprints are not easy even for a Ranger to read… —The Two Towers*
 
 **Pack:** [[ALeP - The Aldburg Plot]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

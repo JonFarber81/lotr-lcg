@@ -23,3 +23,9 @@ Lords of the Eldar can only be played from your discard pile.
 **Action:** Place Lords of the Eldar on the bottom of your deck from your discard pile. Then, until the end of the round all **_Noldor_** characters get +1 WP, +1 ATK, and +1 DEF.
 
 **Pack:** [[The Battle of Carn Dûm]] #121
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

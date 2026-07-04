@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Éomer, The Return of the King
 
 **Pack:** [[The Hills of Emyn Muil]] #78
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

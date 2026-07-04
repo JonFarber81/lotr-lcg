@@ -31,3 +31,9 @@ Play Ambush into the staging area unattached. If unattached, attach Ambush to th
 > — Mablung, The Two Towers
 
 **Pack:** [[The Land of Shadow]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

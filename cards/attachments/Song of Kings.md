@@ -34,3 +34,9 @@ Attached hero gains a (Leadership) resource icon.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Hunt for Gollum]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

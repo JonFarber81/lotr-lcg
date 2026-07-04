@@ -31,3 +31,9 @@ Cannot have attachments
 **Planning Action:** Attach Wild Stallion to an ally you control. (Counts as a **_Mount_** attachment with the text: "Restricted. Limit 1 per ally. Attached ally gets +1 WP, +1 ATK, +1 DEF, and +1 hit point.")
 
 **Pack:** [[Roam Across Rhovanion]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

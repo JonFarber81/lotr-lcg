@@ -31,3 +31,9 @@ tags: [card, ally, spirit]
 **Response:** After Rider of the Mark changes control, discard a shadow card dealt to an enemy you are engaged with.
 
 **Pack:** [[Road to Rivendell]] #33
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

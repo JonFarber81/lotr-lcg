@@ -26,3 +26,9 @@ Attach to an **_Eagle_** hero. Attached hero gains the **_Noble_** trait.
 **Action**: Exhaust Golden Crown to choose an **_Eagle_** ally you own under any player’s control. Either give control of that ally to a different player, or discard that ally from play to add 1 resource to attached hero’s pool.
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #50
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

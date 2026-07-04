@@ -22,3 +22,9 @@ tags: [card, event, lore]
 **Planning Action:** Choose a ready player attachment on a character you control. Return that attachment to its owner’s hand to reduce the cost of the next attachment played this phase by X, where is the chosen attachment’s cost.
 
 **Pack:** [[The Wilds of Rhovanion]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Sentinel.
 While you control at least 5 **_Dwarf_** characters, lower the cost to play Dwalin by 2.
 
 **Pack:** [[Messenger of the King Allies]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > *-Frodo, The Fellowship of the Ring*
 
 **Pack:** [[Wrath and Ruin]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

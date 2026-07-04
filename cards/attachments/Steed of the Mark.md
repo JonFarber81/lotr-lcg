@@ -31,3 +31,9 @@ Attach to a **_Gondor_** or **_Rohan_** hero.
 > — The Return of the King
 
 **Pack:** [[The Morgul Vale]] #139
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

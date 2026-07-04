@@ -26,3 +26,9 @@ Attach to a **_Ranger_** or (Leadership) hero.
 **Response:** After a **_Signal_** attachment is attached to a hero, exhaust Rune-master to add 1 resource to that hero's resource pool.
 
 **Pack:** [[A Storm on Cobas Haven]] #110
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

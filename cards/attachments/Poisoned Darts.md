@@ -27,3 +27,9 @@ If unattached, attach Poisoned Darts to the next eligible enemy that enters the 
 **Response**: When the attached enemy would take any amount of damage, increase that amount by 1.
 
 **Pack:** [[ALeP - The Brandywine Pursuit]] #81
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

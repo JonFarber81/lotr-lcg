@@ -28,3 +28,9 @@ Play only if you control 2 or fewer heroes.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Flight of the Stormcaller]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

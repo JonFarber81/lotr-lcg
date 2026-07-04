@@ -26,3 +26,9 @@ Attach to a (Spirit) or **_Scout**_ character. Limit 1 per character.
 **Encounter Action:** Exhaust attached character and discard Grey Cloak to choose a non-unique enemy in the staging area. That enemy does not make engagement checks against you this phase.
 
 **Pack:** [[The Withered Heath]] #9
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

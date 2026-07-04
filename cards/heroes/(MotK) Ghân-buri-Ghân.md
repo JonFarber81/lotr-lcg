@@ -36,3 +36,9 @@ X is the Threat of the active location.
 > — The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

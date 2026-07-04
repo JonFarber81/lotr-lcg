@@ -36,3 +36,9 @@ Cannot attack or defend.
 > — The Hobbit
 
 **Pack:** [[Fire in the Night]] #63
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

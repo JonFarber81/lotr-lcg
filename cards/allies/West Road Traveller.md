@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > — The Return of the King
 
 **Pack:** [[Return to Mirkwood]] #121
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

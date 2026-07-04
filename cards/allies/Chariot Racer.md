@@ -35,3 +35,9 @@ Chariot Racer cannot have more than 2 of the same attribute token.
 > *They journeyed in great wains, and their chieftains fought in chariots. —The Return of the King*
 
 **Pack:** [[ALeP - Strange News in Bree]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

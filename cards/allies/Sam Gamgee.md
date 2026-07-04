@@ -31,3 +31,12 @@ Reduce the cost to play Sam Gamgee by 2 if you control Frodo Baggins.
 **Response:** After a player raises his threat, that player may spend 1 (Spirit) resource to ready Sam Gamgee. He gets +1 WP, +1 ATK and +1 DEF until the end of the round. (Limit once per round.)
 
 **Pack:** [[The Thing in the Depths]] #35
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Gaffer Ever After]]**
+- An early-game turn might look something like this: Exhaust Steward, gain 2, play Gaffer. Quest with [[Sam Gamgee]], [[Pippin (Lore)|Pippin]], and Gaffer for 6. Engage an enemy, draw a card with Pippin, ready Sam and boost his stats. Cancel the attack with Gaffer. Kill the enemy with Sam (2) + [[Merry (Tactics)|Merry]] (3) + [[Dagger of Westernesse]] (2). Repeat.

@@ -23,3 +23,9 @@ Secrecy 2.
 **Action:** Search the top 5 cards of the encounter deck for any 1 non-objective card worth no victory points and add it to your victory display. Shuffle the encounter deck. Add Out of the Wild to the victory display.
 
 **Pack:** [[Road to Rivendell]] #36
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

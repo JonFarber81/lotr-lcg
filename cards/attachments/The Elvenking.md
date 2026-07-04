@@ -31,3 +31,9 @@ Attach to a **_Silvan_** hero.
 > — The Hobbit
 
 **Pack:** [[Fire in the Night]] #57
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

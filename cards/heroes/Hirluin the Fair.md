@@ -36,3 +36,9 @@ You may use resources from Hirluin the Fair's resource pool to pay for **_Outlan
 > — The Return of the King
 
 **Pack:** [[The Steward's Fear]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

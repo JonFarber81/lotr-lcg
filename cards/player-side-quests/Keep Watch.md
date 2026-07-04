@@ -30,3 +30,9 @@ While Keep Watch is in the victory display, each non-unique enemy engaged with a
 > *"I called for the help of the Dúnedain, and their watch was doubled..." -Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[Beneath the Sands]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

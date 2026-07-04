@@ -275,8 +275,23 @@ def build_card_body(card: dict) -> str:
     return "\n".join(parts)
 
 
-def card_to_markdown(card: dict) -> str:
-    return GENERATED_COMMENT + build_front_matter(card) + "\n\n" + build_card_body(card)
+NOTES_MARKER = "\n\n---\n\n## Notes\n"
+NOTES_PLACEHOLDER = "\n\n---\n\n## Notes\n\n<!-- Tips, combos, and strategy notes -->\n"
+
+
+def extract_existing_notes(path: Path) -> str:
+    """Return the ## Notes section and everything after it from an existing file."""
+    if not path.exists():
+        return ""
+    content = path.read_text()
+    idx = content.find(NOTES_MARKER)
+    return content[idx:] if idx != -1 else ""
+
+
+def card_to_markdown(card: dict, existing_path=None) -> str:
+    generated = GENERATED_COMMENT + build_front_matter(card) + "\n\n" + build_card_body(card)
+    notes = extract_existing_notes(existing_path) if existing_path else ""
+    return generated + (notes if notes else NOTES_PLACEHOLDER)
 
 
 SAFE_NAME_RE = re.compile(r'[<>:"/\\|?*]')
@@ -312,7 +327,7 @@ def sync_cards(force: bool = False):
     written = updated = skipped = 0
     for card in player_cards:
         path = output_path(card, duplicate_heroes)
-        content = card_to_markdown(card)
+        content = card_to_markdown(card, existing_path=path)
         if path.exists() and path.read_text() == content:
             skipped += 1
             continue

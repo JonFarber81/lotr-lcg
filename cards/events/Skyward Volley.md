@@ -23,3 +23,9 @@ As an additional cost to play Skyward Volley, exhaust a ranged character you con
 **Combat Action:** Deal 2 damage to an enemy engaged with a player. Resolve that effect again for each copy of Skyward Volley currently in your discard pile (you may choose different targets).
 
 **Pack:** [[The Grey Havens]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

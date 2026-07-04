@@ -27,3 +27,9 @@ If unattached, attach Ithilien Pit to the next eligible enemy that enters the st
 Any character may choose attached enemy as the target of an attack.
 
 **Pack:** [[Encounter at Amon Dîn]] #64
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

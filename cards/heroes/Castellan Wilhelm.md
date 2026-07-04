@@ -31,3 +31,9 @@ Increase your threat elimination level by 2 for each ally you control with the w
 **Setup**: Search your collection for Ring Wall A and Ring Wall B and put them into play under your control (they are considered to be attached to your play area).
 
 **Pack:** [[ALeP - Fangs in the Dark]] #37
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

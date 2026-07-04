@@ -33,3 +33,9 @@ Cannot have attachments. **Setup:** Shuffle 2 copies of Stinker into the encount
 Immune to non-**_Gollum_** card effects. Gollum engages the first player. **Forced:** When Gollum is defeated, flip him to Sméagol and return him to his owner's control, exhausted.
 
 **Pack:** [[A Shadow in the East]] #72
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

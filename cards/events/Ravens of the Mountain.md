@@ -27,3 +27,9 @@ tags: [card, event, lore]
 > — The Hobbit
 
 **Pack:** [[On the Doorstep]] #11
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

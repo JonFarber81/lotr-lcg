@@ -32,3 +32,9 @@ While Aragorn is attacking, each other attacking character you control gets +1 A
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -31,3 +31,9 @@ Attach to a location. Limit 1 per location.
 > — The Hobbit
 
 **Pack:** [[The Withered Heath]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

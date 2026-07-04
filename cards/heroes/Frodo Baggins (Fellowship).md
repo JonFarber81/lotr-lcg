@@ -32,3 +32,9 @@ The first player gains control of Frodo Baggins.
 **If Frodo Baggins leaves play, the players lose the game.**
 
 **Pack:** [[ALeP - The Scouring of the Shire]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

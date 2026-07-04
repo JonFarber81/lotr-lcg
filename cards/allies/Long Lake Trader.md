@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Glóin, The Fellowship of the Ring
 
 **Pack:** [[The Wilds of Rhovanion]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

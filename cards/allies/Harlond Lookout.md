@@ -35,3 +35,9 @@ Devoted.
 > *The fleets passed out of the sight of the watchers in the havens, and their lights faded. —The Silmarillion*
 
 **Pack:** [[ALeP - The Glittering Caves]] #103
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

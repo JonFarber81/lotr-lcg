@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — Nori, The Hobbit
 
 **Pack:** [[Over Hill and Under Hill]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

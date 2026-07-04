@@ -27,3 +27,9 @@ Reduce the cost to play Book of Eldacar by 1 for each hero you control with a pr
 **Action:** Discard Book of Eldacar to play any (Tactics) event card in your discard pile as if it were in your hand. Then, place that event on the bottom of your deck.
 
 **Pack:** [[Encounter at Amon Dîn]] #59
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

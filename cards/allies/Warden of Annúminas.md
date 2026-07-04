@@ -35,3 +35,9 @@ Warden of Annúminas gets +1 WP for each enemy engaged with you.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Lost Realm]] #6
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

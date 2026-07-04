@@ -27,3 +27,9 @@ Feast of Plenty’s resource cost must be paid from a single hero’s resource p
 > *The feast was merry and the food all that his hunger could desire. —The Fellowship of the Ring*
 
 **Pack:** [[ALeP - Children of Eorl]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

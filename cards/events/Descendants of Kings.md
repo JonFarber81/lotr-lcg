@@ -27,3 +27,9 @@ Ready up to X **_Dúnedain_** characters you control. X is the number of enemies
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[Escape from Mount Gram]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

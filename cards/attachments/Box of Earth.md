@@ -32,3 +32,9 @@ Attach to a hero.
 > —Galadriel, The Fellowship of the Ring
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #43
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

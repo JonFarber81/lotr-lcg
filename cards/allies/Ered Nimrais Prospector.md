@@ -30,3 +30,9 @@ tags: [card, ally, lore]
 **Response:** After Ered Nimrais Prospector enters play, discard the top 3 cards of your deck. Then, choose and shuffle 1 card from your discard pile back into your deck.
 
 **Pack:** [[The Morgul Vale]] #141
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

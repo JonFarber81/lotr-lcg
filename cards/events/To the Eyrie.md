@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — The Hobbit
 
 **Pack:** [[A Journey to Rhosgobel]] #54
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

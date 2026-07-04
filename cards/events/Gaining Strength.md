@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — Aragorn, The Return of the King
 
 **Pack:** [[The Steward's Fear]] #3
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

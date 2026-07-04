@@ -31,3 +31,9 @@ Attach to a hero. Restricted.
 > — The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #42
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

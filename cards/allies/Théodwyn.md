@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > —Háma, The Two Towers
 
 **Pack:** [[ALeP - Children of Eorl]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

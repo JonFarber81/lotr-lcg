@@ -35,3 +35,9 @@ Pelargir Shipwright gets +1 WP for each hero you control with a printed (Spirit)
 > — Aragorn, The Return of the King
 
 **Pack:** [[Assault on Osgiliath]] #86
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

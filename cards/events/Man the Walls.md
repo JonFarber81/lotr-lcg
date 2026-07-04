@@ -22,3 +22,9 @@ tags: [card, event, leadership]
 Play only if no other copies of Man the Walls have been played this round. **Planning Action**: Reduce the cost of the next ally played by each player this phase by 1. Those allies cannot quest this round.
 
 **Pack:** [[The Ghost of Framsburg]] #86
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -26,3 +26,9 @@ Attach to a character.
 **Quest Action:** Discard Grappling Hook and exhaust attached character to commit attached character to the quest, using its ATK instead of its WP (or instead of its DEF if the current quest has the siege keyword).
 
 **Pack:** [[The Grey Havens]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

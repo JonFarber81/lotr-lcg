@@ -30,3 +30,20 @@ tags: [card, ally, lore]
 **Action:** Exhaust Master of the Forge to search the top 5 cards of your deck for any 1 attachment and add it to your hand. Shuffle the other cards back into your deck.
 
 **Pack:** [[Shadow and Flame]] #134
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- This Vilya deck in particular stands out for 5 reasons:
+1. A focus on making Vilya effective very quickly. This means dedicating several card slots ([[Master of the Forge]], [[Heed the Dream]], [[Gather Information]]) to ensure Vilya is found fast, and it means having very few cards in the deck that will be duds if Vilya gets used before an [[Imladris Stargazer]] is found.
+- Mulligan for [[Vilya]] or [[Master of the Forge]]. You might consider keeping a hand with [[Gather Information]] if it looks like you'll be able to clear it in a turn or two. If you start with the Master, you will get to see [[Arwen Undómiel]] really pull her weight, because you can discard a card to give [[Elrond]] a resource, then play the Master, exhaust him, hopefully find Vilya, and still have 2 resources leftover to play it. Since the deck has such a high concentration of strong allies, you can start using Vilya on turn 1.
+- Arwen is one of the best heroes in the entire game, and overall my most-used hero by a large margin. Her ability to regulate the resource/card balance with [[Elven-light]] is incredible, and at the same time she quests well and offers access to the  sphere. But in this particular deck she's just phenomenal. Her extra resource enables a turn 1 [[Master of the Forge]]->[[Vilya]], allowing you to use Vilya 1 turn ahead of when you might otherwise be able to use it. In a Vilya deck, getting an extra use out of Vilya is often like getting an extra 4 or 5 resources. So imagine Arwen with an extra 4 starting resources, and that's what she often feels like in this deck. She also enables the even more awesome turn 1 Vilya+Stargazer. Getting a turn 1 Vilya+[[Unexpected Courage]] is also pretty sweet.
+- My strategy for ordering the top 5 cards is somewhat dependent on the quest and the immediate situation, but generally I arrange for high cost cards to be played with Vilya, and low cost cards like [[Heed the Dream]], [[Unexpected Courage]], or [[Master of the Forge]] to be drawn into hand.
+- He can also be used to shuffle up your deck when your Stargazer reveals that your next 5 cards are all lame. There have been a few times where in late game I am searching hard for a specific card in my deck like [[Faramir]]. You can use [[Master of the Forge]] to keep shuffling your deck, then checking the top 5 with [[Imladris Stargazer]] to see if he's there. If he is, you move him to the top of the deck and draw him with [[Elven-light]]. By having multiple Masters and Stargazers out, they become remarkably effective deck searchers.
+
+**[[Dunedain Trappers]]**
+- The crucial cards in the deck, which it probably won't work without, are 3x [[Master of the Forge]], 3x [[Forest Snare]]. [[Celebrían's Stone]] is the only way to get the Spirit icon, so if you don't have two or three you should put in some [[Song of Travel]].

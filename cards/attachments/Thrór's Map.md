@@ -31,3 +31,9 @@ Attach to a hero.
 > — Gandalf, The Hobbit
 
 **Pack:** [[Over Hill and Under Hill]] #13
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

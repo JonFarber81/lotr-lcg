@@ -29,3 +29,15 @@ tags: [card, event, leadership]
 > — The Return of the King
 
 **Pack:** [[Core Set]] #22
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[Back to Basics - A Killer Deck Using Cards from 1 Core Set]]**
+- * [[For Gondor!]] is there for when you need that one big attack, against the likes of Chieftain Ufthak, Hill Troll or Spawn of Ungoliant.
+
+**[[My strongest Core Set deck for solo play - revised for 2022]]**
+- Finally, [[For Gondor!]] is included to compensate for the lack of strong attackers. Sometimes you just need this extra boost to slay a mighty foe engaged with you. What's cool is that [[For Gondor!]] gives some fighting capabilities even to cards like [[Snowbourn Scout]] (swarm of weaker allies can turn into killing machines for a phase).

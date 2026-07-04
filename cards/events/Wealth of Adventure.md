@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > —Frodo, The Fellowship of the Ring
 
 **Pack:** [[ALeP - Children of Eorl]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

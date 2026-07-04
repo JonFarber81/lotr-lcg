@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[The Dunland Trap]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

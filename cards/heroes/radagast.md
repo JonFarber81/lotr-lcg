@@ -36,3 +36,9 @@ While playing a **_Creature_** ally, Radagast gains the printed (Leadership), (S
 > *-Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[The Fate of Wilderland]] #145
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

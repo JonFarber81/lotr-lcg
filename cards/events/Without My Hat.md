@@ -23,3 +23,9 @@ Limit 1 copy of Without My Hat in the victory display.
 **Action**: Add Without My Hat to the victory display to search your collection for an attachment. If no copy of that attachment was in your deck during setup, add it to your hand.
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #154
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

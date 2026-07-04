@@ -31,3 +31,9 @@ tags: [card, event, leadership]
 > —The Return of the King
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

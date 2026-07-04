@@ -35,3 +35,9 @@ tags: [card, hero, tactics]
 > — The Two Towers
 
 **Pack:** [[The Voice of Isengard]] #1
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

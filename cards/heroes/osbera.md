@@ -40,3 +40,9 @@ Cannot have restricted attachments. If you are not engaged with an enemy, flip O
 > *“Not eaten up by Wargs or goblins or wicked bears yet I see.” —Beorn, The Hobbit*
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #145
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

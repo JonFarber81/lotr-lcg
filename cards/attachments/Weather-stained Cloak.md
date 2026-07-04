@@ -31,3 +31,9 @@ While attached character is commited to the quest, Weather-stained Cloak gains: 
 > — The Return of the King
 
 **Pack:** [[The Dread Realm]] #148
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

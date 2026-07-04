@@ -31,3 +31,9 @@ Attached location gets -1 Threat.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Core Set]] #56
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

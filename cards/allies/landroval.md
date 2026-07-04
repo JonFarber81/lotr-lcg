@@ -32,3 +32,9 @@ Landroval cannot have restricted attachments.
 **Response:** After a hero card is destroyed, return Landroval to his owner's hand to put that hero back into play, with 1 damage token on it. (Limit once per game.)
 
 **Pack:** [[A Journey to Rhosgobel]] #53
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

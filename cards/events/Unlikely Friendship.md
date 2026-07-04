@@ -28,3 +28,9 @@ Play only if you control a unique character with the **_Silvan_** trait and anot
 > — The Return of the King
 
 **Pack:** [[The Sands of Harad]] #7
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

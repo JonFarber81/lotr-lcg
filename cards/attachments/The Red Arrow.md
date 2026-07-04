@@ -31,3 +31,9 @@ Attached hero gets +1 WP.
 > *"The Red Arrow has not been seen in the Mark in all my years!" -Théoden, The Return of the King*
 
 **Pack:** [[Beneath the Sands]] #58 · Limit 1 per deck
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

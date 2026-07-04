@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — The Two Towers
 
 **Pack:** [[The City of Corsairs]] #144
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

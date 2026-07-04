@@ -35,3 +35,15 @@ tags: [card, ally, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Watcher in the Water]] #58
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
+
+**[[The One Deck]]**
+- 4. Combat ready on turn 1. Many Vilya decks take a turtling approach, hoping to avoid combat for several turns while their board state comes together. This does not work against the more punishing nightmare quests. Thanks to [[Éowyn (Tactics)|Éowyn]], this Vilya deck can have a very aggressive start, and get over whatever initial hurdle the encounter deck has set up to give itself some breathing room to set up. In theory, this deck could handle a 6  and 4  enemy that start the game engaged with you by questing no one, defending with [[Elrond]] and [[Arwen Undómiel]], and killing both enemies with [[Éowyn (Spirit)|Éowyn]].
+- Mulligan for [[Vilya]] or [[Master of the Forge]]. You might consider keeping a hand with [[Gather Information]] if it looks like you'll be able to clear it in a turn or two. If you start with the Master, you will get to see [[Arwen Undómiel]] really pull her weight, because you can discard a card to give [[Elrond]] a resource, then play the Master, exhaust him, hopefully find Vilya, and still have 2 resources leftover to play it. Since the deck has such a high concentration of strong allies, you can start using Vilya on turn 1.
+- The other aspect that makes Elrond a great hero in this deck is of course his ability to pay for allies of any sphere. With [[Arwen Undómiel]] discarding and [[Steward of Gondor]], he can play a big ally directly from your hand every turn.
+- [[Elven-light]] with [[Arwen Undómiel]] just feels like cheating. What I find best about it is the laziness it allows you in balancing your cost curve. Got lots of cards, but not enough resources? Discard cards to Arwen to balance it out. Got lots of resources but not enough cards? Spend those resources on Elven-light to equalize.

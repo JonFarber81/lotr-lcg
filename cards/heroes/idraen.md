@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — Galadriel, The Two Towers
 
 **Pack:** [[The Three Trials]] #25
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

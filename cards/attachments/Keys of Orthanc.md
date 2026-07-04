@@ -31,3 +31,9 @@ Attach to a hero.
 > — Gandalf, The Two Towers
 
 **Pack:** [[The Voice of Isengard]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

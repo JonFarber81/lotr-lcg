@@ -35,3 +35,9 @@ While there is a side quest in the victory display, Halfling Bounder gains: "**R
 > — Sam Gamgee, The Fellowship of the Ring
 
 **Pack:** [[The Sands of Harad]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

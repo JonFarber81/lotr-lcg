@@ -31,3 +31,9 @@ Attached character gets +1 ATK  (+2 ATK instead when attacking an enemy with an 
 > — The Two Towers
 
 **Pack:** [[The City of Corsairs]] #145
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

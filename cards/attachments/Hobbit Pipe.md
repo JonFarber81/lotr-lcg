@@ -31,3 +31,9 @@ Attach to a **_Hobbit_** character. Limit 1 per character.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #15
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

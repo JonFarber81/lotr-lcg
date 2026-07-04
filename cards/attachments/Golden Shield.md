@@ -31,3 +31,9 @@ Attach to a **_Rohan_** hero. Restricted.
 > — The Return of the King
 
 **Pack:** [[The Flame of the West]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

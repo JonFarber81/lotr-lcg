@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > *-Gildor, The Fellowship of the Ring*
 
 **Pack:** [[Under the Ash Mountains]] #82
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

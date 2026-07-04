@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Dread Realm]] #140
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ Gimli gets +1 ATK for each damage token on him.
 > — The Two Towers
 
 **Pack:** [[Core Set]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

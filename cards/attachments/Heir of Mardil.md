@@ -31,3 +31,9 @@ Attach to a **_Noble_** hero.
 > — Denethor, The Return of the King
 
 **Pack:** [[Celebrimbor's Secret]] #113
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

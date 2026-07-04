@@ -27,3 +27,9 @@ tags: [card, event, spirit]
 > — Legolas, The Return of the King
 
 **Pack:** [[The Blood of Gondor]] #113
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

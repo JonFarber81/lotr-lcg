@@ -32,3 +32,9 @@ Attached character gets +1 ATK (+2 ATK instead if attacking an enemy not engaged
 > — The Fellowship of the Ring
 
 **Pack:** [[The Nîn-in-Eilph]] #88
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

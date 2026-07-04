@@ -31,3 +31,9 @@ Attached hero does not exhaust to commit to a quest.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Foundations of Stone]] #107
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

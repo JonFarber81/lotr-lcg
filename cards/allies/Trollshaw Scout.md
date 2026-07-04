@@ -32,3 +32,9 @@ Trollshaw Scout does not exhaust to attack.
 **Forced:** After Trollshaw Scout attacks, either discard it from play or discard 1 card from your hand.
 
 **Pack:** [[Foundations of Stone]] #104
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

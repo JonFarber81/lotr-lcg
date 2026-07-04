@@ -36,3 +36,9 @@ Secrecy 2.
 > — The Two Towers
 
 **Pack:** [[The Dunland Trap]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

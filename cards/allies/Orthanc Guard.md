@@ -35,3 +35,9 @@ tags: [card, ally, leadership]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[The Voice of Isengard]] #4
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -27,3 +27,9 @@ Attach to a hero.
 **Action:** Pay 1 resource from attached hero's resource pool to attach Dúnedain Remedy to another hero.
 
 **Pack:** [[The Drowned Ruins]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

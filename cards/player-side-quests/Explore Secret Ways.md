@@ -29,3 +29,9 @@ While this side quest is in the victory display, each location in the staging ar
 > *“I myself dared to pass the doors of the Necromancer in Dol Guldur, and secretly explored his ways...” -Gandalf, The Fellowship of the Ring*
 
 **Pack:** [[Race Across Harad]] #36
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

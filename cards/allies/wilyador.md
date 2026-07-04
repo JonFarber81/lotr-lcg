@@ -32,3 +32,9 @@ Cannot have restricted attachments.
 **Forced:** At the end of the round, discard Wilyador unless the players as a group spend 1 resource.
 
 **Pack:** [[The Land of Sorrow]] #117
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

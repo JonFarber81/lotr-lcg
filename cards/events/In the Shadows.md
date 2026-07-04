@@ -28,3 +28,9 @@ Lower the cost to play In the Shadows by 1 for each **_Hobbit_** or **_Ranger_**
 > — The Two Towers
 
 **Pack:** [[The Land of Shadow]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

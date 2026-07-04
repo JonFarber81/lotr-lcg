@@ -35,3 +35,9 @@ tags: [card, ally, spirit]
 > —Aragorn, The Fellowship of the Ring
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #44
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -28,3 +28,9 @@ Play only if you control a **_Noldor_** hero.
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Temple of the Deceived]] #61
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, hero, spirit]
 > — The Fellowship of the Ring
 
 **Pack:** [[The Black Riders]] #5
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

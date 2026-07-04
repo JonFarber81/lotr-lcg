@@ -36,3 +36,9 @@ While Elfhelm is ready, he gains:
 > — The Return of the King
 
 **Pack:** [[Messenger of the King Allies]] #100
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

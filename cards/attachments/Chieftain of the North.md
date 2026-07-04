@@ -30,3 +30,9 @@ Attach to a **_Ranger_** hero or Aragorn. Attached character gains the **_Warrio
 > *“Here is Aragorn son of Arathorn, chieftain of the Dúnedain…” —Faramir, The Return of the King*
 
 **Pack:** [[ALeP - Blood in the Isen]] #189
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

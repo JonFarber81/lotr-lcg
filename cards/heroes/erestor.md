@@ -36,3 +36,9 @@ At the end of the round, discard all cards in your hand.
 > — The Fellowship of the Ring
 
 **Pack:** [[The Treachery of Rhudaur]] #84
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

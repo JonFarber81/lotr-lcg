@@ -35,3 +35,9 @@ Cannot have attachments.
 > *There was just room to get the ponies through with a squeeze, when they had been unpacked and unsaddled. —The Hobbit*
 
 **Pack:** [[ALeP - Mustering of the Rohirrim]] #149
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

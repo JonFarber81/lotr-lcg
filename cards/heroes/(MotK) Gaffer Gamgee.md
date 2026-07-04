@@ -34,3 +34,9 @@ tags: [card, hero, lore]
 > *"Why? Why?s none of my business, or yours." ?The Fellowship of the Ring*
 
 **Pack:** [[Messenger of the King Allies]] #115
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

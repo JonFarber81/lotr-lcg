@@ -32,3 +32,9 @@ Cannot defend or have restricted attachments.
 **Response**: After Messenger of Manwë commits to the quest, give control of it to another player.
 
 **Pack:** [[ALeP - Fire on the Eastemnet]] #40
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

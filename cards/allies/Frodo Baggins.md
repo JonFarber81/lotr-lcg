@@ -36,3 +36,9 @@ tags: [card, ally, spirit]
 > —The Fellowship of the Ring
 
 **Pack:** [[ALeP - The Shire's Reckoning]] #14
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

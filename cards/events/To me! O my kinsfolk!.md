@@ -27,3 +27,9 @@ tags: [card, event, leadership]
 > — The Hobbit
 
 **Pack:** [[On the Doorstep]] #12
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

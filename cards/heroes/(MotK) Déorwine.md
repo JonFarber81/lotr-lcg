@@ -31,3 +31,9 @@ Sentinel.
 **Action:** While Déorwine is defending, spend 1 (Leadership) resource to cancel a shadow effect dealt to the attacking enemy. Any player may trigger this action.
 
 **Pack:** [[Messenger of the King Allies]] #60
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

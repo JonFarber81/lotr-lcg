@@ -31,3 +31,9 @@ Attach to a **_Gondor_** hero or Aragorn. Attached character gains the **_Healer
 > —Ioreth, The Return of the King
 
 **Pack:** [[ALeP - Blood in the Isen]] #186
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

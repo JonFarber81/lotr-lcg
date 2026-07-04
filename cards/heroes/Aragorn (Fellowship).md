@@ -37,3 +37,9 @@ Sentinel. The first player gains control of Aragorn.
 > — The Return of the King
 
 **Pack:** [[The Mountain of Fire]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

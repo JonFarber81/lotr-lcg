@@ -28,3 +28,9 @@ Play only before the resolving enemy attacks step.
 > — Aragorn, The Fellowship of the Ring
 
 **Pack:** [[The Lost Realm]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

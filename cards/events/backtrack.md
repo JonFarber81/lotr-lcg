@@ -27,3 +27,9 @@ Play only if the main quest has no keywords.
 > *“Well,” said Boromir, “when heads are at a loss bodies must serve...” -The Fellowship of the Ring*
 
 **Pack:** [[Race Across Harad]] #34
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

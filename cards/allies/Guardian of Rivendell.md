@@ -35,3 +35,9 @@ As an additional cost to play Guardian of Rivendell from your hand, you must dis
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Flight of the Stormcaller]] #10
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

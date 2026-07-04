@@ -35,3 +35,9 @@ tags: [card, hero, leadership]
 > *-The Return of the King*
 
 **Pack:** [[A Shadow in the East]] #2
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

@@ -35,3 +35,9 @@ tags: [card, ally, lore]
 > — Gandalf, The Fellowship of the Ring
 
 **Pack:** [[Flight of the Stormcaller]] #8
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

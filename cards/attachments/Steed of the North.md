@@ -30,3 +30,9 @@ Attach to a **_Dunedain_** or **_Ranger_** hero. Restricted.
 > *Their horses were strong and of proud bearing, but rough-haired... -The Return of the King*
 
 **Pack:** [[Race Across Harad]] #30
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->

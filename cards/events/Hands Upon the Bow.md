@@ -27,3 +27,9 @@ tags: [card, event, tactics]
 > — Haldir, The Fellowship of the Ring
 
 **Pack:** [[Shadow and Flame]] #131
+
+---
+
+## Notes
+
+<!-- Tips, combos, and strategy notes -->
