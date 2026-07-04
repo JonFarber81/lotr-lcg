@@ -1,74 +1,125 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --bg: #1a1a1e;
-  --surface: #26262c;
-  --surface2: #32323a;
-  --border: #3f3f48;
-  --text: #e8e6e1;
-  --text-dim: #888;
-  --leadership: #7b4fd4;
-  --tactics: #cc3333;
-  --spirit: #3388cc;
-  --lore: #336633;
-  --neutral: #888;
-  --baggins: #c8841a;
-  --fellowship: #c8841a;
-  --accent: #c8a860;
-  --danger: #cc4444;
+  --bg:          #0d0d10;
+  --surface:     #16161c;
+  --surface2:    #1f1f27;
+  --surface3:    #28282f;
+  --border:      #35353f;
+  --border-soft: #2a2a33;
+  --text:        #ede9e1;
+  --text-dim:    #7a7888;
+  --text-muted:  #4e4c58;
+
+  --leadership: #8b5cf6;
+  --tactics:    #dc2626;
+  --spirit:     #2563eb;
+  --lore:       #16a34a;
+  --neutral:    #71717a;
+  --baggins:    #d97706;
+  --fellowship: #d97706;
+
+  --accent:        #c8921a;
+  --accent-light:  #e0aa3a;
+  --accent-glow:   rgba(200, 146, 26, 0.25);
+  --accent-dim:    rgba(200, 146, 26, 0.12);
+  --danger:        #ef4444;
+  --danger-glow:   rgba(239, 68, 68, 0.2);
+
+  --shadow-sm:  0 1px 3px rgba(0,0,0,0.4);
+  --shadow-md:  0 4px 12px rgba(0,0,0,0.5);
+  --shadow-lg:  0 8px 24px rgba(0,0,0,0.6);
+  --shadow-xl:  0 16px 48px rgba(0,0,0,0.7);
+
+  --radius-sm: 4px;
+  --radius:    8px;
+  --radius-lg: 12px;
+
+  --font-ui:      'Inter', system-ui, sans-serif;
+  --font-display: 'Cinzel', Georgia, serif;
+
+  --transition: 150ms ease;
 }
 
 body {
-  font-family: system-ui, sans-serif;
+  font-family: var(--font-ui);
   background: var(--bg);
   color: var(--text);
-  font-size: 14px;
-  line-height: 1.4;
+  font-size: 13px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
 }
+
+/* Scrollbar */
+::-webkit-scrollbar              { width: 6px; height: 6px; }
+::-webkit-scrollbar-track        { background: transparent; }
+::-webkit-scrollbar-thumb        { background: var(--border); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover  { background: var(--text-muted); }
 
 button {
   cursor: pointer;
   border: 1px solid var(--border);
   background: var(--surface2);
   color: var(--text);
-  border-radius: 4px;
-  padding: 4px 10px;
-  font-size: 13px;
-  transition: background 0.1s;
+  border-radius: var(--radius-sm);
+  padding: 5px 12px;
+  font-size: 12.5px;
+  font-family: var(--font-ui);
+  font-weight: 500;
+  transition: background var(--transition), border-color var(--transition), color var(--transition), box-shadow var(--transition);
+  outline: none;
 }
 
-button:hover { background: var(--border); }
-button:disabled { opacity: 0.4; cursor: default; }
+button:hover:not(:disabled) {
+  background: var(--surface3);
+  border-color: var(--text-muted);
+}
+
+button:focus-visible {
+  box-shadow: 0 0 0 2px var(--accent-glow);
+  border-color: var(--accent);
+}
+
+button:disabled { opacity: 0.35; cursor: default; }
 
 input[type="text"], select {
   background: var(--surface2);
   border: 1px solid var(--border);
   color: var(--text);
-  border-radius: 4px;
-  padding: 5px 8px;
-  font-size: 13px;
+  border-radius: var(--radius-sm);
+  padding: 6px 10px;
+  font-size: 12.5px;
+  font-family: var(--font-ui);
   outline: none;
   width: 100%;
+  transition: border-color var(--transition), box-shadow var(--transition);
 }
 
-input[type="text"]:focus, select:focus {
+input[type="text"]::placeholder { color: var(--text-muted); }
+
+input[type="text"]:focus,
+select:focus {
   border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-dim);
 }
 
+select { cursor: pointer; }
+
+/* Sphere badges */
 .sphere-badge {
   display: inline-block;
-  padding: 1px 6px;
-  border-radius: 3px;
-  font-size: 11px;
-  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 20px;
+  font-size: 10px;
+  font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
 }
 
 .sphere-leadership { background: var(--leadership); color: #fff; }
-.sphere-tactics    { background: var(--tactics); color: #fff; }
-.sphere-spirit     { background: var(--spirit); color: #fff; }
-.sphere-lore       { background: var(--lore); color: #fff; }
-.sphere-neutral    { background: var(--neutral); color: #fff; }
-.sphere-baggins    { background: var(--baggins); color: #fff; }
+.sphere-tactics    { background: var(--tactics);    color: #fff; }
+.sphere-spirit     { background: var(--spirit);     color: #fff; }
+.sphere-lore       { background: var(--lore);       color: #fff; }
+.sphere-neutral    { background: var(--neutral);    color: #fff; }
+.sphere-baggins    { background: var(--baggins);    color: #fff; }
 .sphere-fellowship { background: var(--fellowship); color: #fff; }

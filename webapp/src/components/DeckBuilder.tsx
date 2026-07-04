@@ -172,22 +172,24 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
                 key={card.code}
                 className={`card-tile sphere-${card.sphere_code} ${qty > 0 ? "in-deck" : ""}`}
               >
-                <img
-                  className="card-tile-img"
-                  src={`/images/${card.code}.png`}
-                  alt={card.name}
-                  loading="lazy"
-                />
-                {qty > 0 && (
-                  <div className="card-qty-badge">{qty}</div>
-                )}
-                <div className="card-tile-footer">
-                  <span className="card-tile-name">
-                    {card.is_unique && "◆ "}{card.name}
-                  </span>
-                  {card.cost != null && (
-                    <span className="card-tile-cost">{card.cost}</span>
+                <div className="card-tile-img-wrap">
+                  <img
+                    className="card-tile-img"
+                    src={`/images/${card.code}.png`}
+                    alt={card.name}
+                    loading="lazy"
+                  />
+                  {qty > 0 && (
+                    <div className="card-qty-badge">{qty}</div>
                   )}
+                  <div className="card-tile-footer">
+                    <span className="card-tile-name">
+                      {card.is_unique && "◆ "}{card.name}
+                    </span>
+                    {card.cost != null && (
+                      <span className="card-tile-cost">{card.cost}</span>
+                    )}
+                  </div>
                 </div>
                 <div className="card-tile-controls">
                   <button
