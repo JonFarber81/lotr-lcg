@@ -60,6 +60,65 @@ Parses all `.o8d` files in `decks/` and generates deck notes with links to card 
 
 ---
 
+## Deck Builder Web App
+
+A local browser-based deck builder lives in `webapp/`. Pick 3 heroes, browse eligible player cards, and export a valid `.o8d` file for Dragn or OCTGN.
+
+```bash
+# one-time setup
+ln -s $(pwd)/cards/images webapp/public/images
+cd webapp && npm install
+
+# prepare data (re-run after sync_cards.py)
+cd .. && python scripts/build_cards_json.py
+
+# start it
+cd webapp && npm run dev   # → http://localhost:5174
+```
+
+### Telling the app what you own
+
+The **Collection** tab lists every pack, grouped by cycle. Check off what you own (a cycle's header checkbox toggles the whole cycle at once). With the **"Owned only"** toggle in the header enabled, the hero picker and card browser only show cards from packs you own.
+
+Your collection is saved in the browser's `localStorage` automatically — no further steps needed for day-to-day use. Two ways to manage it as a file:
+
+- **Export** — the *Export collection.json* button on the Collection tab downloads your current collection.
+- **Import** — the *Import…* button loads a `collection.json` file back in.
+
+The file is a flat map of RingsDB pack code → `1` (owned) or `0` (not owned), so you can also edit it by hand:
+
+```json
+{
+  "Core": 1,
+  "HfG": 1,
+  "CatC": 1,
+  "KD": 0,
+  "OHaUH": 1
+}
+```
+
+Pack codes are listed in `webapp/public/packs.json` (also visible in RingsDB set URLs, e.g. `ringsdb.com/set/KD`). Packs missing from the file count as **not owned**; if you've never configured a collection at all, everything shows.
+
+To make a collection survive a cleared browser (or carry to another machine), drop your exported file at `webapp/public/collection.json` — it seeds the app on first run.
+
+### Saving decks
+
+- The deck you're working on **auto-saves** — refreshing the page picks up where you left off.
+- **Save Deck** in the header stores it under its name; the **My Decks** tab lists saved decks to reopen or delete. Saving again under the same name updates it.
+
+### Importing decks
+
+Both importers live at the top of the **My Decks** tab and open the deck straight into the builder for editing:
+
+- **Import .o8d…** — load any OCTGN/Dragn deck file, including ones exported from this app (full round-trip: export, reload, keep editing). Sideboards are skipped.
+- **Import from RingsDB** — paste a published decklist URL (e.g. `https://ringsdb.com/decklist/view/961/…`) or just its numeric ID.
+
+Cards the importer doesn't recognize (e.g. from packs newer than your last `sync_cards.py`) are skipped with a warning listing them.
+
+Contract decks are supported: with Bond of Friendship in the deck the builder allows (and requires) 4 heroes and caps every card at 2 copies; The Grey Wanderer, Messenger of the King, and At the End of All Things adjust the hero count likewise, and Council of the Wise enforces 1 copy per card. Other contract deck-building rules (Bond's 10-per-sphere requirement, Three Hunters' no-allies rule, etc.) show as warnings in the deck panel, which also displays type totals, a cost curve, and a sphere breakdown.
+
+---
+
 ## Example Dataview Queries
 
 Once cards are synced, use Dataview in any note to query the vault:

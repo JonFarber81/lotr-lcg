@@ -29,4 +29,11 @@ export interface DeckState {
   deck: DeckMap;
 }
 
-export type Phase = "heroes" | "deck";
+export type Phase = "heroes" | "deck" | "collection" | "decks";
+
+export interface Pack {
+  code: string;
+  name: string;
+  cycle: string;
+  available: string;
+}

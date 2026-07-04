@@ -221,6 +221,16 @@
   position: relative;
 }
 
+/* Landscape cards (player side quests, contracts) use the flipped aspect ratio */
+.card-tile.landscape .card-tile-img-wrap {
+  aspect-ratio: 600 / 419;
+}
+
+/* Contracts are double-sided (both faces stacked in one image) — show only the top face */
+.card-tile.two-sided .card-tile-img {
+  object-position: top center;
+}
+
 .card-tile-img {
   position: absolute;
   inset: 0;
@@ -452,6 +462,14 @@
   width: 100%;
   aspect-ratio: 419 / 600;
   object-fit: cover;
+}
+
+.card-popup.landscape img {
+  aspect-ratio: 600 / 419;
+}
+
+.card-popup.two-sided img {
+  object-position: top center;
 }
 
 @keyframes popup-in {

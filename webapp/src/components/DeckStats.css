@@ -1,0 +1,179 @@
+.deck-stats {
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--border-soft);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.stats-types {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.stats-type {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: var(--text-dim);
+  white-space: nowrap;
+}
+
+.stats-type-count {
+  font-weight: 700;
+  color: var(--text);
+}
+
+.stats-swatch {
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+
+/* Segment colors — types */
+.seg-type-ally              { background: #5e93c9; }
+.seg-type-attachment        { background: #58a87a; }
+.seg-type-event             { background: #c9855e; }
+.seg-type-player-side-quest { background: #9a7fc9; }
+
+/* Segment colors — spheres (reuse the sphere palette) */
+.seg-sphere-leadership { background: var(--leadership); }
+.seg-sphere-tactics    { background: var(--tactics); }
+.seg-sphere-spirit     { background: var(--spirit); }
+.seg-sphere-lore       { background: var(--lore); }
+.seg-sphere-neutral    { background: var(--neutral); }
+.seg-sphere-baggins,
+.seg-sphere-fellowship { background: var(--baggins); }
+
+/* Curve header + breakdown toggle */
+.curve-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: -4px;
+}
+
+.curve-title {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-muted);
+}
+
+.curve-toggle {
+  display: flex;
+  gap: 2px;
+  background: var(--surface2);
+  border: 1px solid var(--border-soft);
+  border-radius: 4px;
+  padding: 1px;
+}
+
+.curve-toggle-btn {
+  border: none;
+  background: transparent;
+  font-size: 10px;
+  padding: 2px 8px;
+  border-radius: 3px;
+  color: var(--text-dim);
+  cursor: pointer;
+}
+
+.curve-toggle-btn.active {
+  background: var(--surface3);
+  color: var(--accent-light);
+  font-weight: 600;
+}
+
+/* Cost curve */
+.cost-curve {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+  height: 64px;
+}
+
+.cost-col {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+}
+
+.cost-count {
+  font-size: 10px;
+  color: var(--text-dim);
+  line-height: 1;
+  min-height: 10px;
+}
+
+.cost-bar-track {
+  flex: 1;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  margin-top: 2px;
+}
+
+/* Stacked bar: segments flex-grow proportionally to their count */
+.cost-bar-stack {
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse; /* first segment sits at the bottom */
+  border-radius: 2px 2px 0 0;
+  overflow: hidden;
+}
+
+.cost-seg {
+  min-height: 2px;
+  opacity: 0.9;
+}
+
+.cost-seg:hover {
+  opacity: 1;
+}
+
+.cost-label {
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 3px;
+  line-height: 1;
+}
+
+/* Sphere breakdown */
+.stats-spheres {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.stats-sphere {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+/* Contract warnings */
+.deck-warnings {
+  margin: 10px 14px 0;
+  padding: 8px 10px;
+  background: rgba(245, 158, 11, 0.08);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.deck-warning {
+  font-size: 11px;
+  line-height: 1.4;
+  color: #f59e0b;
+}

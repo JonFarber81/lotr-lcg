@@ -49,6 +49,50 @@
   text-shadow: 0 0 20px var(--accent-glow);
 }
 
+/* Nav */
+.header-nav {
+  display: flex;
+  gap: 2px;
+  background: var(--surface2);
+  border: 1px solid var(--border-soft);
+  border-radius: 6px;
+  padding: 2px;
+}
+
+.nav-btn {
+  border: none;
+  background: transparent;
+  font-size: 12px;
+  padding: 4px 12px;
+  border-radius: 4px;
+  color: var(--text-dim);
+}
+
+.nav-btn:hover { background: var(--surface3); }
+
+.nav-btn.active {
+  background: var(--surface3);
+  color: var(--accent-light);
+  font-weight: 600;
+}
+
+/* Owned-only toggle */
+.owned-toggle {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-dim);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.owned-toggle input[type="checkbox"] {
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
 .deck-name-input {
   width: 200px;
   font-size: 13px;

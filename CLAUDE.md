@@ -213,7 +213,7 @@ python scripts/rename_to_title_case.py             # execute
 
 ### build_cards_json.py
 
-Extracts card data from the RingsDB cache and writes `webapp/public/cards.json` for the deck builder web app. Run this once after `sync_cards.py`.
+Extracts card data from the RingsDB cache and writes `webapp/public/cards.json` plus `webapp/public/packs.json` (pack list grouped by cycle, used by the collection screen) for the deck builder web app. Run this once after `sync_cards.py`.
 
 ```bash
 python scripts/build_cards_json.py
@@ -224,6 +224,11 @@ python scripts/build_cards_json.py
 ## Deck Builder Web App
 
 A browser-based deck builder lives in `webapp/`. Pick 3 heroes, browse eligible cards by type (Allies, Attachments, Events…), and export a valid `.o8d` file for Dragn or OCTGN.
+
+**Collection & saved decks:**
+- **Collection tab** — check off owned packs, grouped by cycle. Stored in `localStorage`; export to / import from a `collection.json` file (`{"<pack_code>": 0|1}`). Dropping a `collection.json` into `webapp/public/` seeds the collection on first run.
+- **My Decks tab** — named deck saves in `localStorage`; the in-progress deck also auto-saves so a refresh never loses work. Also imports decks for editing: `.o8d` files (matched by `octgnid`) and published RingsDB decklists by URL/ID (fetched client-side from `/api/public/decklist/{id}.json`; RingsDB allows CORS).
+- **"Owned only" header toggle** — filters the hero picker and card browser to owned packs (policy lives in `webapp/src/collection.ts` → `isPackOwned`).
 
 ### First-time setup
 

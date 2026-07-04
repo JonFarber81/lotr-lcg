@@ -1,10 +1,13 @@
 import { useState, useMemo } from "react";
 import type { Card, DeckMap } from "../types";
-import { isCardEligible, deckSize } from "../eligibility";
+import { isCardEligible, deckSize, copyLimit, contractWarnings } from "../eligibility";
+import type { DeckEntry } from "../eligibility";
+import DeckStats from "./DeckStats";
 import "./DeckBuilder.css";
 
 interface Props {
-  allCards: Card[];
+  allCards: Card[]; // full list — resolves deck entries even for unowned cards
+  browseCards: Card[]; // what the browser grid offers (owned-only when filtered)
   heroes: Card[];
   deck: DeckMap;
   setCardQty: (code: string, qty: number) => void;
@@ -46,7 +49,7 @@ function matchesCost(card: Card, pill: CostPill): boolean {
   return card.cost === Number(pill);
 }
 
-export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Props) {
+export default function DeckBuilder({ allCards, browseCards, heroes, deck, setCardQty }: Props) {
   const [search, setSearch]         = useState("");
   const [typeFilter, setTypeFilter]   = useState("all");
   const [sphereFilter, setSphereFilter] = useState("all");
@@ -56,10 +59,22 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
   const [minATK, setMinATK]           = useState(0);
   const [popup, setPopup] = useState<{ card: Card; x: number; y: number } | null>(null);
 
+  const LANDSCAPE_TYPES = new Set(["player-side-quest", "contract"]);
+
+  function isLandscape(card: Card) {
+    return LANDSCAPE_TYPES.has(card.type_code);
+  }
+
+  function isTwoSided(card: Card) {
+    return card.type_code === "contract";
+  }
+
   function handleCardMouseEnter(card: Card, e: React.MouseEvent<HTMLDivElement>) {
     const rect = e.currentTarget.getBoundingClientRect();
     const POPUP_W = 300;
-    const POPUP_H = Math.round(POPUP_W * 600 / 419);
+    const POPUP_H = isLandscape(card)
+      ? Math.round(POPUP_W * 419 / 600)
+      : Math.round(POPUP_W * 600 / 419);
     const GAP = 10;
     const vw = window.innerWidth;
     const vh = window.innerHeight;
@@ -71,8 +86,8 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
   }
 
   const eligible = useMemo(
-    () => allCards.filter((c) => c.type_code !== "hero" && isCardEligible(c, heroes)),
-    [allCards, heroes]
+    () => browseCards.filter((c) => c.type_code !== "hero" && isCardEligible(c, heroes)),
+    [browseCards, heroes]
   );
 
   const filtered = useMemo(() => {
@@ -96,16 +111,28 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
 
   const totalCards = deckSize(deck);
 
-  const deckByType = useMemo(() => {
-    const groups: Record<string, { card: Card; qty: number }[]> = {};
+  const deckEntries = useMemo(() => {
+    const entries: DeckEntry[] = [];
     for (const [code, qty] of deck) {
       const card = allCards.find((c) => c.code === code);
-      if (!card) continue;
-      if (!groups[card.type_code]) groups[card.type_code] = [];
-      groups[card.type_code].push({ card, qty });
+      if (card) entries.push({ card, qty });
+    }
+    return entries;
+  }, [deck, allCards]);
+
+  const deckByType = useMemo(() => {
+    const groups: Record<string, DeckEntry[]> = {};
+    for (const entry of deckEntries) {
+      if (!groups[entry.card.type_code]) groups[entry.card.type_code] = [];
+      groups[entry.card.type_code].push(entry);
     }
     return groups;
-  }, [deck, allCards]);
+  }, [deckEntries]);
+
+  const warnings = useMemo(
+    () => contractWarnings(heroes, deckEntries),
+    [heroes, deckEntries]
+  );
 
   return (
     <div className="deck-builder">
@@ -181,11 +208,12 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
         <div className="card-grid">
           {filtered.map((card) => {
             const qty = deck.get(card.code) ?? 0;
-            const atLimit = qty >= card.deck_limit;
+            const limit = copyLimit(card, deck);
+            const atLimit = qty >= limit;
             return (
               <div
                 key={card.code}
-                className={`card-tile sphere-${card.sphere_code} ${qty > 0 ? "in-deck" : ""}`}
+                className={`card-tile sphere-${card.sphere_code} ${qty > 0 ? "in-deck" : ""} ${isLandscape(card) ? "landscape" : ""} ${isTwoSided(card) ? "two-sided" : ""}`}
                 onMouseEnter={(e) => handleCardMouseEnter(card, e)}
                 onMouseLeave={() => setPopup(null)}
               >
@@ -218,7 +246,7 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
                     className="tile-btn tile-btn-add"
                     onClick={() => setCardQty(card.code, qty + 1)}
                     disabled={atLimit}
-                    title={atLimit ? `Deck limit: ${card.deck_limit}` : ""}
+                    title={atLimit ? `Deck limit: ${limit}` : ""}
                   >+</button>
                 </div>
               </div>
@@ -241,6 +269,16 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
             {totalCards} / 50
           </span>
         </div>
+
+        {warnings.length > 0 && (
+          <div className="deck-warnings">
+            {warnings.map((w) => (
+              <div key={w} className="deck-warning">⚠ {w}</div>
+            ))}
+          </div>
+        )}
+
+        <DeckStats entries={deckEntries} />
 
         <div className="deck-list">
           {DECK_SECTION_ORDER.filter((t) => deckByType[t]?.length).map((type) => (
@@ -278,7 +316,7 @@ export default function DeckBuilder({ allCards, heroes, deck, setCardQty }: Prop
 
       {popup && (
         <div
-          className="card-popup"
+          className={`card-popup ${isLandscape(popup.card) ? "landscape" : ""} ${isTwoSided(popup.card) ? "two-sided" : ""}`}
           style={{ left: popup.x, top: popup.y }}
         >
           <img

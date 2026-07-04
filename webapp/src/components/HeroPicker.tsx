@@ -5,6 +5,7 @@ import "./HeroPicker.css";
 interface Props {
   allCards: Card[];
   selected: Card[];
+  heroMax: number; // 3 normally; contracts can change it (e.g. Bond of Friendship → 4)
   onToggle: (hero: Card) => void;
 }
 
@@ -22,7 +23,7 @@ const MIN_STAT_OPTIONS = [
   { label: "4+",  value: 4 },
 ];
 
-export default function HeroPicker({ allCards, selected, onToggle }: Props) {
+export default function HeroPicker({ allCards, selected, heroMax, onToggle }: Props) {
   const [search, setSearch]           = useState("");
   const [sphereFilter, setSphereFilter] = useState<string>("all");
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
@@ -135,9 +136,9 @@ export default function HeroPicker({ allCards, selected, onToggle }: Props) {
               </button>
             </div>
           ))}
-          {selected.length < 3 && (
+          {selected.length < heroMax && (
             <div className="hero-slot-empty">
-              {3 - selected.length} more hero{3 - selected.length !== 1 ? "es" : ""} needed
+              {heroMax - selected.length} more hero{heroMax - selected.length !== 1 ? "es" : ""} needed
             </div>
           )}
         </div>
@@ -146,7 +147,7 @@ export default function HeroPicker({ allCards, selected, onToggle }: Props) {
       <div className="hero-grid">
         {visible.map((hero) => {
           const isSelected = selectedCodes.has(hero.code);
-          const isFull = !isSelected && selected.length >= 3;
+          const isFull = !isSelected && selected.length >= heroMax;
           return (
             <div
               key={hero.code}
