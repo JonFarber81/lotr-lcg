@@ -7,11 +7,54 @@ This is an Obsidian-based knowledge vault for **Lord of the Rings: The Card Game
 **Primary goals:**
 - Comprehensive card database synced from RingsDB
 - Scenario and quest notes with encounter deck details
-- Deck notes imported from OCTGN `.o8d` files and hand-built
+- Deck notes imported from OCTGN `.o8d` files and fetched from RingsDB
 - Strategy guides, combo notes, and tips
 - Rich interlinking between cards, decks, scenarios, and strategy content
 
 **Primary data source:** [RingsDB API](https://ringsdb.com/api/) — public data only (no auth required for cards and scenarios).
+
+---
+
+## Obsidian CLI
+
+The `obsidian` CLI is installed at `/opt/homebrew/bin/obsidian` and should be used **whenever possible** for vault operations. It communicates with the running Obsidian app, so backlinks and the vault index stay in sync.
+
+**Always target the vault explicitly:**
+```bash
+obsidian vault="lotr_lcg" <command>
+```
+
+**Key commands:**
+```bash
+obsidian vault="lotr_lcg" rename path="cards/heroes/Aragorn.md" name="Aragorn (Leadership)"
+obsidian vault="lotr_lcg" unresolved          # find broken wikilinks
+obsidian vault="lotr_lcg" backlinks file="Aragorn (Leadership)"
+obsidian vault="lotr_lcg" search "Dúnedain"
+obsidian vault="lotr_lcg" files               # list all files in vault
+obsidian vault="lotr_lcg" tags                # list all tags
+```
+
+Use `obsidian rename` (not plain `mv`) when renaming individual notes so Obsidian updates all backlinks automatically. For bulk renames, use `scripts/rename_to_title_case.py` (filesystem rename + wikilink patch) then let Obsidian detect the changes.
+
+---
+
+## File Naming Convention
+
+**All note filenames use the card/deck/scenario's display name directly — no slugs, no dashes replacing spaces.**
+
+| Type | Filename format | Example |
+|------|----------------|---------|
+| Card (unique name) | `{Card Name}.md` | `Steward of Gondor.md` |
+| Hero (multiple sphere versions) | `{Name} ({Sphere}).md` | `Aragorn (Leadership).md` |
+| Scenario / Pack | `{Pack Name}.md` | `Passage Through Mirkwood.md` |
+| Cycle | `{Cycle Name}.md` | `Shadows of Mirkwood.md` |
+| Deck | `{Deck Title}.md` | `Seastan's Single Core Set Solo.md` |
+
+**Rules:**
+- Preserve all special characters (apostrophes, accents, parentheses) — macOS and Obsidian handle them fine
+- Strip only truly illegal filename characters: `< > : " / \ | ? *`
+- Never slugify or lowercase filenames
+- Hero disambiguation always uses `(Sphere)` in parentheses, not a dash
 
 ---
 
@@ -43,33 +86,30 @@ Every generated card note uses this front matter schema:
 ```yaml
 ---
 title: "<card name>"
-ringsdb_id: "<pack_code><position, zero-padded to 3 digits>"
-ringsdb_slug: "<url slug from RingsDB>"
+ringsdb_id: "<pack_code><position>"
 type: Hero | Ally | Attachment | Event | Player Side Quest
 sphere: Leadership | Tactics | Spirit | Lore | Neutral | Baggins | Fellowship
-cost: <integer or "-" for heroes (threat cost)>
-threat_cost: <integer, heroes only>
+threat: <integer, heroes only>
+cost: <integer or X, non-heroes>
 willpower: <integer>
 attack: <integer>
 defense: <integer>
 hit_points: <integer>
 traits: [Trait1, Trait2]
-keywords: [Keyword1]
 unique: true | false
 pack: "<Adventure Pack or Core Set name>"
 pack_code: "<ringsdb pack code>"
 position: <integer>
+deck_limit: <integer>
 tags: [card, <type-lowercase>, <sphere-lowercase>]
 ---
 ```
 
-Heroes use `threat_cost` instead of `cost`. Non-combat cards (Events, Attachments) omit combat stats.
-
 **Wikilink conventions:**
-- Link to other cards: `[[Aragorn]]`
-- Link to traits (if we create trait index pages): `[[Dúnedain]]`
-- Link to a pack: `[[Core Set]]`
-- Link to a scenario: `[[Passage Through Mirkwood]]`
+- Single-version card: `[[Guard of the Citadel]]`
+- Multi-version hero: `[[Aragorn (Leadership)]]` or with display text `[[Aragorn (Leadership)|Aragorn]]`
+- Pack: `[[Core Set]]`
+- Scenario: `[[Passage Through Mirkwood]]`
 
 ---
 
@@ -79,12 +119,11 @@ Heroes use `threat_cost` instead of `cost`. Non-combat cards (Events, Attachment
 ---
 title: "<scenario name>"
 cycle: "<cycle name>"
-pack: "<adventure pack>"
 pack_code: "<ringsdb pack code>"
-quest_cards: <integer>
-encounter_sets: [Set1, Set2]
-difficulty: Easy | Medium | Hard | Brutal  # hand-assigned
-solo_friendly: true | false               # hand-assigned
+position: <integer>
+available: "<release date>"
+difficulty: ""  # Easy | Medium | Hard | Brutal — fill in manually
+solo_friendly: null  # true | false — fill in manually
 tags: [scenario, <cycle-slug>]
 ---
 ```
@@ -93,22 +132,28 @@ tags: [scenario, <cycle-slug>]
 
 ## Deck Note Format
 
-Generated from `.o8d` OCTGN files or hand-written.
+Generated from RingsDB API (`fetch_decklist.py`) or `.o8d` OCTGN files (`import_decks.py`).
 
 ```yaml
 ---
 title: "<deck name>"
-source: octgn | ringsdb | hand-built
-source_file: "<filename.o8d>"           # if from OCTGN
+ringsdb_id: <integer>
+version: "<version>"
+date_created: <YYYY-MM-DD>
+date_updated: <YYYY-MM-DD>
+starting_threat: <integer>
+last_pack: "<pack name>"
 heroes: [Hero1, Hero2, Hero3]
 spheres: [Leadership, Spirit]
-player_count: 1 | 2 | 3 | 4
-solo_optimized: true | false
-tags: [deck]
+player_count: 1
+nb_votes: <integer>
+nb_favorites: <integer>
+nb_comments: <integer>
+source: ringsdb | octgn | hand-built
+source_url: "<url>"
+tags: [deck, <pack-slug>]
 ---
 ```
-
-Body should include a card list grouped by type, and a strategy section.
 
 ---
 
@@ -119,8 +164,7 @@ All scripts live in `scripts/` and require Python 3.10+.
 ### Setup
 
 ```bash
-cd scripts
-pip install -r requirements.txt
+pip install -r scripts/requirements.txt
 ```
 
 ### sync_cards.py
@@ -128,12 +172,9 @@ pip install -r requirements.txt
 Pulls all player cards from RingsDB and writes/updates Markdown files in `cards/`.
 
 ```bash
-python scripts/sync_cards.py
+python scripts/sync_cards.py           # use cache if available
+python scripts/sync_cards.py --force   # re-fetch from API
 ```
-
-- Reads: `GET https://ringsdb.com/api/public/cards/`
-- Writes: one `.md` per card, organized by type
-- Safe to re-run — only updates files when content changes
 
 ### sync_scenarios.py
 
@@ -143,18 +184,32 @@ Pulls quest/scenario data from RingsDB and writes files to `scenarios/` and `cyc
 python scripts/sync_scenarios.py
 ```
 
+### fetch_decklist.py
+
+Fetches a public RingsDB decklist and generates a linked deck note.
+
+```bash
+python scripts/fetch_decklist.py 961
+python scripts/fetch_decklist.py https://ringsdb.com/decklist/view/961/...
+```
+
 ### import_decks.py
 
 Parses `.o8d` OCTGN XML files from `decks/` and generates linked Markdown deck notes.
 
 ```bash
-python scripts/import_decks.py
-# or for a single file:
-python scripts/import_decks.py decks/thercoonedeck-1.0.o8d
+python scripts/import_decks.py              # all .o8d files
+python scripts/import_decks.py decks/foo.o8d  # single file
 ```
 
-- Resolves card names via the local card database (run `sync_cards.py` first)
-- Generates `decks/<deck-slug>.md` alongside the `.o8d` source file
+### rename_to_title_case.py
+
+Renames all vault notes from slug format to display-name format and patches wikilinks.
+
+```bash
+python scripts/rename_to_title_case.py --dry-run  # preview
+python scripts/rename_to_title_case.py             # execute
+```
 
 ---
 
@@ -163,12 +218,16 @@ python scripts/import_decks.py decks/thercoonedeck-1.0.o8d
 Base URL: `https://ringsdb.com/api/`
 
 Key endpoints:
-- `GET /api/public/cards/` — all player cards (large JSON array)
-- `GET /api/public/card/<code>/` — single card by code
+- `GET /api/public/cards/` — all player cards
+- `GET /api/public/card/<code>/` — single card
 - `GET /api/public/packs/` — all adventure packs
-- `GET /api/public/cycles/` — all cycles
+- `GET /api/public/decklist/<id>/` — a public decklist (full card list, stats, description)
+- `GET /api/public/decklists/by_date/<date>/` — decklists published on a date
+- `GET /api/public/scenario/<id>/` — scenario encounter stats (Easy/Normal/Nightmare)
 
-The API returns JSON. No authentication required for public data. Be respectful: cache responses locally and avoid hammering the API. Scripts should store raw API responses in `scripts/cache/` and only re-fetch when stale.
+Hall of Fame (top-voted decks): `https://ringsdb.com/decklists/halloffame`
+
+Scripts cache API responses in `scripts/cache/`. Pass `--force` to re-fetch.
 
 ---
 
@@ -183,8 +242,8 @@ The API returns JSON. No authentication required for public data. Be respectful:
 
 ## Conventions
 
-- All generated files include a comment at the top: `<!-- generated by scripts/sync_cards.py — do not edit manually -->`
-- Hand-edited files (strategy notes, deck notes with personal commentary) should NOT have that comment
+- Generated files include a comment at the top: `<!-- generated by scripts/... — do not edit manually -->`
+- Hand-edited files (strategy notes, personal deck commentary) should NOT have that comment
 - Sphere names always capitalized: `Leadership`, `Tactics`, `Spirit`, `Lore`, `Neutral`
 - Card types always title-cased: `Hero`, `Ally`, `Attachment`, `Event`
-- Deck names come from the `.o8d` filename, slugified
+- Icon placeholders in card text: `[attack]` → `ATK`, `[willpower]` → `WP`, `[defense]` → `DEF`

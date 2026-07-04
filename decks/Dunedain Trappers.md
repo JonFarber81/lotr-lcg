@@ -20,7 +20,7 @@ tags: [deck, the-land-of-shadow]
 # Dunedain Trappers
 
 > [!abstract] Starting Threat: **31** · The Land of Shadow · v1.0
-> **Heroes:** [[aragorn-lore|Aragorn]]  ·  [[Amarthiúl]]  ·  [[Damrod]]
+> **Heroes:** [[Aragorn (Lore)|Aragorn]]  ·  [[Amarthiúl]]  ·  [[Damrod]]
 > **Spheres:** Lore · Leadership
 > ⭐ 398 votes  ·  ❤️ 324 favorites  ·  💬 22 comments
 
@@ -33,7 +33,7 @@ tags: [deck, the-land-of-shadow]
 ### Heroes (3)
 
 - 1x [[Amarthiúl]] _(Leadership)_
-- 1x [[aragorn-lore|Aragorn]] _(Lore)_
+- 1x [[Aragorn (Lore)|Aragorn]] _(Lore)_
 - 1x [[Damrod]] _(Lore)_
 
 ### Allies (20)

@@ -20,7 +20,7 @@ tags: [deck, the-land-of-shadow]
 # Sting Like A Bee
 
 > [!abstract] Starting Threat: **20** · The Land of Shadow · v1.0
-> **Heroes:** [[Sam Gamgee]]  ·  [[merry-tactics|Merry]]  ·  [[pippin-lore|Pippin]]
+> **Heroes:** [[Sam Gamgee]]  ·  [[Merry (Tactics)|Merry]]  ·  [[Pippin (Lore)|Pippin]]
 > **Spheres:** Leadership · Tactics · Lore
 > ⭐ 467 votes  ·  ❤️ 367 favorites  ·  💬 17 comments
 
@@ -32,8 +32,8 @@ tags: [deck, the-land-of-shadow]
 
 ### Heroes (3)
 
-- 1x [[merry-tactics|Merry]] _(Tactics)_
-- 1x [[pippin-lore|Pippin]] _(Lore)_
+- 1x [[Merry (Tactics)|Merry]] _(Tactics)_
+- 1x [[Pippin (Lore)|Pippin]] _(Lore)_
 - 1x [[Sam Gamgee]] _(Leadership)_
 
 ### Allies (20)

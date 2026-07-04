@@ -20,7 +20,7 @@ tags: [deck, the-mumakil]
 # The One Deck
 
 > [!abstract] Starting Threat: **31** · The Mûmakil · v1.0
-> **Heroes:** [[Elrond]]  ·  [[Arwen Undómiel]]  ·  [[eowyn-tactics|Éowyn]]
+> **Heroes:** [[Elrond]]  ·  [[Arwen Undómiel]]  ·  [[Éowyn (Tactics)|Éowyn]]
 > **Spheres:** Lore · Spirit · Tactics
 > ⭐ 1035 votes  ·  ❤️ 819 favorites  ·  💬 160 comments
 
@@ -34,7 +34,7 @@ tags: [deck, the-mumakil]
 
 - 1x [[Arwen Undómiel]] _(Spirit)_
 - 1x [[Elrond]] _(Lore)_
-- 1x [[eowyn-tactics|Éowyn]] _(Tactics)_
+- 1x [[Éowyn (Tactics)|Éowyn]] _(Tactics)_
 
 ### Allies (34)
 
@@ -110,7 +110,7 @@ This Vilya deck in particular stands out for 5 reasons:
 
 3. A focus on flexibility. Many quests in this game feature a "gimmick" that you need to counter, so this deck uses a tool-box type approach. Rather than filling the deck with the absolute beefiest allies in terms of raw stats, there are some cards here that are meant to counter certain encounter decks. For example, most of the time threating out is not a problem, and turning up a [[Knight of the White Tower]] with Vilya would be a lot more useful than [[The Galadhrim's Greeting]]. However, in those quests where threat is the main enemy, the Greeting is essential.
 
-4. Combat ready on turn 1. Many Vilya decks take a turtling approach, hoping to avoid combat for several turns while their board state comes together. This does not work against the more punishing nightmare quests. Thanks to [[eowyn-tactics|Éowyn]], this Vilya deck can have a very aggressive start, and get over whatever initial hurdle the encounter deck has set up to give itself some breathing room to set up. In theory, this deck could handle a 6 <span class="icon-attack"></span> and 4 <span class="icon-attack"></span> enemy that start the game engaged with you by questing no one, defending with [[Elrond]] and [[Arwen Undómiel]], and killing both enemies with [[eowyn-spirit|Éowyn]]. 
+4. Combat ready on turn 1. Many Vilya decks take a turtling approach, hoping to avoid combat for several turns while their board state comes together. This does not work against the more punishing nightmare quests. Thanks to [[Éowyn (Tactics)|Éowyn]], this Vilya deck can have a very aggressive start, and get over whatever initial hurdle the encounter deck has set up to give itself some breathing room to set up. In theory, this deck could handle a 6 <span class="icon-attack"></span> and 4 <span class="icon-attack"></span> enemy that start the game engaged with you by questing no one, defending with [[Elrond]] and [[Arwen Undómiel]], and killing both enemies with [[Éowyn (Spirit)|Éowyn]]. 
 
 5. Questing ready on turn 1. If aggressive questing is needed, you can go all-in for 10 <span class="icon-willpower"></span>. So with just the three heroes this deck can handle quests that start with either aggressive combat or aggressive questing. Not many hero lineups have this kind of initial flexibility.
 
@@ -249,7 +249,7 @@ Occasionally (more often that you might expect), you will start with both Vilya 
 
 Another fantastic start is [[Vilya]]+[[Unexpected Courage]], because right from turn 1 Vilya will feel like i doesn't even cost anything.
 
-[[eowyn-tactics|Éowyn]] can be considered an early-game card as well. Her ability is extremely useful in making up for the tempo hit you take from spending the first couple turn looking for Vilya. The deck really isn't able to kill anything in the first few turns without her, so she is incredibly powerful against those quests (of which there are several) where the main problem is the starting enemy. So while I try to avoid using her if I don't have to, if I can see that after triggering her I'll be able to avoid combat for a couple rounds, it's normally worth it because by then Vilya will have won the game for me.
+[[Éowyn (Tactics)|Éowyn]] can be considered an early-game card as well. Her ability is extremely useful in making up for the tempo hit you take from spending the first couple turn looking for Vilya. The deck really isn't able to kill anything in the first few turns without her, so she is incredibly powerful against those quests (of which there are several) where the main problem is the starting enemy. So while I try to avoid using her if I don't have to, if I can see that after triggering her I'll be able to avoid combat for a couple rounds, it's normally worth it because by then Vilya will have won the game for me.
 
 ### Mid game
 
@@ -257,7 +257,7 @@ By now you have Vilya and Stargazer up and running, and should be pumping out a 
 
 ### Late Game
 
-With an army of huge allies, late game should be relatively simple. If you haven't used [[eowyn-tactics|Éowyn]] yet, she can often be useful here to kill the big enemy or enemies that come out at the very end of the game.
+With an army of huge allies, late game should be relatively simple. If you haven't used [[Éowyn (Tactics)|Éowyn]] yet, she can often be useful here to kill the big enemy or enemies that come out at the very end of the game.
 
 ## 4. The Cards
 
@@ -271,7 +271,7 @@ Not just a Vilya machine in the deck. His impressive stats do get used once you 
 
 The other aspect that makes Elrond a great hero in this deck is of course his ability to pay for allies of any sphere. With [[Arwen Undómiel]] discarding and [[Steward of Gondor]], he can play a big ally directly from your hand every turn.
 
-### <span class="icon-tactics"></span> [[eowyn-tactics|Éowyn]]
+### <span class="icon-tactics"></span> [[Éowyn (Tactics)|Éowyn]]
 
 Eowyn's low starting threat helps counteract the threat from Elrond, and her 4 <span class="icon-willpower"></span> helps offset the loss of Elrond's action early in the game by allowing you to quest for 7 with Arwen while Elrond uses Vilya to get out a defender.
 

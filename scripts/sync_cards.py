@@ -279,16 +279,21 @@ def card_to_markdown(card: dict) -> str:
     return GENERATED_COMMENT + build_front_matter(card) + "\n\n" + build_card_body(card)
 
 
+SAFE_NAME_RE = re.compile(r'[<>:"/\\|?*]')
+
+def safe_filename(name: str) -> str:
+    return SAFE_NAME_RE.sub("", name).strip()
+
 def output_path(card: dict, hero_names_with_duplicates: set) -> Path:
     type_code = card.get("type_code", "ally")
     subdir = TYPE_DIRS.get(type_code, "allies")
     name = card.get("name", "unknown")
-    # Heroes can have multiple versions (different spheres) — disambiguate by sphere
+    # Heroes with multiple sphere versions — disambiguate as "Name (Sphere)"
     if type_code == "hero" and name in hero_names_with_duplicates:
-        sphere = card.get("sphere_code", "neutral")
-        filename = slugify(f"{name}-{sphere}") + ".md"
+        sphere = card.get("sphere_name", "Neutral")
+        filename = safe_filename(f"{name} ({sphere})") + ".md"
     else:
-        filename = slugify(name) + ".md"
+        filename = safe_filename(name) + ".md"
     return CARDS_DIR / subdir / filename
 
 

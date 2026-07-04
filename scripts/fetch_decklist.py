@@ -52,8 +52,8 @@ def find_duplicate_hero_names(card_index: dict) -> set:
 def hero_wikilink(card: dict, dup_heroes: set) -> str:
     name = card["name"]
     if name in dup_heroes:
-        slug = slugify(f"{name}-{card['sphere_code']}")
-        return f"[[{slug}|{name}]]"
+        sphere = card.get("sphere_name", "Neutral")
+        return f"[[{name} ({sphere})|{name}]]"
     return f"[[{name}]]"
 
 
@@ -242,8 +242,8 @@ def main():
     deck = fetch_decklist(deck_id)
     content = build_deck_note(deck, card_index, dup_heroes)
 
-    filename = slugify(deck["name"]) + ".md"
-    out_path = DECKS_DIR / filename
+    safe_name = re.sub(r'[<>:"/\\|?*]', "", deck["name"]).strip()
+    out_path = DECKS_DIR / (safe_name + ".md")
     out_path.write_text(content)
     print(f"Written: {out_path}")
 

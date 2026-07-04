@@ -20,7 +20,7 @@ tags: [deck, core-set]
 # Seastan's Single Core Set Solo
 
 > [!abstract] Starting Threat: **27** · Core Set · v2.0
-> **Heroes:** [[Théodred]]  ·  [[eowyn-spirit|Éowyn]]  ·  [[Beravor]]
+> **Heroes:** [[Théodred]]  ·  [[Éowyn (Spirit)|Éowyn]]  ·  [[Beravor]]
 > **Spheres:** Leadership · Spirit · Lore
 > ⭐ 839 votes  ·  ❤️ 670 favorites  ·  💬 51 comments
 
@@ -34,7 +34,7 @@ tags: [deck, core-set]
 
 - 1x [[Beravor]] _(Lore)_
 - 1x [[Théodred]] _(Leadership)_
-- 1x [[eowyn-spirit|Éowyn]] _(Spirit)_
+- 1x [[Éowyn (Spirit)|Éowyn]] _(Spirit)_
 
 ### Allies (25)
 
@@ -80,17 +80,17 @@ This is the deck I use to play through the Core Set and the Mirkwood cycle. With
 
 Here are some basic points on gameplay strategy:
 
-1. Cards: Try to quest with [[Théodred]] and [[eowyn-spirit|Éowyn]] and use [[Beravor]] to draw every turn. Drawing extra cards each round is one of the biggest keys to success at this game. I will often sacrifice allies rather than defend with Beravor just so I can draw.
+1. Cards: Try to quest with [[Théodred]] and [[Éowyn (Spirit)|Éowyn]] and use [[Beravor]] to draw every turn. Drawing extra cards each round is one of the biggest keys to success at this game. I will often sacrifice allies rather than defend with Beravor just so I can draw.
 
 2. Resources: Steward of Gondor goes on Eowyn. This allows her to quickly afford expensive cards like [[Northern Tracker]] and [[The Galadhrim's Greeting]]. [[Théodred]]'s resource should go on the hero that is going to need it next round. Once [[Beravor]] gets [[Unexpected Courage]], she can both quest and draw each turn, and becomes eligible for [[Théodred]]'s resource.
 
-3. Although you don't have a tactics hero, you can play [[Beorn]] by discarding him to [[eowyn-spirit|Éowyn]] and bringing him into play with [[Stand and Fight]].
+3. Although you don't have a tactics hero, you can play [[Beorn]] by discarding him to [[Éowyn (Spirit)|Éowyn]] and bringing him into play with [[Stand and Fight]].
 
 4. You can play [[Sneak Attack]] and [[Gandalf]] to play him for cheap, and if you do it during the combat phase, you can pair it with [[Ever Vigilant]] to use Gandalf for both defending and attacking. Or you can trigger [[Beorn]]'s effect and use [[Ever Vigilant]] to make use of his 8 attack twice before he leaves play.
 
 4. Wait until the end of the combat phase before using exhaust abilities like [[Beravor]] or [[Henamarth Riversong]]. This is because you may get hit by a Necromancer's Reach during questing, or an enemy you didn't expect may show up that you need to defend. It is handy to have those characters ready.
 
-5. One neat trick: If you turn up The Brown Lands while questing, you can discard a [[Snowbourn Scout]] to [[eowyn-spirit|Éowyn]], then bring him into play with [[Stand and Fight]] and place a progress on the location to clear it from play before resolving the quest.
+5. One neat trick: If you turn up The Brown Lands while questing, you can discard a [[Snowbourn Scout]] to [[Éowyn (Spirit)|Éowyn]], then bring him into play with [[Stand and Fight]] and place a progress on the location to clear it from play before resolving the quest.
 
 ### Journey Along the Anduin ### 
 

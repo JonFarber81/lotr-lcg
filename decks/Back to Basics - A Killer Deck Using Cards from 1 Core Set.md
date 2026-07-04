@@ -20,7 +20,7 @@ tags: [deck, core-set]
 # Back to Basics - A Killer Deck Using Cards from 1 Core Set
 
 > [!abstract] Starting Threat: **27** · Core Set · v1.0
-> **Heroes:** [[Théodred]]  ·  [[eowyn-spirit|Éowyn]]  ·  [[Beravor]]
+> **Heroes:** [[Théodred]]  ·  [[Éowyn (Spirit)|Éowyn]]  ·  [[Beravor]]
 > **Spheres:** Leadership · Spirit · Lore
 > ⭐ 1381 votes  ·  ❤️ 1006 favorites  ·  💬 82 comments
 
@@ -34,7 +34,7 @@ tags: [deck, core-set]
 
 - 1x [[Beravor]] _(Lore)_
 - 1x [[Théodred]] _(Leadership)_
-- 1x [[eowyn-spirit|Éowyn]] _(Spirit)_
+- 1x [[Éowyn (Spirit)|Éowyn]] _(Spirit)_
 
 ### Allies (21)
 
@@ -83,13 +83,13 @@ tags: [deck, core-set]
 
 * Keep in mind that, due to one of the most nonsensical rulings in the history of card games, [[Stand and Fight]] does NOT work with [[Gandalf]], since he does not belong to "any" sphere. (Seriously... that "hero can be any sphere" is supposed to be clarification text, not a rules override.) However, you can use S&F to bring #beorn](/card/01031) into play, and that's why Beorn's in the deck. Alternatively,kyou can [[Sneak Attack]] #beorn](/card/01031) in for an 8-strength attack, though generally Sneak is best saved for Gandalf. Note that you can pitch Beorn to Eowyn's special ability to get him into your discard pile.
 
-* Speaking of [[eowyn-spirit|Éowyn]]'s ability, a nice little card-conserving combo is to pitch an attachment to her ability if you've got [[Erebor Hammersmith]] in hand. Then next turn you can play the Hammersmith and get that attachment back.
+* Speaking of [[Éowyn (Spirit)|Éowyn]]'s ability, a nice little card-conserving combo is to pitch an attachment to her ability if you've got [[Erebor Hammersmith]] in hand. Then next turn you can play the Hammersmith and get that attachment back.
 
 * [[Henamarth Riversong]] is the MVP of this deck when playing pure solo. But resist the temptation to exhaust him the moment he comes into play. Instead, wait until after the combat phase. Then you can get a sneak peek at next turn's encounter card without risking any ill effects. If you exhaust Henamarth at the start of the turn, the encounter card could be something that damages exhausted characters and then Henamarth would be toast. On rare occasions, I've used Henamarth to peek at the top card before dealing a shadow card, to know if I can take an attack undefended or not. But usually I save him for the end of the turn (before the refresh phase) so I can have perfect information (barring a surge or guarded card) for the next encounter phase.
 
 * [[Steward of Gondor]] will usually go on Eowyn, since the more expensive cards in this deck are the Spirit ones. However, I have played it on Theodred if I have Faramir and several other leadership cards in my opening hand. In that case, you need to be sure to always quest with Theodred and Eowyn and give the resource to Eowyn so she can build up her pool.
 
-* In most quests, on the first turn you'll quest with [[Théodred]] and [[eowyn-spirit|Éowyn]] (giving the resource to Eowyn unless you have Steward of Gondor in hand), leaving [[Beravor]] back to defend or attack if need be. Then if you don't need Beravor for combat, you can (and should) exhaust her to draw two cards.
+* In most quests, on the first turn you'll quest with [[Théodred]] and [[Éowyn (Spirit)|Éowyn]] (giving the resource to Eowyn unless you have Steward of Gondor in hand), leaving [[Beravor]] back to defend or attack if need be. Then if you don't need Beravor for combat, you can (and should) exhaust her to draw two cards.
 
 * [[Unexpected Courage]] goes on Beravor, always. With the errata you can only use her ability to draw cards once per turn, but that's fine. The Unexpected Courage allows you to also use her to quest (useful if you need her to grab an extra resource from Theodred) or in combat.
 

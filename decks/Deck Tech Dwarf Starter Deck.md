@@ -20,7 +20,7 @@ tags: [deck, khazad-dum]
 # Deck Tech: Dwarf Starter Deck
 
 > [!abstract] Starting Threat: **29** · Khazad-dûm · v1.0
-> **Heroes:** [[gimli-tactics|Gimli]]  ·  [[dain-ironfoot-leadership|Dáin Ironfoot]]  ·  [[Bifur]]
+> **Heroes:** [[Gimli (Tactics)|Gimli]]  ·  [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]]  ·  [[Bifur]]
 > **Spheres:** Tactics · Leadership · Lore
 > ⭐ 319 votes  ·  ❤️ 249 favorites  ·  💬 2 comments
 
@@ -33,8 +33,8 @@ tags: [deck, khazad-dum]
 ### Heroes (3)
 
 - 1x [[Bifur]] _(Lore)_
-- 1x [[dain-ironfoot-leadership|Dáin Ironfoot]] _(Leadership)_
-- 1x [[gimli-tactics|Gimli]] _(Tactics)_
+- 1x [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] _(Leadership)_
+- 1x [[Gimli (Tactics)|Gimli]] _(Tactics)_
 
 ### Allies (24)
 
@@ -75,7 +75,7 @@ tags: [deck, khazad-dum]
 
 Hey all, welcome to week 29 of Deck Tech! I skipped last week to recover from vacation (turns out sleep is pretty nice), but before that I posted a Hobbit Starter Deck built with a few Shadows of Mirkwood cycle staples and The Black Riders.
 
-This week we're reducing the buy in again for another starter deck. One deluxe expansion, one core set, and one adventure pack. And the deck starts out in a surprisingly good spot for that, because [[dain-ironfoot-leadership|Dáin Ironfoot]] just makes dwarf allies very efficient.
+This week we're reducing the buy in again for another starter deck. One deluxe expansion, one core set, and one adventure pack. And the deck starts out in a surprisingly good spot for that, because [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] just makes dwarf allies very efficient.
 
 **The Rules:**
 
@@ -88,11 +88,11 @@ One more time, all of the starter decks are going to be built and posted with th
 
 **How to Play:**
 
-Dwarves are a classic archetype in the game, and for good reason. The early dwarves have great stats and useful abilities, like [[Erebor Hammersmith]] and [[Miner of the Iron Hills]]. And [[dain-ironfoot-leadership|Dáin Ironfoot]] turns any group of dwarves into a formidable questing and attacking threat.
+Dwarves are a classic archetype in the game, and for good reason. The early dwarves have great stats and useful abilities, like [[Erebor Hammersmith]] and [[Miner of the Iron Hills]]. And [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] turns any group of dwarves into a formidable questing and attacking threat.
 
-[[dain-ironfoot-leadership|Dáin Ironfoot]] in this deck is your centerpiece. He stands and waits during the quest phase to give out his global boost, and then may defend during combat to keep your army alive. The attack boost is usually less important than the willpower boost.
+[[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] in this deck is your centerpiece. He stands and waits during the quest phase to give out his global boost, and then may defend during combat to keep your army alive. The attack boost is usually less important than the willpower boost.
 
-[[gimli-tactics|Gimli]] is an early defender or quester, because he has great stats for the first round with Dain on the table. In a lot of quests, he can pretty safely take an undefended attack in the first few rounds to boost up his attack, though it doesn't work in all cases.
+[[Gimli (Tactics)|Gimli]] is an early defender or quester, because he has great stats for the first round with Dain on the table. In a lot of quests, he can pretty safely take an undefended attack in the first few rounds to boost up his attack, though it doesn't work in all cases.
 
 And last, but definitely not least, [[Bifur]] is a huge source of resource fixing for the deck. A ton of great allies are in lore, and being able to pass resources to him helps get them out quickly. If you get [[Steward of Gondor]] in play, you can also trivially spread the resources around between two of your spheres. This can be especially handy when your pool is small because of the limited access to Songs and A Good Harvest.
 
@@ -125,7 +125,7 @@ Final score: 147. 10 full rounds, 48 threat, 3 damage on heroes, 4 vp.
 **Play Tips:**
 
 1. [[Sneak Attack]] and [[Valiant Sacrifice]] help you turn two leadership resources into two new cards. And if you include [[Gandalf]], you get even more draw or another bit of utility.
-1. [[Durin's Song]] is a great emergency button when [[dain-ironfoot-leadership|Dáin Ironfoot]] is defending. This deck has almost all the healing that's available in these three sets, but it's still not a ton. And no spirit means no shadow canceling for a while.
+1. [[Durin's Song]] is a great emergency button when [[Dáin Ironfoot (Leadership)|Dáin Ironfoot]] is defending. This deck has almost all the healing that's available in these three sets, but it's still not a ton. And no spirit means no shadow canceling for a while.
 1. [[Lórien's Wealth]] is easier to pay for with [[Bifur]] than you think, because he can easily get 4 resources in two rounds.
 1. [[Steward of Gondor]] on Gimli, passing a resource to [[Bifur]] every round is probably what you want for this deck. Unless you've drawn way too many of your leadership cards.
 1. I wouldn't worry about maximizing the abilities of the dwarf allies as they come into play. If you can take advantage of them, it's great. But the stats are good enough to play them without it in most cases.
@@ -143,7 +143,7 @@ Final score: 147. 10 full rounds, 48 threat, 3 damage on heroes, 4 vp.
 1. [[King Under the Mountain]]
 1. 3 [[Fili]] and 1 [[Kili]]
 
-**Next week:** I think I'm heading back to full decks. [[prince-imrahil-tactics|Prince Imrahil]] is calling! And it's going to be great.
+**Next week:** I think I'm heading back to full decks. [[Prince Imrahil (Tactics)|Prince Imrahil]] is calling! And it's going to be great.
 
 **Blog:** Look for a community spotlight most Thursdays on the [blog](http://lotrdecktech.com), and it has an [RSS feed](http://www.lotrdecktech.com/feeds/posts/default) if that's your thing.
 

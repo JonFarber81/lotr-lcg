@@ -20,7 +20,7 @@ tags: [deck, celebrimbor-s-secret]
 # Seastan's Boromir
 
 > [!abstract] Starting Threat: **25** · Celebrimbor's Secret · v1.0
-> **Heroes:** [[boromir-tactics|Boromir]]  ·  [[glorfindel-spirit|Glorfindel]]  ·  [[Galadriel]]
+> **Heroes:** [[Boromir (Tactics)|Boromir]]  ·  [[Glorfindel (Spirit)|Glorfindel]]  ·  [[Galadriel]]
 > **Spheres:** Tactics · Spirit
 > ⭐ 574 votes  ·  ❤️ 453 favorites  ·  💬 83 comments
 
@@ -32,9 +32,9 @@ tags: [deck, celebrimbor-s-secret]
 
 ### Heroes (3)
 
-- 1x [[boromir-tactics|Boromir]] _(Tactics)_
+- 1x [[Boromir (Tactics)|Boromir]] _(Tactics)_
 - 1x [[Galadriel]] _(Spirit)_
-- 1x [[glorfindel-spirit|Glorfindel]] _(Spirit)_
+- 1x [[Glorfindel (Spirit)|Glorfindel]] _(Spirit)_
 
 ### Allies (9)
 
